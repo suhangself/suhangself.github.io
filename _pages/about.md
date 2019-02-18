@@ -14,6 +14,6 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 Recent News
 ======
 * Febrary 11, 2019. One postdoc position on "Learning for Self-healing of Multi-Machine Systems" is open soon.
-* Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/)
-* Januray 24, 2019. One paper on Neural Architecture Search submitted to ICML 2019
+* Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
+* Januray 24, 2019. One paper on Neural Architecture Search submitted to ICML 2019.
 * December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019.
