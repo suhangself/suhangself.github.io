@@ -35,5 +35,5 @@ Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
 
 <b>[Robust H∞ Feedback Control for Uncertain Stochastic Delayed Genetic Regulatory Networks with Additive and Multiplicative Noise](http://onlinelibrary.wiley.com/doi/10.1002/rnc.1571/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false)</b><br>
 <b>Wei Pan</b>, Zidong Wang, Huijun Gao, et.al.<br>
-<i>International Journal of Robust and Nonlinear Control.</i> <b>2011</b>.
+<i>International Journal of Robust and Nonlinear Control.</i> <b>2010</b>.
 
