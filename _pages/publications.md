@@ -15,13 +15,14 @@ author_profile: true
 Ying Wen, Yaodong Yang, Rui Luo, Jun Wang and <b>Wei Pan</b>.<br>
 <i>International Conference on Learning Represnetation.</i> <b>ICLR 2019</b>.
 
+
+<b>[Identification of Nonlinear State-Space Systems from Heterogeneous Datasets](https://ieeexplore.ieee.org/document/8055630)</b><br>
+<b>Wei Pan</b>, Ye Yuan, Lennart Ljung, Jorge Goncalves, and Guy-Bart Stan.<br>
+<i>IEEE Transactions on Control of Network Systems.</i> <b>2018</b>.
+
 <b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
 Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
 <i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
-
-<b>[Identification of Nonlinear State-Space Systems from Heterogeneous Datasets](https://ieeexplore.ieee.org/document/8055630)</b><br>
-<b>Wei Pan</b>, Ye Yuan, Lennart Ljung, Jorge Goncalves, and Guy-Bart Stan..<br>
-<i>IEEE Transactions on Control of Network Systems.</i> <b>2017</b>.
 
 <b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
 <b>Wei Pan</b>, Ye Yuan, Jorge Goncalves, and Guy-Bart Stan.<br>
