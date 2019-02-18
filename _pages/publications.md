@@ -1,19 +1,8 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## PhD Thesis
 <b>[Bayesian Learning for Nonlinear System Identification](http://panweihit.github.io/publications/thesis)</b><br>
