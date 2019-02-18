@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Pan / Wei Pan"
+title                    : "Wei Pan"
 title_separator          : "-"
 name                     : &name "Wei Pan"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Wei Pan"
   avatar           : "weipan.jpeg"
-  bio              : "Asisstant Professor at TU Delft"
+  bio              : "Asisstant Professor . TU Delft"
   location         : "Delft, Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en"
-  email            :
+  email            : "wei.pan@tudelft.nl"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/panweihit"
+  github           : "panweihit"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1121-9879"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
