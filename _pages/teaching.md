@@ -4,12 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Current Teaching
-======
+
+## Current Teaching
 
 
-Past Teaching
-======
+
+## Past Teaching
+
 * Biochemistry, University of Science and Technology of China, Autumn, 2010
 * Modelling in Biology, Imperial College London, Autumn, 2011, 2012, 2013
 * Mathematics I, Imperial College London, Autumn, 2013
