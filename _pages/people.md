@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /people/
+title: "People"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /group
 ---
 
 ## Locations of key files/directories
