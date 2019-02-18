@@ -10,8 +10,8 @@ author_profile: true
 
 ## PhD Collaborators
 
-* Minghao Han, (Harbin Institute of Techonology, Supervisor: [Prof. Lixian Zhang](http://homepage.hit.edu.cn/lixianzhang))
-* Baozhou Zhu, (CS, Superviosr: [Dr. Zaid Al-Ars](www.ce.ewi.tudelft.nl/zaid/))
+* Minghao Han, (HIT, Supervisor: [Prof. Lixian Zhang](http://homepage.hit.edu.cn/lixianzhang))
+* Baozhou Zhu, (CS TUD, Superviosr: [Dr. Zaid Al-Ars](www.ce.ewi.tudelft.nl/zaid/))
 
 ## Master Students
  
