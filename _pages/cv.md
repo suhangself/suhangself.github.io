@@ -16,7 +16,7 @@ Education
 * M.S. in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
   * Supervisor: Prof. Huanqing Feng and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
 * Ph.D in [Bioengineering](http://www.imperial.ac.uk/bioengineering), [Imperial College London](https://www.imperial.ac.uk/), 2017
-  * Supervisor: [Dr Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
+  * Supervisor: [Dr. Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
 
 Work experience
 ======
