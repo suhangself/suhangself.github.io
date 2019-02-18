@@ -1,7 +1,7 @@
 ---
 title: "PhD thesis"
 collection: publications
-permalink: /publication/thesis
+permalink: /publications/thesis
 date: 2017-03-15
 venue: 'Journal 1'
 paperurl: 'http://panweihit.github.io/files/thesis.pdf'
