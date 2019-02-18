@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Wei Pan"
   avatar           : "weipan.jpeg"
-  bio              : "Asisstant Professor . TU Delft"
+  bio              : "Asisstant Professor - Department of Cognitive Robotics - TU Delft"
   location         : "Delft, Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en"
@@ -175,9 +175,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
