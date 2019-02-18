@@ -1,20 +1,6 @@
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Biochemistry, University of Science and Technology of China, Autumn, 2010
+* Modelling in Biology, Imperial College London, Autumn, 2011, 2012, 2013
+* Mathematics I, Imperial College London, Autumn, 2013
+* Mathematics II, Imperial College London, Autumn, 2013, Spring, 2014
+* MSc Business Analytics: Advanced Analytics and Machine Learning, Imperial College Business School, Spring, 2016
+* Tsinghua EMBA Short Course, Summer, 2016
