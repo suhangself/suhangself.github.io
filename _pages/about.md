@@ -17,4 +17,4 @@ Recent News
 * Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
 * Januray 24, 2019. One paper on Neural Architecture Search submitted to ICML 2019.
 * December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019.
-* May 1, 2018. Join Department of Cognitive Robotics, TU Delft. Thanks the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
+* May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
