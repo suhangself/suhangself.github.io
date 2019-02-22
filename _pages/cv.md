@@ -36,3 +36,4 @@ Awards
 * Microsoft PhD Scholarship, Microsoft Research, 2011-2015
 * Dorothy Hodgkin Postgraduate Award, EPSRC, 2011-2015
 * Department of Bioengineering Industrial PhD Studentship, Imperial College London, 2011-2015
+* Gold Medals, [International Genetically Engineered Machine Competition (iGEM)](https://igem.org/Main_Page), 2009 and 2010 
