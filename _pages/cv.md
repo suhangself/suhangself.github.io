@@ -25,9 +25,10 @@ Work experience
   * Machine learning research for DJI drones and AI accelerator
 * 2015: Quant
   * [Cardwell Investment](http://c-i-technologies.com/), London, UK
-  * Futures trading strategy research
+  * Futures trading strategy
 * 2014: Data Scientist
   * [Activesecurities](https://activesecurities.com/), London, UK
+  * Fraud detection
 
 Awards
 ======
