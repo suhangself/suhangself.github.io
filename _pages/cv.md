@@ -20,13 +20,13 @@ Education
 
 Work experience
 ======
-* 2016-2018: Project Leader
+* Project Leader, 2016-2018
   * [DJI](https://www.dji.com/), Shenzhen, China
   * Machine learning research for DJI drones and AI accelerator
-* 2015: Quant
+* Quant, 2015
   * [Cardwell Investment](http://c-i-technologies.com/), London, UK
   * Futures trading strategy
-* 2014: Data Scientist
+* Data Scientist, 2014
   * [Activesecurities](https://activesecurities.com/), London, UK
   * Fraud detection
 
