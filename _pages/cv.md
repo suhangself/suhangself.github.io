@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
-  * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)
-* M.S. in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
-  * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
 * Ph.D in [Bioengineering](http://www.imperial.ac.uk/bioengineering), [Imperial College London](https://www.imperial.ac.uk/), 2017
   * Supervisor: [Dr. Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
+* M.S. in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
+  * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
+* B.S. in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
+  * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
 
 Work experience
 ======
