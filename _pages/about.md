@@ -13,6 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
+* March 15, 2019. One paper on Policy Network Compression (Controller Reduction) submitted. 
 * Febrary 24, 2019. One paper on Binary Convolutional Neural Network submitted. 
 * Febrary 11, 2019. One postdoc position on "Learning for Self-healing of Multi-Machine Systems" is open, [apply here](https://www.academictransfer.com/nl/53268/postdoc-learning-for-self-healing-of-multi-machine-systems/)
 * Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
