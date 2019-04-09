@@ -13,6 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
+* April 1, 2019. Talk at Huawei Noah's Ark Lab, London, UK.
 * March 15, 2019. One paper on Policy Network Compression (Controller Reduction) submitted. 
 * Febrary 24, 2019. One paper on Binary Convolutional Neural Network submitted. 
 * Febrary 11, 2019. <span style="color:red">**Postdoc position openning**</span> on "Learning for Self-healing of Multi-Machine Systems", [apply here](https://www.academictransfer.com/nl/53268/postdoc-learning-for-self-healing-of-multi-machine-systems/)
