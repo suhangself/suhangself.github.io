@@ -13,6 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
+* April 11, 2019. Hongpeng gave a talk on "Sparse Bayesian Deep Neural Networks for Nonlinear System Identification" at [Nonlinear System Identification Benchmarks](http://www.nonlinearbenchmark.org/)
 * April 1, 2019. Talk at Huawei Noah's Ark Lab, London, UK.
 * March 15, 2019. One paper on Policy Network Compression (Controller Reduction) submitted. 
 * Febrary 24, 2019. One paper on Binary Convolutional Neural Network submitted. 
