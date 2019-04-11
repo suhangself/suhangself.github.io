@@ -12,7 +12,7 @@ author_profile: true
 * DropNeuron: Simplifying the Structure of Deep Neural Networks, download the [paper](https://arxiv.org/abs/1606.07326).
 
 ## [Accurate Binary Convolutional Neural Network](https://github.com/panweihit/ABC-net)
-* Coming in March, 2019.
+* Coming in May, 2019.
 * Download the [paper](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network).
 
 
