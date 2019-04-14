@@ -22,7 +22,9 @@ author_profile: true
 * Robert Cornet
 * Sparsh Sharma
 * Arnoud Jonker
-* Mingxi Li (EECS)
-* Yizhou Wang (EECS)
+* Akshay Bhoraskar
+* Mingxi Li (EECS, with [Dr. Frans Oliehoek](https://www.fransoliehoek.net/wp/))
+* Yizhou Wang (EECS, with [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
+* Jijia Que (Civil, with [Prof. Hans van Lint](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/lint-jwc-van/))
 
  
