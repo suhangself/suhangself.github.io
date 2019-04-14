@@ -14,4 +14,15 @@ author_profile: true
 * [Baozhou Zhu](https://www.tudelft.nl/eemcs/the-faculty/departments/quantum-computer-engineering/accelerated-big-data-systems/staff/baozhou-zhu/), (CS TUD, Superviosr: [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
 
 ## Master Students
+* Yuan Tian
+* Minghao Yang
+* Julian von der Goltz
+* Tim Koning
+* Rick Staa
+* Robert Cornet
+* Sparsh Sharma
+* Arnoud Jonker
+* Mingxi Li (EECS)
+* Yizhou Wang (EECS)
+
  
