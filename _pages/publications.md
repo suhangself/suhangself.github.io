@@ -26,7 +26,7 @@ Ying Wen, Yaodong Yang, Rui Luo, Jun Wang and <b>Wei Pan</b>.<br>
 
 <b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
 Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
-<i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
+<i>Conference on Neural Information Processing Systems.</i> <b>NIPS 2017</b>.
 
 <b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
 <b>Wei Pan</b>, Ye Yuan, Jorge Goncalves, and Guy-Bart Stan.<br>
