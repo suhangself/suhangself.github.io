@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications
 
-<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](https://icml.cc/Conferences/2019/)</b><br>
+<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919)</b><br>
 Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning.</i> <b>ICML 2019</b>.
 
