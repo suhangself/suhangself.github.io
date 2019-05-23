@@ -20,7 +20,6 @@ author_profile: true
 * Tim Koning
 * Rick Staa
 * Robert Cornet
-* Sparsh Sharma
 * Arnoud Jonker
 * Akshay Bhoraskar
 * Mingxi Li (EECS, with [Dr. Frans Oliehoek](https://www.fransoliehoek.net/wp/))
