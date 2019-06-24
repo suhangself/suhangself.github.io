@@ -13,6 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
+* June 24, 2019. Yuan Tian is starting an internship in Huawei Noah Ark's Lab.
 * May 23, 2019. One paper on RL submitted.
 * May 17, 2019. Minghao Yang is starting an internship in Huawei Noah Ark's Lab.
 * April 22, 2019. Our paper ["BayesNAS: A Bayesian Approach for Neural Architecture Search"](https://arxiv.org/abs/1905.04919) accepted to [ICML 2019](https://icml.cc/Conferences/2019/)! Hongpeng also got the ICML Travel Award. Well done, Hongpeng and Minghao.
