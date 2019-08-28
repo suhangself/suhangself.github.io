@@ -12,7 +12,7 @@ author_profile: true
 ## Selected Publications
 <b>[Data Driven Discovery of Cyber Physical Systems](https://arxiv.org/abs/1810.00697)</b><br>
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Goncalves.<br>
-<i>arXiv.</i> <b>2019</b>.
+<b>arXiv:1810.00697, 2019</b>.
 
 <b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919)</b><br>
 Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
