@@ -3,6 +3,9 @@ permalink: /people/
 title: "People"
 author_profile: true
 ---
+## PostDoc
+
+* [Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN)
 
 ## PhD Candidates
 
