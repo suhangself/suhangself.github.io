@@ -13,7 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
-* September 12, 2019. [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN) from University of Toronto joined our group as a PoscDoc, co-supervised by Dr Vesso Reppa from Department of Maritime and Transport Technology. Welcome, Qingrui!
+* September 12, 2019. [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN) from University of Toronto joined our group as a PoscDoc, co-supervised by [Dr Vasso Reppa](https://www.tudelft.nl/en/3me/departments/maritime-and-transport-technology/people/transport-engineering-logistics/dr-v-reppa/) from Department of Maritime and Transport Technology. Welcome, Qingrui!
 * April 22, 2019. Our paper ["BayesNAS: A Bayesian Approach for Neural Architecture Search"](https://arxiv.org/abs/1905.04919) accepted to [ICML 2019](https://icml.cc/Conferences/2019/)! Hongpeng also got the ICML Travel Award. Well done, Hongpeng and Minghao.
 * April 11, 2019. Hongpeng gave a talk on "Sparse Bayesian Deep Neural Networks for Nonlinear System Identification" at [Nonlinear System Identification Benchmarks](http://www.nonlinearbenchmark.org/), Eindhoven.
 * April 1, 2019. Talk at Huawei Noah's Ark Lab, London, UK.
