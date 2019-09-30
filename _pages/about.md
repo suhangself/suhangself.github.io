@@ -13,7 +13,7 @@ My research goal is to build intelligent and trustworthy machines by unifying ma
 
 Recent News
 ======
-* September 27, 2019. <span style="color:red">**Two Postdoc positions openning**</span> on SLAM and Planning, sponsord by [TKI](https://www.hollandhightech.nl/) and [Ankobot](https://www.ankobot.com/). Application information is comming soon.
+* September 27, 2019. <span style="color:red">**Two Postdoc positions openning**</span> on SLAM and Planning, funded by [TKI](https://www.hollandhightech.nl/) and [Ankobot](https://www.ankobot.com/). Application information is comming soon.
 * September 12, 2019. [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN) from University of Toronto joined our group as a PostDoc, co-supervised by [Dr Vasso Reppa](https://www.tudelft.nl/en/3me/departments/maritime-and-transport-technology/people/transport-engineering-logistics/dr-v-reppa/) from Department of Maritime and Transport Technology. Welcome, Qingrui!
 * April 22, 2019. Our paper ["BayesNAS: A Bayesian Approach for Neural Architecture Search"](https://arxiv.org/abs/1905.04919) accepted to [ICML 2019](https://icml.cc/Conferences/2019/)! Hongpeng also got the ICML Travel Award. Well done, Hongpeng and Minghao.
 * April 11, 2019. Hongpeng gave a talk on "Sparse Bayesian Deep Neural Networks for Nonlinear System Identification" at [Nonlinear System Identification Benchmarks](http://www.nonlinearbenchmark.org/), Eindhoven.
