@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
 
-My research goal is to build intelligent and trustworthy machines by unifying machine learning and control theory, especially in stringent environment.
+My research goal is to establish a theoretical framework by unifying statistical machine learning and control theory, with applications in robotics and biology.
 
 Recent News
 ======
