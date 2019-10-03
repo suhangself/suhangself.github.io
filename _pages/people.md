@@ -26,10 +26,10 @@ author_profile: true
 * Jijia Que (Civil, with [Prof. Hans van Lint](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/lint-jwc-van/))
 
 ## Graduated Master Students
-* Yuan Tian (PhD Candidate at ETH Zürich)
-* Minghao Yang (Machine Learning Engineer at MapScape in Eindhoven)
-* Julian von der Goltz (Graduated with Cum Laude. Machine Learning Engineer at Mainblades Inspections in Hague)
-* Akshay Bhoraskar (Machine Learning Engineer at TNO in Hague)
+* Yuan Tian (PhD Candidate at ETH Zürich, Switzerland)
+* Minghao Yang (Machine Learning Engineer at MapScape in Eindhoven, Netherlands)
+* Julian von der Goltz (Graduated with Cum Laude. Machine Learning Engineer at Mainblades Inspections in Hague, Netherlands)
+* Akshay Bhoraskar (Machine Learning Engineer at TNO in Hague, Netherlands)
 * Mingxi Li (EECS, with [Dr. Frans Oliehoek](https://www.fransoliehoek.net/wp/))
 * Yizhou Wang (EECS, with [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
 
