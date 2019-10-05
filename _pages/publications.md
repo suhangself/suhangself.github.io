@@ -14,7 +14,7 @@ author_profile: true
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Goncalves.<br>
 <i>Nature Communications.</i> <b>2019</b>.
 
-<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](https://arxiv.org/abs/1905.04919)</b><br>
+<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
 Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning.</i> <b>ICML 2019</b>.
 
