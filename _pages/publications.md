@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications
 <b>[Data Driven Discovery of Cyber Physical Systems](https://arxiv.org/abs/1810.00697)</b><br>
-Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Goncalves.<br>
+Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Gonçalves.<br>
 <i>Nature Communications.</i> <b>2019</b>.
 
 <b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
@@ -28,7 +28,7 @@ Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
 <i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
 
 <b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
-<b>Wei Pan</b>, Ye Yuan, Jorge Goncalves, and Guy-Bart Stan.<br>
+<b>Wei Pan</b>, Ye Yuan, Gonçalves, and Guy-Bart Stan.<br>
 <i>IEEE Transaction on Automatic Control.</i> <b>2016</b>.
 
 
