@@ -10,7 +10,7 @@ author_profile: true
 <i>Imperial College London.</i> <b>2017</b>.
 
 ## Selected Publications
-<b>[Data Driven Discovery of Cyber Physical Systems](https://arxiv.org/abs/1810.00697)</b><br>
+<b>[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)</b><br>
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Gonçalves.<br>
 <i>Nature Communications.</i> <b>2019</b>.
 
