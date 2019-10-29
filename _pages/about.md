@@ -13,7 +13,7 @@ My research goal is to establish a statistical learning control framework by uni
 
 Recent News
 ======
-* October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
+* October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**[Nature Communications](https://www.nature.com/ncomms/)**</span>! 
 * October 2, 2019, Our paper "H∞ Model-free Reinforcement Learning with Robust Stability Guarantee" is accepted to [NeurIPS 2019 Workshop on Robot Learning](http://www.robot-learning.ml/2019/).
 * September 27, 2019. <span style="color:red">**Two Postdoc positions openning**</span> on SLAM and Planning, funded by [TKI](https://www.hollandhightech.nl/) and [Ankobot](https://www.ankobot.com/). Application information is comming soon.
 * September 12, 2019. [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN) from University of Toronto joined our group as a PostDoc, co-supervised by [Dr Vasso Reppa](https://www.tudelft.nl/en/3me/departments/maritime-and-transport-technology/people/transport-engineering-logistics/dr-v-reppa/) from Department of Maritime and Transport Technology. Welcome, Qingrui!
