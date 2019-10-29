@@ -18,7 +18,7 @@ Education
 * B.S in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
   * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
 
-Work experience
+Industry experience
 ======
 * Project Leader, 2016-2018
   * [DJI](https://www.dji.com/), Shenzhen, China
