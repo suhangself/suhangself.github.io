@@ -14,7 +14,7 @@ My research goal is to establish a statistical learning control framework by uni
 Recent News
 ======
 
-* Janurary 13, 2019, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/base/lang/lang/en.html). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
+* Janurary 13, 2019, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
 * October 22, 2019, Our paper "[Asynchronous Observer Design for Switched Linear Systems: A Tube-Based Approach](http://www.ieee-jas.org/article/id/c8b0468a-e4e3-4352-ad7c-ee5e1f75fafd?pageType=en)" is published in IEEE/CAA Journal of Automatica Sinica.
 * October 2, 2019, Our paper "[H∞ Model-free Reinforcement Learning with Robust Stability Guarantee](https://arxiv.org/abs/1911.02875)" is accepted to [NeurIPS 2019 Workshop on Robot Learning](http://www.robot-learning.ml/2019/).
