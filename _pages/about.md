@@ -11,7 +11,7 @@ I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot D
 
 My research goal is to establish a statistical learning control framework by unifying statistical machine learning and control theory, with applications in robotics. In particular, I am interested in statistical machine learning for system identification and control.
 
-Recent News
+Recent News 
 ======
 
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
