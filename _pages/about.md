@@ -13,7 +13,7 @@ My research goal is to establish a statistical learning control framework by uni
 
 Recent News 
 ======
-* Febrary 28, 2020, I join Editorial Board of IET Cyber-Systems and Robotics.
+* Febrary 28, 2020, I join editorial board of IET Cyber-Systems and Robotics.
 * Febrary 3, 2020, I will serve as Associate Editor for IROS 2020.
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation]()" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
