@@ -19,6 +19,7 @@ author_profile: true
 * [Baozhou Zhu](https://www.tudelft.nl/eemcs/the-faculty/departments/quantum-computer-engineering/accelerated-big-data-systems/staff/baozhou-zhu/), (CS TUD, Superviosr: [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
 
 ## Master Students
+* Niels Hakvoort
 * Benjamin van Zwienen
 * Ramkumar Sakthivel
 * Tim Koning
