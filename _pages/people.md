@@ -5,7 +5,8 @@ author_profile: true
 ---
 ## PostDoc
 
-* [Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN)
+* [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN)
+* [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai)
 
 ## PhD Candidates
 
