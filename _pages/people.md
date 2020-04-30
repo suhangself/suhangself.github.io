@@ -22,13 +22,14 @@ author_profile: true
 * Niels Hakvoort
 * Benjamin van Zwienen
 * Ramkumar Sakthivel
-* Tim Koning
 * Rick Staa
 * Robert Cornet
-* Arnoud Jonker
+
 
 
 ## Graduated Master Students
+* Arnoud Jonker
+* Tim Koning
 * Yuan Tian (PhD Candidate at ETH Zürich, Switzerland)
 * Minghao Yang (Machine Learning Engineer at MapScape in Eindhoven, Netherlands)
 * Julian von der Goltz (Graduated with Cum Laude. Machine Learning Engineer at Mainblades Inspections in Hague, Netherlands)
