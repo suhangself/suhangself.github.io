@@ -13,6 +13,7 @@ My research goal is to establish a machine learning control framework by unifyin
 
 Recent News 
 ======
+* July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control]()" accepted to [DAI](http://www.adai.ai/)！
 * July 6,2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
