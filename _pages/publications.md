@@ -10,6 +10,10 @@ author_profile: true
 <i>Imperial College London.</i> <b>2017</b>.
 
 ## Selected Publications
+<b>[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)</b><br>
+Minghao Han, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
+<i>IEEE Robotics and Automation Letters (RA-L + IROS).</i> <b>2020</b>.
+
 <b>[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)</b><br>
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Gonçalves.<br>
 <i>Nature Communications.</i> <b>2019</b>.
