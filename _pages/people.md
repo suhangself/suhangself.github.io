@@ -17,7 +17,7 @@ author_profile: true
 
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (HIT, Supervisor: [Prof. Lixian Zhang](https://scholar.google.com/citations?user=nRWqJX4AAAAJ&hl=en))
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (HIT, Supervisor: [Prof. Ligang Wu](https://scholar.google.com/citations?user=2mHyb9gAAAAJ&hl=en))
-* [Baozhou Zhu](https://www.tudelft.nl/eemcs/the-faculty/departments/quantum-computer-engineering/accelerated-big-data-systems/staff/baozhou-zhu/), (CS TUD, Superviosr: [Dr. Zaid Al-Ars](http://www.ce.ewi.tudelft.nl/zaid/))
+* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (CS TUD, Superviosr: [Prof. Naiming Qi](http://homepage.hit.edu.cn/qinaiming))
 
 ## Master Students
 * Niels Hakvoort
