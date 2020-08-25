@@ -18,7 +18,6 @@ Recent News
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
-* Febrary 28, 2020, I join editorial board of IET Cyber-Systems and Robotics.
 * Febrary 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation](https://arxiv.org/abs/2008.03520)" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
