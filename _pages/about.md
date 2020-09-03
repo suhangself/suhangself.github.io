@@ -13,7 +13,7 @@ My research goal is to establish a machine learning control framework by unifyin
 
 Recent News 
 ======
-* September 2, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]" accepted to Automatica!
+* September 2, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]"() accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)!
 * July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control]()" accepted to [DAI](http://www.adai.ai/)！
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
