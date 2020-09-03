@@ -9,10 +9,11 @@ redirect_from:
 ---
 I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
 
-My research goal is to establish a machine learning control framework by unifying machine learning and control theory, with applications in robotics. In particular, I am interested in Bayesian learning for system identification and (multi-agent) reinforcement learning for decision and control.
+My research goal is to establish a machine learning control framework by unifying machine learning and control theory, with applications in robotics. In particular, I am interested in Bayesian learning for system identification, (multi-agent) reinforcement learning for decision&control and state estimation.
 
 Recent News 
 ======
+* September 2, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]" accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)!
 * July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control]()" accepted to [DAI](http://www.adai.ai/)！
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
