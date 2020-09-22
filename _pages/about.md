@@ -16,7 +16,7 @@ Recent News
 * September 11, 2020, Our paper "[Zero-Sum Game Based Optimal Secure Control under Actuator Attacks]()" accepted to IEEE Transactions on Automatic Control!
 * September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]()" accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)! [Check extended version](https://arxiv.org/abs/2008.07240) 
-* July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control]()" accepted to [DAI](http://www.adai.ai/)！
+* July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control](https://arxiv.org/abs/2009.09361)" accepted to [DAI](http://www.adai.ai/)！
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
