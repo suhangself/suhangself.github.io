@@ -13,6 +13,7 @@ My research goal is to establish a machine learning control framework by unifyin
 
 Recent News 
 ======
+* October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians]()" accepted to CoRL!
 * September 11, 2020, Our paper "[Zero-Sum Game Based Optimal Secure Control under Actuator Attacks]()" accepted to IEEE Transactions on Automatic Control!
 * September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]()" accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)! [Check extended version](https://arxiv.org/abs/2008.07240) 
