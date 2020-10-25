@@ -15,7 +15,7 @@ Recent News
 ======
 * October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
 * September 11, 2020, Our paper "[Zero-Sum Game Based Optimal Secure Control under Actuator Attacks]()" accepted to IEEE Transactions on Automatic Control!
-* September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets]()" accepted to Automatica!
+* September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets](https://arxiv.org/abs/1612.01963)" accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)! [Check extended version](https://arxiv.org/abs/2008.07240) 
 * July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control](https://arxiv.org/abs/2009.09361)" accepted to [DAI](http://www.adai.ai/)！
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
