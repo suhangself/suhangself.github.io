@@ -9,11 +9,14 @@ redirect_from:
 ---
 I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
 
-My research goal is to establish a machine learning control framework by unifying machine learning and control theory, with applications in robotics. In particular, I am interested in Bayesian learning for system identification, (multi-agent) reinforcement learning for decision&control and state estimation.
+My research goal is to establish a Bayesian learning control framework by unifying (Bayesian) machine learning and control theory, with applications in robotics. In particular, I am interested in Bayesian learning for system identification, (multi-agent) reinforcement learning for decision&control and state estimation.
 
 Recent News 
 ======
+* Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
+* Januray 1, 2021, We received a gift from "[HUAWEI UK](https://www.noahlab.com.hk/)". Thanks, HUAWEI!
 * October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
+* October 1, 2020, Mr Robert Cornet join our group as a research engineer. Welcome, Robert!
 * September 11, 2020, Our paper "[Zero-Sum Game Based Optimal Secure Control under Actuator Attacks]()" accepted to IEEE Transactions on Automatic Control!
 * September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets](https://arxiv.org/abs/1612.01963)" accepted to Automatica!
 * July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)! [Check extended version](https://arxiv.org/abs/2008.07240) 
