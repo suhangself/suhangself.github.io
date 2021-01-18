@@ -13,6 +13,7 @@ My research goal is to establish a Bayesian learning control framework by unifyi
 
 Recent News 
 ======
+* Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
 * Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
 * October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
