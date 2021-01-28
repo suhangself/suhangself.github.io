@@ -13,6 +13,7 @@ My research goal is to establish a Bayesian learning control framework by unifyi
 
 Recent News 
 ======
+* Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems]()" accepted to IEEE Internet of Things Journal!
 * Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
 * Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
