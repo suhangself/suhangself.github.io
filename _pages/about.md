@@ -14,6 +14,7 @@ My research goal is to establish a Bayesian learning control framework by unifyi
 Recent News 
 ======
 * February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee]()" accepted to ICRA! Well done, Yujie!
+* February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
 * Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems]()" accepted to IEEE Internet of Things Journal!
 * Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
 * Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
@@ -27,7 +28,7 @@ Recent News
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
-* Febrary 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
+* February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation](https://arxiv.org/abs/2008.03520)" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
 * October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
