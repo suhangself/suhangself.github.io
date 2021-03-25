@@ -7,7 +7,8 @@ author_profile: true
 
 * [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai)
 * [Dr Zhipeng Zhou](https://cn.linkedin.com/in/%E5%BF%97%E9%B9%8F-%E5%91%A8-0618a916a)
-* [Vacancy]()
+* [Vacancy 1]()
+* [Vacancy 2]()
 
 ## Engineer
 * [Robert Cornet]()
@@ -20,15 +21,16 @@ author_profile: true
 
 
 ## Master Students
-* Hao Li
+* Rick Staa
+* Ibrahim Chahine
 * Zixuan Wan
+* Hao Li
 * Prakash Radhakrishnan
 * Lars Lipman
 * Mohamed Madi 
 * Niels Hakvoort 
 * Benjamin van Zwienen
-* Rick Staa
-* Ibrahim Chahine
+
 
 ## Past PostDoc
 * [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN), now Assistant Professor at Sun Yat-sen University, China
