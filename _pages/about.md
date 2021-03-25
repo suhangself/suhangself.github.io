@@ -16,7 +16,7 @@ Recent News
 * March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://arxiv.org/abs/2011.06882)" accepted to Automatica! Well done, Minghao and Yuan!
 * February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee](https://arxiv.org/abs/2103.02357)" accepted to ICRA! Well done, Yujie!
 * February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
-* Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9344638/)" accepted to IEEE Internet of Things Journal!
+* Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9344638/)" accepted to IEEE Internet of Things Journal! Well done, Chengwei!
 * Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
 * Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
