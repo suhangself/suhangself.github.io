@@ -7,12 +7,15 @@ author_profile: true
 
 * [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai)
 * [Dr Zhipeng Zhou](https://cn.linkedin.com/in/%E5%BF%97%E9%B9%8F-%E5%91%A8-0618a916a)
-* [Vacancy]
+* [Vacancy]()
+
+## Engineer
+* [Robert Cornet]()
 
 ## PhD Candidates
 
 * [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN)
-* Yujie Tang
+* [Yujie Tang]()
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (With Prof. Naiming Qi)
 
 
