@@ -16,7 +16,7 @@ author_profile: true
 ## PhD Candidates
 
 * [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN)
-* [Yujie Tang]()
+* [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (With Prof. Naiming Qi)
 
 
