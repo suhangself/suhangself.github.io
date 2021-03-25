@@ -10,6 +10,12 @@ author_profile: true
 <i>Imperial College London.</i> <b>2017</b>.
 
 ## Selected Publications
+
+<b>[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://arxiv.org/abs/2011.06882)</b><br>
+Minghao Han, Yuan Tian, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
+<i>Automatica.</i> <b>2021</b>.
+
+
 <b>[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)</b><br>
 Minghao Han, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>IEEE Robotics and Automation Letters (RA-L + IROS).</i> <b>2020</b>.
