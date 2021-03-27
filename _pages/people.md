@@ -6,7 +6,7 @@ author_profile: true
 ## PostDoc
 
 * [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai)
-* [Dr Zhipeng Zhou](https://cn.linkedin.com/in/%E5%BF%97%E9%B9%8F-%E5%91%A8-0618a916a)
+* [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
 * [Vacancy 1]()
 * [Vacancy 2]()
 
