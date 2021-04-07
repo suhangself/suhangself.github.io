@@ -13,7 +13,7 @@ My research goal is to establish a Bayesian learning control framework by unifyi
 
 Recent News 
 ======
-* April 7, 2021, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
+* April 7, 2021, I will serve as an Aera Chair for [CoRL 2021](https://www.robot-learning.org/).
 * March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://arxiv.org/abs/2011.06882)" accepted to Automatica! Well done, Minghao and Yuan!
 * February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee](https://arxiv.org/abs/2103.02357)" accepted to ICRA! Well done, Yujie!
 * February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
