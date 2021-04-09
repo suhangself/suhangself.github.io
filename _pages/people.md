@@ -5,10 +5,9 @@ author_profile: true
 ---
 ## PostDoc
 
-* [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai)
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
-* [Vacancy 1]()
-* [Vacancy 2]()
+* <span style="color:red">Two Vacancies are openning soon</span>.
+
 
 ## Engineer
 * [Robert Cornet]()
@@ -33,6 +32,7 @@ author_profile: true
 
 
 ## Past PostDoc
+* [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai), now PostDoc at HongKong University of Science and Technology, China
 * [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN), now Assistant Professor at Sun Yat-sen University, China
 
 ## Past PhD Students
