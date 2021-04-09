@@ -6,7 +6,7 @@ author_profile: true
 ## PostDoc
 
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
-* <span style="color:red">Two Vacancies are openning soon</span>.
+* <span style="color:red">Two vacancies are openning soon</span>.
 
 
 ## Engineer
@@ -21,7 +21,6 @@ author_profile: true
 
 ## Master Students
 * Rick Staa
-* Ibrahim Chahine
 * Zixuan Wan
 * Hao Li
 * Prakash Radhakrishnan
@@ -41,6 +40,7 @@ author_profile: true
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
 ## Past Master Students
+* Ibrahim Chahine, Thesis: [Bayesian Deep Learning for Dynamic System Identification](https://repository.tudelft.nl/islandora/object/uuid%3A78eb1c0d-f1c8-4f5b-b70c-d3fbeea1ddc2)
 * Hao Ni, Thesis: [Deep Learning for 4D Longitudinal Segmentation of MRI Brain Tissues and Glioma](https://repository.tudelft.nl/islandora/object/uuid%3Ae34a8dee-0bdb-4e79-9d42-3fc3998bbb23)
 * Ramkumar Sakthivel,
 Thesis: [Towards Real-Time Human Pose Estimation for Mobile Device](https://repository.tudelft.nl/islandora/object/uuid%3A70bee125-f415-4c12-87b6-18b414800bbc)
