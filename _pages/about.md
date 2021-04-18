@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an [Assistant Professor](https://www.tudelft.nl/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
 
-My research goal is to establish a Bayesian learning control framework by unifying (Bayesian) machine learning and control theory, with applications in robotics. In particular, I am interested in Bayesian learning for system identification, (multi-agent) reinforcement learning for state estimation and control.
+I have a broad interest in robot dynamics by combining (Bayesian) machine learning and the principles of dynamic control. I am particularly interested in Bayesian learning for system identification, (multi-agent) reinforcement learning for state estimation and control.
 
 Recent News 
 ======
