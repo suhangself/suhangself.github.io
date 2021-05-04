@@ -5,13 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching
+## Current Teaching at TU Delft
+* WB3168, Robotic System Identification and Parameter Estimation
 
 
 
-## Past Teaching
-
-* Biochemistry, University of Science and Technology of China, Autumn, 2010
+## Past Teaching at Imperial
 * Modelling in Biology, Imperial College London, Autumn, 2011, 2012, 2013
 * Mathematics I, Imperial College London, Autumn, 2013
 * Mathematics II, Imperial College London, Autumn, 2013, Spring, 2014
