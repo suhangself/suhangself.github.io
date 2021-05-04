@@ -11,10 +11,10 @@ author_profile: true
 
 
 ## Past Teaching at Imperial
-* Modelling in Biology, Imperial College London, Autumn, 2011, 2012, 2013
-* Mathematics I, Imperial College London, Autumn, 2013
-* Mathematics II, Imperial College London, Autumn, 2013, Spring, 2014
-* MSc Business Analytics: Advanced Analytics and Machine Learning, Imperial College Business School, Spring, 2016
+* Modelling in Biology, Autumn, 2011, 2012, 2013
+* Mathematics I, Autumn, 2013
+* Mathematics II, Autumn, 2013, Spring, 2014
+* MSc Business Analytics: Advanced Analytics and Machine Learning, Spring, 2016
 
 
 
