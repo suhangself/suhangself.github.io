@@ -6,7 +6,7 @@ author_profile: true
 ## PostDoc
 
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
-* <span style="color:red">Vacancy 1: 1 year PostDoc on Bayesian Learning</span>.
+* <span style="color:red">Vacancy 1: 1 year PostDoc on Bayesian Learning for Robotics</span>.
 * <span style="color:red">Vacancy 2: 1.5 year PostDoc on Control Theory and Reinforcement Learning</span>.
 
 
