@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications
 
-<b>[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://arxiv.org/abs/2011.06882)</b><br>
+<b>[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)</b><br>
 Minghao Han, Yuan Tian, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>Automatica.</i> <b>2021</b>.
 
