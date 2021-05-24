@@ -8,6 +8,7 @@ author_profile: true
 ## Current Teaching at TU Delft
 * Thesis project for Master in Robotics (past topics can be found [here](https://panweihit.github.io/people/))
 * WB3168, Robotic System Identification and Parameter Estimation
+* RO47001, Robot Dynamcis and Control”
 
 
 
