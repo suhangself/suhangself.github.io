@@ -13,7 +13,7 @@ I have a broad interest in robot dynamics by combining (Bayesian) machine learni
 
 Recent News 
 ======
-* May 28, Our paper "[Model-Reference Reinforcement Learning for Collision-Free Tracking Control of Autonomous Surface Vehicles](https://arxiv.org/abs/2008.07240)" accepted to IEEE Transactions on Transactions on Intelligent Transportation Systems! Well done, Qingrui!
+* May 28, Our paper "[Model-Reference Reinforcement Learning for Collision-Free Tracking Control of Autonomous Surface Vehicles](https://arxiv.org/abs/2008.07240)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Qingrui!
 * April 12, Our paper "[Secure Control for Cyber-Physical Systems under Malicious Attacks]()" accepted to IEEE Transactions on Control of Network Systems! Well done, Chengwei!
 * April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
 * March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)" accepted to Automatica! Well done, Minghao and Yuan!
