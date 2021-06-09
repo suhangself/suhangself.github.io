@@ -13,6 +13,8 @@ I have a broad interest in robot dynamics by combining (Bayesian) machine learni
 
 Recent News 
 ======
+* June 8, <span style="color:red">**One Postdoc position openning**</span> on "Bayesian Learning for Robotics". [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1439&nPostingTargetId=3161&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external).
+https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1439&nPostingTargetId=3161&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external
 * May 29, Our paper "[Finite-Time Fuzzy Adaptive Constrained Tracking Control for Hypersonic Flight Vehicles with Singularity-Free Switching]()" accepted to IEEE Transactions on Mechatronics!
 * May 28, Our paper "[Model-Reference Reinforcement Learning for Collision-Free Tracking Control of Autonomous Surface Vehicles](https://arxiv.org/abs/2008.07240)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Qingrui!
 * April 12, Our paper "[Secure Control for Cyber-Physical Systems under Malicious Attacks]()" accepted to IEEE Transactions on Control of Network Systems! Well done, Chengwei!
