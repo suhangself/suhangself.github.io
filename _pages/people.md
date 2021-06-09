@@ -6,7 +6,7 @@ author_profile: true
 ## PostDoc
 
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
-* <span style="color:red">Vacancy 1: 1 year PostDoc on Bayesian Learning for Robotics</span>. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1439&nPostingTargetId=3161&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external)
+* <span style="color:red">Vacancy 1: 1 year PostDoc on Bayesian Learning for Robotics</span>. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=3161&jobTitle=Postdoc%20Bayesian%20Learning%20for%20Robotics)
 * <span style="color:red">Vacancy 2: 1 year PostDoc on Control Theory and Reinforcement Learning</span>.
 
 
