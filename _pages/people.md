@@ -9,7 +9,7 @@ author_profile: true
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
 
 ## Engineer
-* [Robert Cornet]()
+* [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
 
 ## PhD Candidates
 
@@ -21,11 +21,11 @@ author_profile: true
 ## Master Students
 * Rick Staa
 * Zixuan Wan
-* Prakash Radhakrishnan
 * Lars Lipman
 * Mohamed Madi 
 * Niels Hakvoort 
 * Susan Portters
+* Denzil Joy
 
 
 ## Past PostDoc
@@ -38,6 +38,7 @@ author_profile: true
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
 ## Past Master Students
+* Prakash Radhakrishnan [Robust map building for robot navigation in dynamic environments](https://repository.tudelft.nl/islandora/object/uuid%3A0a10f475-5a59-4ad7-9966-24f0f675f863)
 * Hao Li, Thesis: [Reinforcement Learning Compensated Filter for Position and Orientation Estimation](https://repository.tudelft.nl/islandora/object/uuid%3A9e27b7eb-fa2d-419a-ad9d-d181b0953740)
 * Ibrahim Chahine, Thesis: [Bayesian Deep Learning for Dynamic System Identification](https://repository.tudelft.nl/islandora/object/uuid%3A78eb1c0d-f1c8-4f5b-b70c-d3fbeea1ddc2)
 * Hao Ni, Thesis: [Deep Learning for 4D Longitudinal Segmentation of MRI Brain Tissues and Glioma](https://repository.tudelft.nl/islandora/object/uuid%3Ae34a8dee-0bdb-4e79-9d42-3fc3998bbb23)
