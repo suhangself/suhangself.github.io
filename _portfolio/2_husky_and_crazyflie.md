@@ -4,5 +4,5 @@ excerpt: "<img src='/images/husky_crazyflie_2.png' width='200'>"
 collection: portfolio
 ---
 
-Clearpath Huskey and Crazyflies in the corridor of office.
+Clearpath Husky and multiple Crazyflie quadrotors hovering in the corridor of office.
 <img src='/images/husky_crazyflie.jpeg'>
