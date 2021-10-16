@@ -11,7 +11,7 @@ Air-bearing test bed
 <img src='/images/space_overview2.png'>
 
 Satellite simulator
-<img src='/images/space_robot.png'>
+<img src='/images/space_spacecraft.png'>
 
 
 
