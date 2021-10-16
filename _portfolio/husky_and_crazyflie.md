@@ -1,5 +1,5 @@
 ---
-title: "Mobile Manipulator and Quadrotors"
+title: "2_Mobile Manipulator and Quadrotors"
 excerpt: "<img src='/images/husky_crazyflie_2.png' width='200'>"
 collection: portfolio
 ---
