@@ -1,6 +1,6 @@
 ---
 title: "Mobile Manipulator and Quadrotors"
-excerpt: "<img src="/images/husky_crazyflie.jpeg" width="200"/>"
+excerpt: "<img src="/images/husky_crazyflie_2.png">"
 collection: portfolio
 ---
 
