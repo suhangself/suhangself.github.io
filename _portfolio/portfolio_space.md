@@ -6,6 +6,9 @@ collection: portfolio
 
 Reinforcement Learning for Rendezvous and Proximity Operations
 
-[![Watch the video](https://img.youtube.com/vi/Elo7wOvmWXE/maxresdefault.jpg)](https://youtu.be/Elo7wOvmWXE)
+[![Watch the video](/images/space_robot.png)](https://youtu.be/Elo7wOvmWXE)
+
+
+
 
 
