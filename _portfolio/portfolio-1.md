@@ -1,9 +1,9 @@
 ---
-title: "New robots are being designed, stay tuned!"
+title: "Space Robots"
 excerpt: "<br/><img src='/images/space_robot.png'>"
 collection: portfolio
 ---
 
 Reinforcement Learning for Rendezvous and Proximity Operations
 
-[![IMAGE ALT TEXT HERE]('/images/space_robot.png,)](https://www.youtube.com/watch?v=Elo7wOvmWXE&ab_channel=brlrpo)
+[![IMAGE ALT TEXT HERE](/images/space_robot.png)](https://www.youtube.com/watch?v=Elo7wOvmWXE&ab_channel=brlrpo)
