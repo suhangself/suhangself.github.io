@@ -25,6 +25,7 @@ author_profile: true
 * Niels Hakvoort 
 * Susan Portters
 * Denzil Joy
+* Jingyue Liu
 
 
 ## Past PostDoc
