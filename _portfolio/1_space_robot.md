@@ -13,7 +13,7 @@ Air-bearing test bed
 Satellite simulator
 <img src='/images/space_spacecraft.png'>
 
-**Acknowledgement: [Dr Weiran Yao](https://scholar.google.com/citations?user=4urvR3YAAAAJ&hl=en) and [AIUS](http://aius.hit.edu.cn/) for platform support!
+Acknowledgement: [Dr Weiran Yao](https://scholar.google.com/citations?user=4urvR3YAAAAJ&hl=en) and [AIUS](http://aius.hit.edu.cn/) for platform support!
 
 
 
