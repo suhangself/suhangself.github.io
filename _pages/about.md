@@ -13,7 +13,8 @@ I have a broad interest in robot dynamics by combining (Bayesian) machine learni
 
 Recent News 
 ======
-* August 28, 2021, Our paper "[Learning-based Multi-robot Formation Control with Obstacle Avoidance]()" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Chengchao!
+* October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
+* August 28, 2021, Our paper "[Learning-based Multi-robot Formation Control with Obstacle Avoidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527169)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Chengchao!
 * June 30, 2021, Our paper "[Reinforcement Learning Compensated Extended Kalman Filter for Attitude Estimation]()" accepted to IROS! Well done, Yujie!
 * June 8, 2021, <span style="color:red">**One Postdoc position openning**</span> on "Bayesian Learning for Robotics". [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=3161&jobTitle=Postdoc%20Bayesian%20Learning%20for%20Robotics)
 * May 29, 2021, Our paper "[Finite-Time Fuzzy Adaptive Constrained Tracking Control for Hypersonic Flight Vehicles with Singularity-Free Switching]()" accepted to IEEE Transactions on Mechatronics!
