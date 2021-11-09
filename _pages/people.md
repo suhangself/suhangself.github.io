@@ -38,6 +38,7 @@ author_profile: true
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
 ## Past Master Students
+* Coen van Gruijthuijsen, Thesis: [Automated Machine Learning in Medical Image Segmentation](https://repository.tudelft.nl/islandora/object/uuid:cd200c93-3185-4c5b-a3ef-4113b997cee1?collection=education)
 * Zixuan Wan, Thesis: [Bayesian Deep Learning for Distilling Physical Laws from Videos](https://repository.tudelft.nl/islandora/object/uuid%3A7164f6d2-d8af-4d8d-a46d-62a9024895da)
 * Prakash Radhakrishnan, Thesis: [Robust map building for robot navigation in dynamic environments](https://repository.tudelft.nl/islandora/object/uuid%3A0a10f475-5a59-4ad7-9966-24f0f675f863)
 * Hao Li, Thesis: [Reinforcement Learning Compensated Filter for Position and Orientation Estimation](https://repository.tudelft.nl/islandora/object/uuid%3A9e27b7eb-fa2d-419a-ad9d-d181b0953740)
