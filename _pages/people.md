@@ -29,8 +29,8 @@ author_profile: true
 
 
 ## Past PostDoc
-* [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai), now Associate Professor at Harbin Institute of Technology, China
-* [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN), now Assistant Professor at Sun Yat-sen University, China
+* [Dr Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
+* [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
 ## Past PhD Students
 
