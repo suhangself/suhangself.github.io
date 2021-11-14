@@ -34,7 +34,7 @@ author_profile: true
 
 ## Past PhD Students
 
-* [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zurich.
+* [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
 ## Past Master Students
