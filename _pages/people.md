@@ -23,7 +23,6 @@ author_profile: true
 * Mohamed Madi 
 * Niels Hakvoort 
 * Susan Portters
-* Denzil Joy
 * Jingyue Liu
 
 
