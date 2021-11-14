@@ -6,7 +6,6 @@ author_profile: true
 ## PostDoc
 
 * [Dr Kai Jiang](https://scholar.google.com/citations?user=tCHMPX0AAAAJ&hl=en)
-* [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN)
 
 ## Engineer
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
@@ -29,6 +28,7 @@ author_profile: true
 
 
 ## Past PostDoc
+* [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
 * [Dr Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
 * [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
