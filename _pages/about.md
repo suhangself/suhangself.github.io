@@ -13,6 +13,7 @@ I have a broad interest in robot dynamics by combining (Bayesian) machine learni
 
 Recent News 
 ======
+* Nov 18, 2021, <span style="color:red">**One PostDoc position openning**</span> on safe reinforcement learning and autonomous driving. Application details coming soon.
 * Nov 11, 2021, <span style="color:red">**One PhD position openning**</span> on neuromorphic processors and spiking neural network training. Application details coming soon.
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
 * August 28, 2021, Our paper "[Learning-based Multi-robot Formation Control with Obstacle Avoidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527169)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Chengchao!
