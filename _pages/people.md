@@ -5,7 +5,6 @@ author_profile: true
 ---
 ## PostDoc
 
-* [Dr Kai Jiang](https://scholar.google.com/citations?user=tCHMPX0AAAAJ&hl=en)
 
 ## Engineer
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
@@ -23,7 +22,7 @@ author_profile: true
 * Mohamed Madi 
 * Niels Hakvoort 
 * Susan Portters
-* Jingyue Liu
+* Veronika Bojtár
 
 
 ## Past PostDoc
