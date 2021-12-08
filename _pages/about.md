@@ -1,5 +1,5 @@
 ---
-permalink: /404.html
+permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
