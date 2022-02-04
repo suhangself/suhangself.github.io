@@ -11,7 +11,6 @@ author_profile: true
 
 ## PhD Candidates
 
-* [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN)
 * [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (With Prof. Naiming Qi)
 
@@ -31,7 +30,7 @@ author_profile: true
 * [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
 ## Past PhD Students
-
+* [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
 * [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
