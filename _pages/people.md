@@ -26,13 +26,13 @@ author_profile: true
 
 ## Past PostDoc
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
-* [Dr Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
+* [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
 * [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
 ## Past PhD Students
 * [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
-* [Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
+* [Prof Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
 ## Past Master Students
 * Coen van Gruijthuijsen, Thesis: [Automated Machine Learning in Medical Image Segmentation](https://repository.tudelft.nl/islandora/object/uuid:cd200c93-3185-4c5b-a3ef-4113b997cee1?collection=education)
