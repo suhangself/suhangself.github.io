@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Assistant Professor](https://www.tudelft.nl/en/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
+I am an [Assistant Professor](https://www.tudelft.nl/en/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). I am co-director of [Delft SELF AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50).
 
 I have a broad interest in robot dynamics using Bayesian machine learning and the principles of dynamic control.
 
