@@ -1,6 +1,5 @@
 ---
 title: "Manipulator"
-excerpt: "<img src='/images/franka.jpeg' width='200'>"
 collection: portfolio
 ---
 
