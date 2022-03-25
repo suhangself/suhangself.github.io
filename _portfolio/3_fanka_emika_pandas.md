@@ -1,5 +1,6 @@
 ---
 title: "Manipulator"
+excerpt: ""
 collection: portfolio
 ---
 
