@@ -1,5 +1,6 @@
 ---
 title: "Unmanned Ground Vehicle"
+excerpt: ""
 collection: portfolio
 ---
 
