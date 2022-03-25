@@ -10,7 +10,7 @@ collection: portfolio
 Contact: [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) (d.du@tudelft.nl)
 
 Air-bearing test bed
-<img src='/images/space_overview2.png'>
+<img src='/images/space_overview2.png'> 
 
 Satellite simulator
 <img src='/images/space_spacecraft.png'>
