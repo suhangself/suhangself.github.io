@@ -1,6 +1,5 @@
 ---
 title: "Space Robots"
-excerpt: "<img src='/images/space_robot.png'  width='800'>"
 collection: portfolio
 ---
 
