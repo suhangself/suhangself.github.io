@@ -24,7 +24,7 @@ author_profile: true
 * Veronika Bojtár
 * Shaohang Han
 * Roy Vorster
-* Serkan Simsek
+* Serkan Şimşek
 * Yuxiang Liu
 
 
