@@ -4,7 +4,7 @@ title: "People"
 author_profile: true
 ---
 ## PostDoc
-
+* [Ersin Daş](https://scholar.google.com.tr/citations?user=55vSqwsAAAAJ&hl=en), start in summer.
 
 ## Engineer
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
@@ -25,6 +25,7 @@ author_profile: true
 * Shaohang Han
 * Roy Vorster
 * Serkan Simsek
+* Yuxiang Liu
 
 
 ## Past PostDoc
