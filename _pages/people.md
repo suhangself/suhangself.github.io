@@ -22,6 +22,9 @@ author_profile: true
 * Niels Hakvoort 
 * Susan Portters
 * Veronika Bojtár
+* Shaohang Han
+* Roy Vorster
+* Serkan Simsek
 
 
 ## Past PostDoc
