@@ -4,7 +4,6 @@ title: "People"
 author_profile: true
 ---
 ## PostDoc
-* [Ersin Daş](https://scholar.google.com.tr/citations?user=55vSqwsAAAAJ&hl=en) (start in summer)
 
 ## Engineer
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
@@ -13,7 +12,6 @@ author_profile: true
 
 * [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (With Prof. Naiming Qi)
-* Chuhan Zhang (start in fall)
 
 
 ## Master Students
