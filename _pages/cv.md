@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* PhD in Medical Robotics (Bioengineering), Politecnico di Milano,2015/11-2019/11
+* PhD in Medical Robotics (Bioengineering), Politecnico di Milano, 2019
   
-    Advisors: Prof. Giancarlo Ferrigno and Prof. Elena De Momi
+    * Advisors: Prof. Giancarlo Ferrigno and Prof. Elena De Momi
     
-    Title: Adaptive control of serial redundant robots for minimally invasive surgery
+    * Title: Adaptive control of serial redundant robots for minimally invasive surgery
     
-* MSc in Control Theory and Control Engineering (Automation), South China University of Technology,2012/09-2015/07
+* MSc in Control Theory and Control Engineering (Automation), South China University of Technology, 2015
 
-    Advisors: Prof. Zhijun Li and Prof. Chunyi Su
+    * Advisors: Prof. Zhijun Li and Prof. Chunyi Su
     
-    Title:Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
+    * Title:Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
     
-* BSc (hons) in Automation (Computer Science), Yantai University,2018/09-2012/07
+* BSc (hons) in Automation (Computer Science), Yantai University, 2012
  
-    Advisor: Prof. Zhaowei Liu
+    * Advisor: Prof. Zhaowei Liu
 
 Awards
 ======
