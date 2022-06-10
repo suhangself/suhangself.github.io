@@ -80,8 +80,10 @@ analytics:
 author:
   name             : "Hang Su"
   avatar           : "hangsu.jpeg"
-  bio              : "Assistant Professor, Department of Cognitive Robotics, TU Delft"
-  location         : "Delft, Netherlands"
+  bio              : "Associate Professor, Institute of Advanced Technology, University of Science and Technology of China"
+  location         : "Hefei, China"
+  bio              : "Research Fellow, Institute of Advanced Technology, University of Science and Technology of China"
+  location         : "Hefei, China"
   employer         : "34-F-2-340"
   googlescholar    : "https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en"
   email            : "hang.su@ieee.org"
