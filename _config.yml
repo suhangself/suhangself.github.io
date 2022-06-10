@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Pan"
+title                    : "Hang Su"
 title_separator          : "-"
-name                     : &name "Wei Pan"
+name                     : &name "Hang Su"
 description              : &description "personal description"
 url                      : https://panweihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Pan"
-  avatar           : "hangsu_.jpeg"
+  name             : "Hang Su"
+  avatar           : "hangsu.jpeg"
   bio              : "Assistant Professor, Department of Cognitive Robotics, TU Delft"
   location         : "Delft, Netherlands"
   employer         : "34-F-2-340"
