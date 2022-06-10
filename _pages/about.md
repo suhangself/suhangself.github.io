@@ -18,7 +18,7 @@ I have a broad interest in Robotics, artificial intelligence, deep learning, hum
 
 Recent News 
 ======
-* January 31, 2022, Our paper "[Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots]()" accepted to ICRA!
+* January 31, 2022, Our paper "[Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation](https://www.icra2022.org/program/awards)" win the best conference paper award "Outstanding Interaction paper" ICRA 2022!
 * Dec 28, 2021, <span style="color:red">**One PostDoc position openning**</span> on robust and safe RL for control. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=2178&nPostingTargetId=5329&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external)
 * Dec 15, 2021, <span style="color:red">**One PhD position openning**</span> on neuromorphic processors and spiking neural network training. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=5039&jobTitle=SELF%20Lab%204%20PhD%20Positions)
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
