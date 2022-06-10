@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Bioengineering](http://www.imperial.ac.uk/bioengineering), [Imperial College London](https://www.imperial.ac.uk/), 2017
-  * Supervisor: [Prof. Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
-* M.S in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
-  * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
-* B.S in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
-  * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
-
-Industry Experience
-======
-* Project Leader, 2016-2018
-  * [DJI](https://www.dji.com/), Shenzhen, China
-  * Machine learning research for DJI drones and AI accelerator
-* Quant, 2015
-  * [Cardwell Investment](http://c-i-technologies.com/), London, UK
-  * Futures trading strategy
-* Data Scientist, 2014
-  * [Activesecurities](https://activesecurities.com/), London, UK
-  * Fraud detection
+* PhD in Medical Robotics (Bioengineering), 2015/11-2019/11
+  Politecnico di Milano, Milan, Italy
+  Advisors: Prof. Giancarlo Ferrigno and Prof. Elena De Momi
+  Title: Adaptive control of serial redundant robots for minimally invasive surgery
+* MSc in Control Theory and Control Engineering (Automation), 2012/09-2015/07
+  South China University of Technology, Guangzhou, China
+  Advisors: Prof. Zhijun Li and Prof. Chunyi Su
+  Title:Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
+* BSc (hons) in Automation (Computer Science), 2018/09-2012/07
+  Yantai University, Yantai, China
+  Advisor: Prof. Zhaowei Liu
 
 Awards
 ======
-* Selected candidate of Kongque-plan Award, Shenzhen, China, 2017
-* Chinese Government Award for Outstanding Self-financed Students Abroad, 2015
-* Microsoft PhD Scholarship, Microsoft Research, 2011-2015
-* Dorothy Hodgkin Postgraduate Award, EPSRC, 2011-2015
-* Department of Bioengineering Industrial PhD Studentship, Imperial College London, 2011-2015
-* Gold Medals, [International Genetically Engineered Machine Competition (iGEM)](https://igem.org/Main_Page), 2009 and 2010 
+* Outstanding Interaction Paper Award, IEEE ICRA 2022
+* The 2021 Andrew P. Sage Best Transactions Paper Award, IEEE Transactions on Human-Machine Systems
+* Best Conference Paper Award Finalist, IEEE ICARM 2021
+* Best Paper Award in Advanced Robotics, IEEE ICARM 2020
+* RAS Travel Grant Award, IEEE ICRA (2019)
+* Force Control Executive, Sunrise Instruments (2018)
