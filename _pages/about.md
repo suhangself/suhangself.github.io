@@ -10,8 +10,7 @@ redirect_from:
 
 I am an [Research Fellow ](https://nearlab.polimi.it/medical/lab-members/) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/). 
 
-I serves as an Associate Professor in Institute of Advanced Technology, University of Science and Technology of
-China.
+I serves as an Associate Professor in [Institute of Advanced Technology](https://iat.ustc.edu.cn//iat/index.html#page1), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 I have a broad interest in robot dynamics using Bayesian machine learning and the principles of dynamic control.
 
