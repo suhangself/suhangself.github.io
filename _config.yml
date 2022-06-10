@@ -83,8 +83,8 @@ author:
   bio              : "Associate Professor, Institute of Advanced Technology, University of Science and Technology of China"
   location         : "Hefei, China"
   
-  bio              : "Research Fellow, Institute of Advanced Technology, University of Science and Technology of China"
-  location         : "Hefei, China"
+#  bio              : "Research Fellow, Institute of Advanced Technology, University of Science and Technology of China"
+#  location         : "Hefei, China"
 #  employer         : "34-F-2-340"
   googlescholar    : "https://scholar.google.com/citations?user=r4Sv57MAAAAJ&hl=en"
   email            : "hang.su@ieee.org"
@@ -105,10 +105,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-6877-6783"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+#  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
