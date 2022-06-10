@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Research Fellow ]([https://www.tudelft.nl/en/staff/wei.pan/](https://nearlab.polimi.it/medical/lab-members/)) at [Robot Dynamics Section](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/)). I am co-director of [Delft SELF AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50).
+I am an [Research Fellow ]([https://www.tudelft.nl/en/staff/wei.pan/](https://nearlab.polimi.it/medical/lab-members/)) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/)). I am co-director of [Delft SELF AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50).
 
 I have a broad interest in robot dynamics using Bayesian machine learning and the principles of dynamic control.
 
