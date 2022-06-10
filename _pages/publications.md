@@ -53,15 +53,4 @@ in emg-based force estimation for human-robot interaction,” IEEE Transactions 
 <b>D. Wei, Z. Li, Q. Wei, H. Su, B. Song, W. He, and J. Li, “Human-in-the-loop control strategy of unilateral exoskeleton robots for gait rehabilitation,” IEEE Transactions on Cognitive and Developmental Systems, 2019</b>.
 <b>H. Su, N. Enayati, L. Vantadori, A. Spinoglio, G. Ferrigno, and E. De Momi, “Online human-like redundancy optimization for tele-operated anthropomorphic manipulators,” International Journal of Advanced Robotic Systems, vol. 15, no. 6, p. 1729881418814695, 2018</b>.
 <b>H. Su, J. Sandoval, P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi, “Safety-enhanced collaborative framework for tele-operated minimally invasive surgery using a 7-dof torque-controlled robot,”International Journal of Control,Automation and Systems, vol. 16, no. 6, pp. 2915–2923, 2018</b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
-<b></b>.
+
