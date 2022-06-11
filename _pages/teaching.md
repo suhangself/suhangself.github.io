@@ -5,18 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching at TU Delft
-* Thesis project for Master in Robotics (past topics can be found [here](https://panweihit.github.io/people/))
-* [WB3168](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59581), Robotic System Identification and Parameter Estimation
-* [RO47001](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59665), Robot Dynamcis and Control
-
-
-
-## Past Teaching at Imperial
-* Modelling in Biology, Autumn, 2011, 2012, 2013
-* Mathematics I, Autumn, 2013
-* Mathematics II, Autumn, 2013, Spring, 2014
-* MSc Business Analytics: Advanced Analytics and Machine Learning, Spring, 2016
+* Embodiment of AI (PhD course in Università della Calabria)},  2020 Spring,  2020 Fall. 
+* How robots can interpret environment information and act, consequently 
+* Prof. Elena De Momi, Politecnico di Milano
+		
+* Medical Robotics and Technologies for Computer aided Surger (Master course in Politecnico di Milano)},  (2016--2020).
+* Prof. Elena De Momi, Politecnico di Milano
 
 
 
