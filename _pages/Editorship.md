@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 * Associate Editor:
-    * Frontiers in Neurorobotics (Impact Factor 2.574): Since 2021
-    * Frontiers in Neuroscience (Impact Factor 4.677): Since 2021
+    * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): Since 2021
+    * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): Since 2021
     
 * Guest Associate Editor:
-    * IEEE Transactions on Fuzzy Systems (Impact Factor 9.518)
+    * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
      
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
    
