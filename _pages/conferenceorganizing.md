@@ -1,6 +1,6 @@
 ---
-permalink: /Conference Organizing/
-title: "conferenceorganizing"
+permalink: /conferenceorganizing/
+title: "Conference Organizing"
 author_profile: true
 ---
 
