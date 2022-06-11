@@ -179,3 +179,12 @@ W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <b>[Improved human-robot collaborative control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
 <b>H. Su</b>., C. Yang, G. Ferrigno, and E. De Momi <br>
 <i>2019 IEEE International Conference on Robotics and Automation (ICRA with RAL option). </i> <b>2019</b>.
+
+
+<b>[Manipulability optimization control of a serial redundant robot for robot-assisted minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8793676)</b><br>
+<b>H. Su</b>., S. Li, J. Manivannan, L. Bascetta, G. Ferrigno, and E. De Momi <br>
+<i>2019 IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2019</b>.
+
+<b>[Adaptive decoupling control of a serial redundant robot for teleoperated minimally invasive surgery](https://re.public.polimi.it/handle/11311/1055816)</b><br>
+<b>H. Su</b>., G. Ferrigno, and E. De Momi <br>
+<i>IEEE Robotics and Automation Society. </i> <b>2018</b>.
