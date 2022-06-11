@@ -103,11 +103,11 @@ Surgery](https://pubmed.ncbi.nlm.nih.gov/33113264/)</b><br>
 <i>IEEE Robotics and Automation Letters.</i> <b>2019</b>.
 
 <b>[Collaborative Framework for Robot-assisted Minimally Invasive Surgery Using A 7-dof Anthropomorphic Robot](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305419)</b><br>
-J. Sandoval,<b>H. Su</b>., P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
+J. Sandoval, <b>H. Su</b>., P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
 <i>Robotics and Autonomous Systems.</i> <b>2018</b>.
 
 <b>[Deep Neural Network Approach in Human-like Redundancy Optimization for Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/8812723)</b><br>
-<b>H. Su</b>.,W. Qi, C. Yang, A. Aliverti, G. Ferrigno, and E. De Momi.<br>
+<b>H. Su</b>., W. Qi, C. Yang, A. Aliverti, G. Ferrigno, and E. De Momi.<br>
 <i>IEEE Access.</i> <b>2019</b>.
 
 <b>[Neural Network Enhanced Robot Tool Identification and Calibration for Bilateral Teleoperation](https://ieeexplore.ieee.org/abstract/document/8805341)</b><br>
