@@ -5,15 +5,15 @@ author_profile: true
 ---
 * Organizing Chair (2023)
 
-   * The IEEE International Conference on Development and Learning (ICDL) (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
+   * [The IEEE International Conference on Development and Learning (ICDL)](https://icdl2022.qmul.ac.uk/)
 
 * Program Chair (2021/2022), Special Session Chair (2020)
 
-   * IEEE International Conference on Advanced Roboticsand Mechatronics (ICARM)
+   * [IEEE International Conference on Advanced Roboticsand Mechatronics (ICARM)](http://www.ieee-arm.org/)
 
 *  Program Chair (2023)
 
-   * 2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) 
+   * [2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) ] (http://www.eecr.org/)
   
 * Lead Workshop Chair
 
