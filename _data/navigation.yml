@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software"
-    url: /software/ 
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Robots"
-    url: /portfolio/
+  - title: "Conference Organizing"
+    url: /conferenceorganizing/ 
     
   - title: "Talks"
     url: /talks/ 
