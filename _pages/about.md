@@ -50,18 +50,8 @@ Recent News
 * April 20, 2020, Our paper [A Smartphone-Based Adaptive Recognition and Real-Time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047) accepted to IEEE Transactions on Human-Machine Systems!
 * February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 * January 9, 2020, Our paper [Depth Vision Guided Hand Gesture Recognition Using Electromyographic Signals](https://www.tandfonline.com/doi/abs/10.1080/01691864.2020.1713886) accepted to Advanced Robotics!
-
-
-
-
-
-
-
-
-
+* May 24, 2018, Our paper [Safety-Enhanced Human-Robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8463148/authors#authors) accepted to ICRA 2018. 
 * April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
-
-
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
 * December 17, 2020, I join the Personnel Committee (Onderdeelcommissie) for the faculty of Mechanical, Maritime and Materials Engineering (3mE). 
 * October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
@@ -73,7 +63,6 @@ Recent News
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
-
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation](https://arxiv.org/abs/2008.03520)" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
 * October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
