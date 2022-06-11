@@ -47,20 +47,16 @@ Recent News
 * February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 
 
-* October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
-* August 28, 2021, Our paper "[Learning-based Multi-robot Formation Control with Obstacle Avoidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527169)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Chengchao!
-* June 30, 2021, Our paper "[Reinforcement Learning Compensated Extended Kalman Filter for Attitude Estimation]()" accepted to IROS! Well done, Yujie!
-* June 8, 2021, <span style="color:red">**One Postdoc position openning**</span> on "Bayesian Learning for Robotics". [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=3161&jobTitle=Postdoc%20Bayesian%20Learning%20for%20Robotics)
-* May 29, 2021, Our paper "[Finite-Time Fuzzy Adaptive Constrained Tracking Control for Hypersonic Flight Vehicles with Singularity-Free Switching](https://ieeexplore.ieee.org/document/9460818)" accepted to IEEE Transactions on Mechatronics!
-* May 28, 2021, Our paper "[Model-Reference Reinforcement Learning for Collision-Free Tracking Control of Autonomous Surface Vehicles](https://ieeexplore.ieee.org/document/9454561)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Qingrui!
-* April 12, 2021, Our paper "[Secure Control for Cyber-Physical Systems under Malicious Attacks]()" accepted to IEEE Transactions on Control of Network Systems! Well done, Chengwei!
-* April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
-* March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)" accepted to Automatica! Well done, Minghao and Yuan!
-* February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee](https://arxiv.org/abs/2103.02357)" accepted to ICRA! Well done, Yujie!
 
-* Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9344638/)" accepted to IEEE Internet of Things Journal! Well done, Chengwei!
-* Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
-* Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
+
+
+
+
+
+
+* April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
+
+
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
 * December 17, 2020, I join the Personnel Committee (Onderdeelcommissie) for the faculty of Mechanical, Maritime and Materials Engineering (3mE). 
 * October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
