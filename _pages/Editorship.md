@@ -14,9 +14,11 @@ redirect_from:
     * Frontiers in Neuroscience (Impact Factor 4.677): Since 2021
 * Guest Associate Editor:
     * IEEE Transactions on Fuzzy Systems (Impact Factor 9.518)
+     
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
     * IEEE Robotics and Automation Letters (Impact Factor 3.608)
-      <b> Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications</b>
+     
+     <b> Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications</b>
 * Conference Associate Editor:
     *  International Conference on Robotics and Automation (ICRA), Since 2021
     *  International Conference on Intelligent Robots and Systems (IROS), Since 2020
