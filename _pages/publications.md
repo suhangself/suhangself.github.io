@@ -142,4 +142,20 @@ D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
 
 <b>[Robot-assisted minimally invasive surgery with improved learning optimization](https://ieeexplore.ieee.org/abstract/document/9341389)</b><br>
  Y. Hu, <b>H. Su</b>., G. Chen, G. Ferrigno, E. De Momi, and A. Knoll <br>
-<i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)OS).</i> <b>2020</b>.
+<i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i> <b>2020</b>.
+
+<b>[Reinforcement learning based manipulation skill transferring for robot-assisted minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/9196588)</b><br>
+ <b>H. Su</b>., Y. Hu, Z. Li, A. Knoll, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
+
+<b>[Bilateral teleoperation control of a redundant manipulator with an rcm kinematic constraint](https://ieeexplore.ieee.org/abstract/document/9197267)</b><br>
+ <b>H. Su</b>., Y. Schmirander, Z. Li, X. Zhou, J. Li, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
+
+<b>[Internet of things(iot)-based collaborative control of a redundant manipulator for teleoperated minimally invasive surgeries](https://ieeexplore.ieee.org/document/9197321)</b><br>
+ <b>H. Su</b>., S. Ertug Ovur, Z. Li, Y. Hu, A. Knoll, J. Li, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
+
+<b>[Deep neural network approach in robot tool dynamics identification for bilateral teleoperation](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
+ <b>H. Su</b>., W. Qi, C. Yang, J. Sandoval, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE International Conference on Robotics and Automation (ICRA with RAL option).</i> <b>2020</b>.
