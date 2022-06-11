@@ -131,3 +131,15 @@ D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
 <b>[Safety-enhanced Collaborative Framework for Tele-operated Minimally Invasive Surgery using A 7-dof Torque-Controlled Robot](https://link.springer.com/article/10.1007/s12555-017-0486-3)</b><br>
 <b>H. Su</b>., J. Sandoval, P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
 <i>International Journal of Control, Automation and Systems.</i> <b>2018</b>.
+
+<b>[Sensor fusion-based anthropomorphic control of under-actuated bionic hand in dynamic environment](https://ieeexplore.ieee.org/abstract/document/9636436)</b><br>
+<b>H. Su</b>., J. Zhang, J. Fu, S. E. Ovur, W. Qi, G. Li, Y. Hu, and Z. Li <br>
+<i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i> <b>2021</b>.
+
+<b>[Improving motion planning for surgical robot with active constraints](https://ieeexplore.ieee.org/abstract/document/9341302)</b><br>
+<b>H. Su</b>., Y. Hu, J. Li, J. Guo, Y. Liu, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems ((IROS).</i> <b>2020</b>.
+
+<b>[Robot-assisted minimally invasive surgery with improved learning optimization](https://ieeexplore.ieee.org/abstract/document/9341389)</b><br>
+ Y. Hu, <b>H. Su</b>., G. Chen, G. Ferrigno, E. De Momi, and A. Knoll <br>
+<i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)OS).</i> <b>2020</b>.
