@@ -25,7 +25,7 @@ Recent News
 * March 1, 2022, Our paper "[A Small Opening Workspace Control Strategy for Redundant Manipulator Based on RCM Method](https://ieeexplore.ieee.org/abstract/document/9709712)" accepted to IEEE Transactions on Control Systems Technology!
 * Februray 12, 2022, Our paper "[A Human Activity Aware Shared Control Solution for Medical Human-Robot Interaction](https://www.emerald.com/insight/content/doi/10.1108/AA-12-2021-0174/full/html)" accepted to Assebmly Automaiton!
 * Februray 1, 2022, Our book chapter "[Neural Network-enhanced Optimal Motion Planning for Robot Manipulation under Remote Center of Motion](https://www.sciencedirect.com/science/article/pii/B9780323904452000222)" on the book "Tactile Sensing, Skill Learning, and Robotic Dexterous Manipulation" has been published on ELESVIER! 
-* Congrats! Our paper [A Smartphone-Based Adaptive Recognition and Real-Time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047) published in [IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037) win <span style="color:red">**"the 2021 Andrew P. Sage Best Transactions Paper Award"**</span> from the IEEE SMC (Systems, Man and Cybernetics) Society. 
+* Congrats! Our paper [A Smartphone-Based Adaptive Recognition and Real-Time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047) published in [IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037) win <span style="color:red">**"The 2021 Andrew P. Sage Best Transactions Paper Award"**</span> from the IEEE SMC (Systems, Man and Cybernetics) Society. 
 * December 11, 2021, Our paper [DCNN based Human Activity Recognition Framework with Depth Vision Guiding](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017215) accepted to Neurocomputing! 
 * October 12, 2021, Our paper [Asymmetric Cooperation Control of Dual-Arm Exoskeletons Using Human Collaborative Manipulation Models](https://ieeexplore.ieee.org/abstract/document/9568764) accepted to IEEE Transactions on Cybernetics!
 * July 8, 2021, Our paper [Incorporating Model Predictive Control with Fuzzy Approximation for Robot Manipulation under Remote Center of Motion Constraint](https://link.springer.com/article/10.1007/s40747-021-00418-6) accepted to Complex & Intelligent Systems!
@@ -35,6 +35,7 @@ Recent News
 * April 7, 2021, Our paper [Development and Continuous Control of an Intelligent Upper Limb Neuro-Prosthesis for Reach and Grasp Motions Using Biological Signals](https://ieeexplore.ieee.org/abstract/document/9397868) accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 * March 17, 2021, Our paper [Deep Neural Network Approach in EMG-Based Force Estimation for Human–Robot Interaction](https://ieeexplore.ieee.org/abstract/document/9380441) accepted to IEEE Transactions on Artificial Intelligence!
 * March 4, 2021, Our paper [Novel Adaptive Sensor Fusion Methodology for Hand Pose Estimation With Multileap Motion](https://ieeexplore.ieee.org/abstract/document/9369396) accepted to IEEE Transactions on Instrumentation and Measurement!
+* February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
 * Februray 12, 2021, Our paper [Sensor Fusion-based Anthropomorphic Control of Under-Actuated Bionic Hand in Dynamic Environment](https://ieeexplore.ieee.org/abstract/document/9636436) accepted to IROS 2021! Well done!
 * Februray 4, 2021, Our paper [Whole Body Control of an Autonomous Mobile Manipulator Using Series Elastic Actuators](IEEE/ASME Transactions on Mechatronics) accepted to IEEE/ASME Transactions on Mechatronics.
 * January 8, 2021, Our paper [Fuzzy-Torque Approximation-Enhanced Sliding Mode Control for Lateral Stability of Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9339917) accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
@@ -43,7 +44,7 @@ Recent News
 * December 8, 2020, Our paper "[Machine Learning Driven Human Skill Transferring for Control of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9195371)" win the best conference paper award <span style="color:red">**"Best Paper Award in Advanced Robotics"**</span>  at IEEE ICARM 2020!
 * November 10, 2020, Our paper [Automatic Parking Control of Unmanned Vehicle Based on Switching Control Algorithm and Backstepping](https://ieeexplore.ieee.org/abstract/document/9253711) accepted to IEEE/ASME Transactions on Mechatronics.
 * November 9, 2020, Our paper [An Incremental Learning Framework for Human-Like Redundancy Optimization of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9252139) accepted to IEEE Transactions on Industrial Informatics!
-
+* February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 
 
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
@@ -56,7 +57,7 @@ Recent News
 * April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
 * March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)" accepted to Automatica! Well done, Minghao and Yuan!
 * February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee](https://arxiv.org/abs/2103.02357)" accepted to ICRA! Well done, Yujie!
-* February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
+
 * Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9344638/)" accepted to IEEE Internet of Things Journal! Well done, Chengwei!
 * Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
 * Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
@@ -71,7 +72,7 @@ Recent News
 * July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
 * July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
 * April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
-* February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
+
 * Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
 * Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation](https://arxiv.org/abs/2008.03520)" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
 * October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
