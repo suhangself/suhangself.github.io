@@ -199,4 +199,4 @@ W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
 
 <b>[Adaptive Fuzzy Control of Operation Space Constrained Exoskeletons under Unmodelled Dynamics](https://ieeexplore.ieee.org/abstract/document/7053257)</b><br>
 <b>H. Su</b>., H. Zhang, Z. Li, and C.-Y. Su <br>
-<i>Intelligent Control and Automation (WCICA. </i> <b>2014</b>.
+<i>Intelligent Control and Automation (WCICA). </i> <b>2014</b>.
