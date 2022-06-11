@@ -28,43 +28,78 @@ Z. Li, X. Li, Q. Li, <b>H. Su</b>., Z. Kan, and W. He<br>
 <b>H. Su</b>., W. Qi, Y. Schmirander, and S. E. Ovur<br>
 <i>Assembly Automation.</i> <b>2022</b>.
 
-<b>[Incorporating Model Predictive Control with Fuzzy Approximation for Robot Manipulation
-under Remote Center of Motion Constraint]
- (https://link.springer.com/article/10.1007/s40747-021-00418-6)</b><br>
+<b>[Incorporating Model Predictive Control with Fuzzy Approximation for Robot Manipulation under Remote Center of Motion Constraint](https://link.springer.com/article/10.1007/s40747-021-00418-6)</b><br>
 <b>H. Su</b>. and J. Zhang<br>
-<i>Complex and Intelligent Systems.</i> <b>2021</b>.
+<i>Complex and Intelligent Systems.</i> <b>2021</b>
 
 
-<b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
-Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
-<i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
+<b>[Deep Neural Network Approach in Emg-based Force Estimation for Human-robot Interaction](https://ieeexplore.ieee.org/abstract/document/9380441/)</b><br>
+<b>H. Su</b>., W. Qi, S. Ertug Ovur, Z. Li, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Transactions on Artificial Intelligence.</i> <b>2021</b>.
 
-<b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
-<b>Wei Pan</b>, Ye Yuan, Jorge Gonçalves, and Guy-Bart Stan.<br>
-<i>IEEE Transaction on Automatic Control.</i> <b>2016</b>.
+<b>[A Novel Autonomous Learning Framework to Enhance Semg-based Hand Gesture Recognition using Depth Information](https://www.sciencedirect.com/science/article/abs/pii/S1746809421000410)</b><br>
+S. E. Ovur, X. Zhou, W. Qi, L. Zhang, Y. Hu, <b>H. Su*</b>., G. Ferrigno, and E. De Momi <br>
+<i>Biomedical Signal Processing and Control.</i> <b>2021</b>.
 
-<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
-Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
-<i>International Conference on Machine Learning.</i> <b>ICML 2019</b>.
+<b>[Development and Continuous Control of An Intelligent Upper Limbneuro-prosthesis for Reach and Grasp Motions using Biological Signals](https://ieeexplore.ieee.org/abstract/document/9397868)</b><br>
+J. Huang, G. Li, <b>H. Su* </b>., and Z. Li <br>
+<i>IEEE Transactions on Systems, Man and Cybernetics: Systems.</i> <b>2021</b>.
 
-<b>[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7)</b><br>
-Ying Wen, Yaodong Yang, Rui Luo, Jun Wang and <b>Wei Pan</b>.<br>
-<i>International Conference on Learning Represnetation.</i> <b>ICLR 2019</b>.
-
-
-<b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
-Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
-<i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
-
-<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
-Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
-<i>International Conference on Machine Learning.</i> <b>ICML 2019</b>.
-
-<b>[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7)</b><br>
-Ying Wen, Yaodong Yang, Rui Luo, Jun Wang and <b>Wei Pan</b>.<br>
-<i>International Conference on Learning Represnetation.</i> <b>ICLR 2019</b>.
+<b>[Novel Adaptive Sensor Fusion Methodology for Hand Pose Estimation with Multi-leap Motion](https://ieeexplore.ieee.org/abstract/document/9369396)</b><br>
+S. Ertug Ovur, <b>H. Su* </b>., W. Qi, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Transactions on Instrumentation and Measurement.</i> <b>2021</b>.
 
 
-<b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
-Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
-<i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
+<b>[Towards Teaching by Demonstration for Robot-assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9316273)</b><br>
+<b>H. Su</b>., A. Mariani, S. E. Ovur, A. Menciassi, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Transactions on Automation Science and Engineering.</i> <b>2021</b>.
+
+<b>[An Incremental Learning Framework for Human-like Redundancy Optimization of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9252139)</b><br>
+<b>H. Su</b>., W. Qi, Y. Hu, H. R. Karimi, G. Ferrigno, and E. De Momi.<br>
+<i>IEEE Transactions on Industrial Informatics.</i> <b>2021</b>.
+
+<b>[Nonlinear Model Predictive Control for Mobile Medical Robot using Neural Optimization](https://ieeexplore.ieee.org/abstract/document/9305985)</b><br>
+Y. Hu, <b>H. Su* </b>., H. R. Karimi, A. Knoll, G. Ferrigno, and E. De Momi<br>
+<i>IEEE Transactions on Industrial Electronics.</i> <b>2021</b>.
+
+
+<b>[Improved Recurrent Neural Network-based Manipulator Control with Remote Center of Motion Constraints: Experimental results](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302744)</b><br>
+<b>H. Su </b>., Y. Hu, H. R. Karimi, A. Knoll, G. Ferrigno, and E. De Momi<br>
+<i>Neural Networks.</i> <b>2020</b>.
+
+<b>[Whole Body Control of An Autonomous Mobile Manipulator using Series Elastic Actuators](https://ieeexplore.ieee.org/abstract/document/9347724)</b><br>
+Y. Liu, Z. Li, <b>H. Su </b>., and C.-y. Su <br>
+<i>IEEE/ASME Transactions on Mechatronics.</i> <b>2021</b>.
+
+<b>[Automatic Parking Control of Unmanned Vehicle Based on Switching Control Algorithm and Backstepping](https://ieeexplore.ieee.org/abstract/document/9253711)</b><br>
+H. Gao, J. Zhu, X. Li, Y. Kang, J. Li, and <b>H. Su* </b>. <br>
+<i>IEEE/ASME Transactions on Mechatronics.</i> <b>2021</b>.
+
+<b>[Deep Neural Network Approach in Robot Tool Dynamics Identification for Bilateral Teleoperation](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
+<b>H. Su </b>., W. Qi, C. Yang, J. Sandoval, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Robotics and Automation Letters.</i> <b>2020</b>.
+
+<b>[A Smartphone-based Adaptive Recognition and Real-time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047)</b><br>
+W. Qi,<b>H. Su </b>., and A. Aliverti <br>
+<i>IEEE Transactions on Human Machine System.</i> <b>2020</b>.
+
+
+<b>[Depth Vision Guided Hand Gesture Recognition using Electromyographic Signals](https://www.tandfonline.com/doi/abs/10.1080/01691864.2020.1713886)</b><br>
+<b>H. Su</b>., S. E. Ovur, X. Zhou, W. Qi, G. Ferrigno, and E. De Momi <br>
+<i>Advanced Robotics.</i> <b>2020</b>.
+
+<b>[Experimental Validation of Manipulability Optimization Control of a 7-dof Serial Manipulator for Robotassisted
+Surgery](https://pubmed.ncbi.nlm.nih.gov/33113264/)</b><br>
+<b>H. Su</b>., A. Danioni, R. Mihai Mira, M. Ungari, X. Zhou, J. Li, Y. Hu, G. Ferrigno, and E. De Momi.<br>
+<i>The International Journal of Medical Robotics and Computer Assisted Surgery.</i> <b>2020</b>.
+
+<b>[Asymmetric Bimanual Control of Dual-arm Serial Manipulator for Robot-assisted Minimally Invasive Surgeries](https://re.public.polimi.it/handle/11311/1146598)</b><br>
+<b>H. Su</b>., Y. Schmirander, S. E. Valderrama, J. Pinedo, X. Zhou, J. Li, L. Zhang, Y. Hu, G. Ferrigno, and E. De Momi <br>
+<i>Sensors and Materials.</i> <b>2020</b>.
+
+
+<b>[Improved Human-robot Collaborative Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
+H. Su, C. Yang, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Robotics and Automation Letters.</i> <b>2019</b>.
+
+
