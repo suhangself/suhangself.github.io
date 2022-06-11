@@ -1,6 +1,6 @@
 ---
 permalink: /Conference Organizing/
-title: "Conference Organizing"
+title: "conferenceorganizing"
 author_profile: true
 ---
 
