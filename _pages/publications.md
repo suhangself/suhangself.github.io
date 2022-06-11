@@ -80,7 +80,7 @@ H. Gao, J. Zhu, X. Li, Y. Kang, J. Li, and <b>H. Su* </b>. <br>
 <i>IEEE Robotics and Automation Letters.</i> <b>2020</b>.
 
 <b>[A Smartphone-based Adaptive Recognition and Real-time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047)</b><br>
-W. Qi,<b>H. Su </b>., and A. Aliverti <br>
+W. Qi, <b>H. Su </b>., and A. Aliverti <br>
 <i>IEEE Transactions on Human Machine System.</i> <b>2020</b>.
 
 
@@ -99,7 +99,35 @@ Surgery](https://pubmed.ncbi.nlm.nih.gov/33113264/)</b><br>
 
 
 <b>[Improved Human-robot Collaborative Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
-H. Su, C. Yang, G. Ferrigno, and E. De Momi <br>
+<b>H. Su</b>., C. Yang, G. Ferrigno, and E. De Momi <br>
 <i>IEEE Robotics and Automation Letters.</i> <b>2019</b>.
 
+<b>[Collaborative Framework for Robot-assisted Minimally Invasive Surgery Using A 7-dof Anthropomorphic Robot](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305419)</b><br>
+J. Sandoval,<b>H. Su</b>., P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
+<i>Robotics and Autonomous Systems.</i> <b>2018</b>.
 
+<b>[Deep Neural Network Approach in Human-like Redundancy Optimization for Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/8812723)</b><br>
+<b>H. Su</b>.,W. Qi, C. Yang, A. Aliverti, G. Ferrigno, and E. De Momi.<br>
+<i>IEEE Access.</i> <b>2019</b>.
+
+<b>[Neural Network Enhanced Robot Tool Identification and Calibration for Bilateral Teleoperation](https://ieeexplore.ieee.org/abstract/document/8805341)</b><br>
+<b>H. Su</b>., C. Yang, H. Mdeihly, A. Rizzo, G. Ferrigno, and E. De Momi <br>
+<i>IEEE Access.</i> <b>2019</b>.
+
+
+<b>[Towards Model-free Tool Dynamic Identification and Calibration using Multi-layer Neural Network](https://www.mdpi.com/1424-8220/19/17/3636)</b><br>
+<b>H. Su</b>., W. Qi, Y. Hu, J. Sandoval, L. Zhang, Y. Schmirander, G. Chen, A. Aliverti, A. Knoll, G. Ferrigno et al. <br>
+<i>Sensors.</i> <b>2019</b>.
+
+<b>[Human-in-the-loop Control Strategy of Unilateral Exoskeleton Robots for Gait Rehabilitation](https://ieeexplore.ieee.org/document/8906035)</b><br>
+D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
+<i>IEEE Transactions on Cognitive and Developmental Systems.</i> <b>2019</b>.
+
+<b>[Online Human-like Redundancy Optimization for Tele-operated Anthropomorphic Manipulators](https://journals.sagepub.com/doi/full/10.1177/1729881418814695)</b><br>
+<b>H. Su</b>., N. Enayati, L. Vantadori, A. Spinoglio, G. Ferrigno, and E. De Momi <br>
+<i>International Journal of Advanced Robotic Systems.</i> <b>2018</b>.
+
+
+<b>[Safety-enhanced Collaborative Framework for Tele-operated Minimally Invasive Surgery using A 7-dof Torque-Controlled Robot](https://link.springer.com/article/10.1007/s12555-017-0486-3)</b><br>
+<b>H. Su</b>., J. Sandoval, P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
+<i>International Journal of Control, Automation and Systems.</i> <b>2018</b>.
