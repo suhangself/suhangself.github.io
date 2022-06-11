@@ -188,3 +188,15 @@ W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <b>[Adaptive decoupling control of a serial redundant robot for teleoperated minimally invasive surgery](https://re.public.polimi.it/handle/11311/1055816)</b><br>
 <b>H. Su</b>., G. Ferrigno, and E. De Momi <br>
 <i>IEEE Robotics and Automation Society. </i> <b>2018</b>.
+
+<b>[Safety-enhanced human-robot interaction control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
+<b>H. Su</b>., J. Sandoval, M. Makhdoomi, G. Ferrigno, and E. De Momi <br>
+<i>IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2018</b>.
+
+<b>[Safety-enhanced human-robot interaction control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
+<b>H. Su</b>., J. Sandoval, M. Makhdoomi, G. Ferrigno, and E. De Momi <br>
+<i>IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2018</b>.
+
+<b>[Event-based adaptive control of 7-dof serial robot for teleoperated mis](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
+<b>H. Su</b>., G. Ferrigno, and E. De Momi <br>
+<i>6th National Congress of Bioengineering. </i> <b>2018</b>.
