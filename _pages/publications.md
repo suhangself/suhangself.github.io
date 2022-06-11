@@ -160,10 +160,10 @@ D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
  <b>H. Su</b>., W. Qi, C. Yang, J. Sandoval, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Robotics and Automation (ICRA with RAL option).</i> <b>2020</b>.
 
-<b>[Machine learning driven human skill transferring for control of anthropomorphic manipulators](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
+<b>[Machine learning driven human skill transferring for control of anthropomorphic manipulators](https://ieeexplore.ieee.org/abstract/document/9195371)</b><br>
  <b>H. Su</b>., W. Qi, H. Gao, Y. Hu, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM). </i> <b>2020</b>.
 
-<b>[Human activity recognition enhanced robot-assisted minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
- <b>H. Su</b>., W. Qi, H. Gao, Y. Hu, Y. Shi, G. Ferrigno, and E. De Momi <br>
-<i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM). </i> <b>2020</b>.
+<b>[Human activity recognition enhanced robot-assisted minimally invasive surgery](https://link.springer.com/chapter/10.1007/978-3-030-48989-2_14)</b><br>
+ <b>H. Su</b>., W. Qi, C. Yang, J. Li, X. Zhou, G. Ferrigno, E. De Momi, and A. Knoll <br>
+<i>2020 International Conference on Robotics in Alpe-Adria Danube Region. </i> <b>2020</b>.
