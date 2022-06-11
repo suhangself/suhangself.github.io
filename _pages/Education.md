@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+
 * PhD in Medical Robotics (Bioengineering), Politecnico di Milano, 2019
   
     * Advisors: Prof. Giancarlo Ferrigno and Prof. Elena De Momi
