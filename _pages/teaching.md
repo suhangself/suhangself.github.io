@@ -11,7 +11,7 @@ author_profile: true
 	
 	Prof. Elena De Momi, Politecnico di Milano.
 		
-* Medical Robotics and Technologies for Computer aided Surger (Master course in Politecnico di Milano)},  (2016--2020).
+* Medical Robotics and Technologies for Computer aided Surger (Master course in Politecnico di Milano),  (2016--2020).
 	
 	Prof. Elena De Momi, Politecnico di Milano.
 
