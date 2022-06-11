@@ -30,11 +30,17 @@ Recent News
 * October 12, 2021, Our paper [Asymmetric Cooperation Control of Dual-Arm Exoskeletons Using Human Collaborative Manipulation Models](https://ieeexplore.ieee.org/abstract/document/9568764) accepted to IEEE Transactions on Cybernetics!
 * July 8, 2021, Our paper [Incorporating Model Predictive Control with Fuzzy Approximation for Robot Manipulation under Remote Center of Motion Constraint](https://link.springer.com/article/10.1007/s40747-021-00418-6) accepted to Complex & Intelligent Systems!
 * July 3, 2021, Our paper [Whole-body Spatial Teleoperation Control of a Hexapod Robot in Unstructured Environment](https://ieeexplore.ieee.org/abstract/document/9536197) win the <span style="color:red">**"Best Conference Paper Finalist"**</span>  at IEEE ICARM 2021!
+* June 15, 2021, Our paper [Adaptive Finite-Time Trajectory Tracking Control of Autonomous Vehicles That Experience Disturbances and Actuator Saturation](https://ieeexplore.ieee.org/abstract/document/9455420) accepted to IEEE Intelligent Transportation Systems Magazine! 
+* June 8, 2021, Our paper [An Approach for Robotic Leaning Inspired by Biomimetic Adaptive Control](https://ieeexplore.ieee.org/abstract/document/9448451) accepted to IEEE Transactions on Industrial Informatics! 
+* April 7, 2021, Our paper [Development and Continuous Control of an Intelligent Upper Limb Neuro-Prosthesis for Reach and Grasp Motions Using Biological Signals](https://ieeexplore.ieee.org/abstract/document/9397868) accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 * March 17, 2021, Our paper [Deep Neural Network Approach in EMG-Based Force Estimation for Human–Robot Interaction](https://ieeexplore.ieee.org/abstract/document/9380441) accepted to IEEE Transactions on Artificial Intelligence!
+* March 4, 2021, Our paper [Novel Adaptive Sensor Fusion Methodology for Hand Pose Estimation With Multileap Motion](https://ieeexplore.ieee.org/abstract/document/9369396) accepted to IEEE Transactions on Instrumentation and Measurement!
 * Februray 12, 2021, Our paper [Sensor Fusion-based Anthropomorphic Control of Under-Actuated Bionic Hand in Dynamic Environment](https://ieeexplore.ieee.org/abstract/document/9636436) accepted to IROS 2021! Well done!
 * January 8, 2021, Our paper [Fuzzy-Torque Approximation-Enhanced Sliding Mode Control for Lateral Stability of Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9339917) accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * January 6, 2021, Our paper [Toward Teaching by Demonstration for Robot-Assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9316273) accepted to IEEE Transactions on Automation Science and Engineering!
+* November 10, 2020, Our paper [Automatic Parking Control of Unmanned Vehicle Based on Switching Control Algorithm and Backstepping](https://ieeexplore.ieee.org/abstract/document/9253711) accepted to IEEE/ASME Transactions on Mechatronics.
 * November 9, 2020, Our paper [An Incremental Learning Framework for Human-Like Redundancy Optimization of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9252139) accepted to IEEE Transactions on Industrial Informatics!
+
 
 
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
