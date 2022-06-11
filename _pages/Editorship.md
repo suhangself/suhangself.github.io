@@ -24,6 +24,6 @@ redirect_from:
       
 * Conference Associate Editor:
     *  [International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), Since 2021
-    *  International Conference on Intelligent Robots and Systems (IROS), Since 2020
-    *  IEEE International Conference on Robot & Human Interactive Communication (Ro-man), Since 2020
+    *  [International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), Since 2020
+    *  [IEEE International Conference on Robot & Human Interactive Communication (Ro-man)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/ro-man), Since 2020
     *  IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), Since 2020
