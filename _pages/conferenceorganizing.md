@@ -1,10 +1,8 @@
 ---
-permalink: /conferenceorganizing/
 title: "Conference Organizing"
+permalink: /conferenceorganizing/
 author_profile: true
 ---
-
-## [Conference and Workshop Organizations](https://)
 * Organizing Chair (2023)
 
    * The IEEE International Conference on Development and Learning (ICDL)
