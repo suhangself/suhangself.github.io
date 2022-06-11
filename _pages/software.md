@@ -25,11 +25,11 @@ author_profile: true
 
 * Lead Session Chair
 
-   * IEEE RO-man 2020 Invited Session ofTowards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications
+   * IEEE RO-man 2020 Invited Session of "Towards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications"
 
    * IEEE ICARM 2020 Invited Session of "Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications"
 
-   * IEEE ICARM 2021 Invited Session of"Recent Advancements in Medical Robotics"
+   * IEEE ICARM 2021 Invited Session of "Recent Advancements in Medical Robotics"
 
 * Technical Program Committee
 
