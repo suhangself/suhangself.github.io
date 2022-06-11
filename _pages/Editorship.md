@@ -18,12 +18,12 @@ redirect_from:
      
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
    
-   * IEEE Robotics and Automation Letters (Impact Factor 3.608)
+   * [IEEE Robotics and Automation Letters](https://www.se.com/ww/en/work/campaign/industries-of-the-future/?gclid=EAIaIQobChMIhYXZ7qSl-AIVfz2tBh3BuAx2EAAYASAAEgJHlfD_BwE&gclsrc=aw.ds#xtor=SEC-1204-GOO-[Robot_Phrase]-[602792055330]-S-[robotics%20and%20automation]&utm_source=google&utm_purpose=marketo&utm_campaign=usa_go_sem_nb_mu_globalbu-ia-iotf-na&utm_term=robotics%20and%20automation) (Impact Factor 3.608)
      
       <b> Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications</b>
       
 * Conference Associate Editor:
-    *  International Conference on Robotics and Automation (ICRA), Since 2021
+    *  [International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), Since 2021
     *  International Conference on Intelligent Robots and Systems (IROS), Since 2020
     *  IEEE International Conference on Robot & Human Interactive Communication (Ro-man), Since 2020
     *  IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), Since 2020
