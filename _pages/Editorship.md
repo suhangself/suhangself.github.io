@@ -1,3 +1,16 @@
+---
+layout: archive
+title: "Editorship"
+permalink: /Editorship/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
+
 Editorship for Journals and Conferences
 * Associate Editor:
     * Frontiers in Neurorobotics (Impact Factor 2.574): Since 2021
