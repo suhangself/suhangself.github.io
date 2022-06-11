@@ -132,68 +132,68 @@ D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
 <b>H. Su</b>., J. Sandoval, P. Vieyres, G. Poisson, G. Ferrigno, and E. De Momi <br>
 <i>International Journal of Control, Automation and Systems.</i> <b>2018</b>.
 
-<b>[Sensor fusion-based anthropomorphic control of under-actuated bionic hand in dynamic environment](https://ieeexplore.ieee.org/abstract/document/9636436)</b><br>
+<b>[Sensor Fusion-based Anthropomorphic Control of Under-actuated Bionic Hand in Dynamic Environment](https://ieeexplore.ieee.org/abstract/document/9636436)</b><br>
 <b>H. Su</b>., J. Zhang, J. Fu, S. E. Ovur, W. Qi, G. Li, Y. Hu, and Z. Li <br>
 <i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i> <b>2021</b>.
 
-<b>[Improving motion planning for surgical robot with active constraints](https://ieeexplore.ieee.org/abstract/document/9341302)</b><br>
+<b>[Improving Motion Planning for Surgical Robot with Active Constraints](https://ieeexplore.ieee.org/abstract/document/9341302)</b><br>
 <b>H. Su</b>., Y. Hu, J. Li, J. Guo, Y. Liu, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems ((IROS).</i> <b>2020</b>.
 
-<b>[Robot-assisted minimally invasive surgery with improved learning optimization](https://ieeexplore.ieee.org/abstract/document/9341389)</b><br>
+<b>[Robot-assisted Minimally Invasive Surgery with Improved Learning Optimization](https://ieeexplore.ieee.org/abstract/document/9341389)</b><br>
  Y. Hu, <b>H. Su</b>., G. Chen, G. Ferrigno, E. De Momi, and A. Knoll <br>
 <i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i> <b>2020</b>.
 
-<b>[Reinforcement learning based manipulation skill transferring for robot-assisted minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/9196588)</b><br>
+<b>[Reinforcement Learning Based Manipulation Skill Transferring for Robot-assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9196588)</b><br>
  <b>H. Su</b>., Y. Hu, Z. Li, A. Knoll, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
 
-<b>[Bilateral teleoperation control of a redundant manipulator with an rcm kinematic constraint](https://ieeexplore.ieee.org/abstract/document/9197267)</b><br>
+<b>[Bilateral Teleoperation Control of A Redundant Manipulator with An Rcm Kinematic Constraint](https://ieeexplore.ieee.org/abstract/document/9197267)</b><br>
  <b>H. Su</b>., Y. Schmirander, Z. Li, X. Zhou, J. Li, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
 
-<b>[Internet of things(iot)-based collaborative control of a redundant manipulator for teleoperated minimally invasive surgeries](https://ieeexplore.ieee.org/document/9197321)</b><br>
+<b>[Internet of Things(iot)-based Collaborative Control of a Redundant Manipulator for Teleoperated Minimally Invasive Surgeries](https://ieeexplore.ieee.org/document/9197321)</b><br>
  <b>H. Su</b>., S. Ertug Ovur, Z. Li, Y. Hu, A. Knoll, J. Li, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Robotics and Automation (ICRA).</i> <b>2020</b>.
 
-<b>[Deep neural network approach in robot tool dynamics identification for bilateral teleoperation](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
+<b>[Deep Neural Network Approach in Robot Tool Dynamics Identification for Bilateral Teleoperation](https://ieeexplore.ieee.org/abstract/document/9000725)</b><br>
  <b>H. Su</b>., W. Qi, C. Yang, J. Sandoval, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Robotics and Automation (ICRA with RAL option).</i> <b>2020</b>.
 
-<b>[Machine learning driven human skill transferring for control of anthropomorphic manipulators](https://ieeexplore.ieee.org/abstract/document/9195371)</b><br>
+<b>[Machine Learning Driven Human Skill Transferring for Control of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9195371)</b><br>
  <b>H. Su</b>., W. Qi, H. Gao, Y. Hu, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM). </i> <b>2020</b>.
 
-<b>[Human activity recognition enhanced robot-assisted minimally invasive surgery](https://link.springer.com/chapter/10.1007/978-3-030-48989-2_14)</b><br>
+<b>[Human Activity Recognition Enhanced Robot-assisted Minimally Invasive Surgery](https://link.springer.com/chapter/10.1007/978-3-030-48989-2_14)</b><br>
  <b>H. Su</b>., W. Qi, C. Yang, J. Li, X. Zhou, G. Ferrigno, E. De Momi, and A. Knoll <br>
 <i>2020 International Conference on Robotics in Alpe-Adria Danube Region. </i> <b>2020</b>.
 
-<b>[Hierarchical task impedance control of a serial manipulator for minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/9209500)</b><br>
+<b>[Hierarchical Task Impedance Control of a Serial Manipulator for Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9209500)</b><br>
  <b>H. Su</b>., C. Yang, J. Li, Y. Jiang, G. Ferrigno, and E. De Momi <br>
 <i>2020 IEEE International Conference on Human-Machine Systems (ICHMS). </i> <b>2020</b>.
 
-<b>[Depth vision guided human activity recognition in surgical procedure using wearable multisensor](https://ieeexplore.ieee.org/abstract/document/9195356)</b><br>
+<b>[Depth Vision Guided Human Activity Recognition in Surgical Procedure Using Wearable Multisensor](https://ieeexplore.ieee.org/abstract/document/9195356)</b><br>
 W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM). </i> <b>2020</b>.
 
-<b>[Improved human-robot collaborative control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
+<b>[Improved Human-robot Collaborative Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
 <b>H. Su</b>., C. Yang, G. Ferrigno, and E. De Momi <br>
 <i>2019 IEEE International Conference on Robotics and Automation (ICRA with RAL option). </i> <b>2019</b>.
 
 
-<b>[Manipulability optimization control of a serial redundant robot for robot-assisted minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8793676)</b><br>
+<b>[Manipulability Optimization Control of A Serial Redundant Robot for Robot-assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8793676)</b><br>
 <b>H. Su</b>., S. Li, J. Manivannan, L. Bascetta, G. Ferrigno, and E. De Momi <br>
 <i>2019 IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2019</b>.
 
-<b>[Adaptive decoupling control of a serial redundant robot for teleoperated minimally invasive surgery](https://re.public.polimi.it/handle/11311/1055816)</b><br>
+<b>[Adaptive Decoupling Control of A Serial Redundant Robot for Teleoperated Minimally Invasive Surgery](https://re.public.polimi.it/handle/11311/1055816)</b><br>
 <b>H. Su</b>., G. Ferrigno, and E. De Momi <br>
 <i>IEEE Robotics and Automation Society. </i> <b>2018</b>.
 
-<b>[Safety-enhanced human-robot interaction control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
+<b>[Safety-enhanced Human-robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
 <b>H. Su</b>., J. Sandoval, M. Makhdoomi, G. Ferrigno, and E. De Momi <br>
 <i>IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2018</b>.
 
-<b>[Safety-enhanced human-robot interaction control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
+<b>[Safety-enhanced Human-robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
 <b>H. Su</b>., J. Sandoval, M. Makhdoomi, G. Ferrigno, and E. De Momi <br>
 <i>IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2018</b>.
 
