@@ -1,20 +1,39 @@
 ---
-permalink: /software/
-title: "Software"
+permalink: /Conference Organizing/
+title: "Conference Organizing"
 author_profile: true
 ---
 
-## [Bayesian Learning for Nonlinear System Identification](https://github.com/panweihit/BSID)
-* A repository for my [PhD thesis](http://panweihit.github.io/publications/thesis) and related papers.
-* Related software for [Cyber-Physical System Identification](https://arxiv.org/abs/1810.00697) can be downloaded [here](https://github.com/HAIRLAB/CPSid).
+## [Conference and Workshop Organizations](https://)
+* Organizing Chair (2023)
 
-## [DropNeuron](https://github.com/panweihit/DropNeuron)
-* DropNeuron: Simplifying the Structure of Deep Neural Networks, download the [paper](https://arxiv.org/abs/1606.07326).
+   * The IEEE International Conference on Development and Learning (ICDL)
 
-## [Accurate Binary Convolutional Neural Network](https://github.com/panweihit/ABC-net)
-* Coming in May, 2019.
-* Download the [paper](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network).
+* Program Chair (2021/2022), Special Session Chair (2020)
 
+   * IEEE International Conference on Advanced Roboticsand Mechatronics (ICARM)
 
+*  Program Chair (2023)
 
- 
+   * 2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) 
+  
+* Lead Workshop Chair
+
+   * IEEE IROS 2020 Invited Workshop of "AutonomousSysteminMedicine
+
+   * IEEE RO-man 2020 Invited Workshop of'Integrating SensorFusion and Perception for Human-robotInteraction"
+
+* Lead Session Chair
+
+   * IEEE RO-man 2020 Invited Session ofTowards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications
+
+   * IEEE ICARM 2020 Invited Session of "Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications"
+
+   * IEEE ICARM 2021 Invited Session of"Recent Advancements in Medical Robotics"
+
+* Technical Program Committee
+
+   * EAIS-CUBE 2021- 12th EAI International Conference on SensorSystems and Software
+
+   * ICMSSP 2022 - 7th InternationalConference on Multimedia Systems andSignalProcessing
+
