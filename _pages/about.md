@@ -46,7 +46,9 @@ Recent News
 * November 10, 2020, Our paper [Automatic Parking Control of Unmanned Vehicle Based on Switching Control Algorithm and Backstepping](https://ieeexplore.ieee.org/abstract/document/9253711) accepted to IEEE/ASME Transactions on Mechatronics.
 * October 24, 2020, Two papers [Improving Motion Planning for Surgical Robot with Active Constraints](https://ieeexplore.ieee.org/abstract/document/9341302) and [Hierarchical optimization Control of Redundant Manipulator for Robot-assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9341389) accepted to IROS 2020! 
 * November 9, 2020, Our paper [An Incremental Learning Framework for Human-Like Redundancy Optimization of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9252139) accepted to IEEE Transactions on Industrial Informatics!
+* April 20, 2020, Our paper [A Smartphone-Based Adaptive Recognition and Real-Time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047) accepted to IEEE Transactions on Human-Machine Systems!
 * February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
+* January 9, 2020, Our paper [Depth Vision Guided Hand Gesture Recognition Using Electromyographic Signals](https://www.tandfonline.com/doi/abs/10.1080/01691864.2020.1713886) accepted to Advanced Robotics!
 
 
 
