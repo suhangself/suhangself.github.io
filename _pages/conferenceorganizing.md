@@ -17,7 +17,7 @@ author_profile: true
   
 * Lead Workshop Chair
 
-   * [IEEE IROS 2020 Invited Workshop of " Autonomous Systemin Medicine "](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
+   * [IEEE IROS 2020 Invited Workshop of " Autonomous System Medicine "](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
 
    * [IEEE RO-man 2020 Invited Workshop of " Integrating SensorFusion and Perception for Human-robotInteraction "](https://innovate.ieee.org/?lt=LG_AD_Google_LM_Adwords_Brand_SEM&gclid=EAIaIQobChMI6oeBuZml-AIV7D6tBh10pA5TEAMYASAAEgLspfD_BwE)
 
