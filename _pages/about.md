@@ -39,6 +39,8 @@ Recent News
 * Februray 4, 2021, Our paper [Whole Body Control of an Autonomous Mobile Manipulator Using Series Elastic Actuators](IEEE/ASME Transactions on Mechatronics) accepted to IEEE/ASME Transactions on Mechatronics.
 * January 8, 2021, Our paper [Fuzzy-Torque Approximation-Enhanced Sliding Mode Control for Lateral Stability of Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9339917) accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * January 6, 2021, Our paper [Toward Teaching by Demonstration for Robot-Assisted Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/9316273) accepted to IEEE Transactions on Automation Science and Engineering!
+* December 23, 2020, Our paper [Nonlinear Model Predictive Control for Mobile Medical Robot Using Neural Optimization](https://ieeexplore.ieee.org/abstract/document/9305985) accepted to IEEE Transactions on Industrial Electronics!
+* December 8, 2020, Our paper "[Machine Learning Driven Human Skill Transferring for Control of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9195371)" win the best conference paper award <span style="color:red">**"Best Paper Award in Advanced Robotics"**</span>  at IEEE ICARM 2020!
 * November 10, 2020, Our paper [Automatic Parking Control of Unmanned Vehicle Based on Switching Control Algorithm and Backstepping](https://ieeexplore.ieee.org/abstract/document/9253711) accepted to IEEE/ASME Transactions on Mechatronics.
 * November 9, 2020, Our paper [An Incremental Learning Framework for Human-Like Redundancy Optimization of Anthropomorphic Manipulators](https://ieeexplore.ieee.org/abstract/document/9252139) accepted to IEEE Transactions on Industrial Informatics!
 
