@@ -19,21 +19,21 @@ author_profile: true
   
 * Lead Workshop Chair
 
-   * IEEE IROS 2020 Invited Workshop of "AutonomousSysteminMedicine
+   * IEEE IROS 2020 Invited Workshop of " Autonomous Systemin Medicine "
 
-   * IEEE RO-man 2020 Invited Workshop of'Integrating SensorFusion and Perception for Human-robotInteraction"
+   * IEEE RO-man 2020 Invited Workshop of " Integrating SensorFusion and Perception for Human-robotInteraction "
 
 * Lead Session Chair
 
-   * IEEE RO-man 2020 Invited Session of "Towards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications"
+   * IEEE RO-man 2020 Invited Session of " Towards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications "
 
-   * IEEE ICARM 2020 Invited Session of "Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications"
+   * IEEE ICARM 2020 Invited Session of " Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications "
 
-   * IEEE ICARM 2021 Invited Session of "Recent Advancements in Medical Robotics"
+   * IEEE ICARM 2021 Invited Session of " Recent Advancements in Medical Robotics "
 
 * Technical Program Committee
 
-   * EAIS-CUBE 2021- 12th EAI International Conference on SensorSystems and Software
+   * EAIS-CUBE 2021-12th EAI International Conference on Sensor Systems and Software
 
-   * ICMSSP 2022 - 7th InternationalConference on Multimedia Systems andSignalProcessing
+   * ICMSSP 2022-7th InternationalConference on Multimedia Systems and Signa Processing
 
