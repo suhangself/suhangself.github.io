@@ -27,11 +27,11 @@ author_profile: true
 
    * [IEEE ICARM 2020 Invited Session of " Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications "](http://www.ieee-arm.org/icarm2020/index.php/contribute/invited-sessions/)
 
-   * [IEEE ICARM 2021 Invited Session of " Recent Advancements in Medical Robotics "]
+   * [IEEE ICARM 2021 Invited Session of " Recent Advancements in Medical Robotics "](https://www.ieee-ras.org/about-ras/ras-calendar/event/1995-icarm-2021)
 
 * Technical Program Committee
 
-   * EAIS-CUBE 2021-12th EAI International Conference on Sensor Systems and Software
+   * [EAIS-CUBE 2021-12th EAI International Conference on Sensor Systems and Software](https://s-cubeconference.eai-conferences.org/2021/)
 
-   * ICMSSP 2022-7th InternationalConference on Multimedia Systems and Signa Processing
+   * [ICMSSP 2022-7th InternationalConference on Multimedia Systems and Signa Processing](https://2022.ieeeicassp.org/)
 
