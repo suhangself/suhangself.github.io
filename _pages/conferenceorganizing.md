@@ -5,7 +5,7 @@ author_profile: true
 ---
 * Organizing Chair (2023)
 
-   * The IEEE International Conference on Development and Learning (ICDL)
+   * The IEEE International Conference on Development and Learning (ICDL) (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
 
 * Program Chair (2021/2022), Special Session Chair (2020)
 
