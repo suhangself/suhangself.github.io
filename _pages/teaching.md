@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Embodiment of AI (PhD course in Università della Calabria)}, 2020 Spring, 2020 Fall. 
+* Embodiment of AI (PhD course in Università della Calabria), 2020 Spring, 2020 Fall. 
  
 	How robots can interpret environment information and act, consequently. 
 	
