@@ -15,7 +15,7 @@ redirect_from:
   
     * Advisors: Prof. Giancarlo Ferrigno and Prof. Elena De Momi
     
-    * Title: Adaptive control of serial redundant robots for minimally invasive surgery
+    * Title: Adaptive Control of Serial Redundant Robots for Minimally Invasive Surgery
     
 * MSc in Control Theory and Control Engineering (Automation), South China University of Technology, 2015
 
