@@ -4,16 +4,17 @@ main:
     url: /education/
   
   - title: "Publications"
-    url: /publications/ 
-  
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/  
     
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Conference Organizing"
     url: /conferenceorganizing/ 
+    
+        
+  - title: "Robots"
+    url: /portfolio/
     
   - title: "Talks"
     url: /talks/ 
