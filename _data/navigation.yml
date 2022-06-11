@@ -15,8 +15,6 @@ main:
   - title: "Awards"
     url: /Awards/ 
      
-  - title: "Robots"
-    url: /portfolio/
     
   - title: "Talks"
     url: /talks/ 
