@@ -197,6 +197,6 @@ W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
 <b>H. Su</b>., J. Sandoval, M. Makhdoomi, G. Ferrigno, and E. De Momi <br>
 <i>IEEE International Conference on Robotics and Automation (ICRA). </i> <b>2018</b>.
 
-<b>[Event-based adaptive control of 7-dof serial robot for teleoperated mis](https://ieeexplore.ieee.org/abstract/document/8463148)</b><br>
-<b>H. Su</b>., G. Ferrigno, and E. De Momi <br>
-<i>6th National Congress of Bioengineering. </i> <b>2018</b>.
+<b>[Adaptive Fuzzy Control of Operation Space Constrained Exoskeletons under Unmodelled Dynamics](https://ieeexplore.ieee.org/abstract/document/7053257)</b><br>
+<b>H. Su</b>., H. Zhang, Z. Li, and C.-Y. Su <br>
+<i>Intelligent Control and Automation (WCICA. </i> <b>2014</b>.
