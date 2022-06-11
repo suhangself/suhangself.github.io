@@ -2,9 +2,6 @@
 main:
   - title: "Education"
     url: /education/
-
-  - title: "People"
-    url: /people/
   
   - title: "Publications"
     url: /publications/ 
@@ -20,6 +17,8 @@ main:
     
   - title: "Talks"
     url: /talks/ 
+    
+    
 
         
  #  - title: "Blog Posts"
