@@ -18,7 +18,8 @@ Editorship for Journals and Conferences
 * Guest Associate Editor:
     * IEEE Transactions on Fuzzy Systems (Impact Factor 9.518)
     * Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets
-    * IEEE Robotics and Automation Letters (Impact Factor 3.608): Autonomous System in Robotic
+    * IEEE Robotics and Automation Letters (Impact Factor 3.608)
+    * Autonomous System in Robotic
     * Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications
 * Conference Associate Editor:
     *  International Conference on Robotics and Automation (ICRA), Since 2021
