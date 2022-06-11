@@ -21,7 +21,7 @@ redirect_from:
 
     * Advisors: Prof. Zhijun Li and Prof. Chunyi Su
     
-    * Title:Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
+    * Title: Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
     
 * BSc (hons) in Automation (Computer Science), Yantai University, 2012
  
