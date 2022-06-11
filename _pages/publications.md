@@ -167,3 +167,15 @@ D. Wei, Z. Li, Q. Wei,<b>H. Su</b>., B. Song, W. He, and J. Li.<br>
 <b>[Human activity recognition enhanced robot-assisted minimally invasive surgery](https://link.springer.com/chapter/10.1007/978-3-030-48989-2_14)</b><br>
  <b>H. Su</b>., W. Qi, C. Yang, J. Li, X. Zhou, G. Ferrigno, E. De Momi, and A. Knoll <br>
 <i>2020 International Conference on Robotics in Alpe-Adria Danube Region. </i> <b>2020</b>.
+
+<b>[Hierarchical task impedance control of a serial manipulator for minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/9209500)</b><br>
+ <b>H. Su</b>., C. Yang, J. Li, Y. Jiang, G. Ferrigno, and E. De Momi <br>
+<i>2020 IEEE International Conference on Human-Machine Systems (ICHMS). </i> <b>2020</b>.
+
+<b>[Depth vision guided human activity recognition in surgical procedure using wearable multisensor](https://ieeexplore.ieee.org/abstract/document/9195356)</b><br>
+W. Qi, <b>H. Su</b>., F. Chen, X. Zhou, Y. Shi, G. Ferrigno, and E. De Momi <br>
+<i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM). </i> <b>2020</b>.
+
+<b>[Improved human-robot collaborative control of redundant robot for teleoperated minimally invasive surgery](https://ieeexplore.ieee.org/abstract/document/8633418)</b><br>
+<b>H. Su</b>., C. Yang, G. Ferrigno, and E. De Momi <br>
+<i>2019 IEEE International Conference on Robotics and Automation (ICRA with RAL option). </i> <b>2019</b>.
