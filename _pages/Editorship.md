@@ -17,7 +17,8 @@ Editorship for Journals and Conferences
     * Frontiers in Neuroscience (Impact Factor 4.677): Since 2021
 * Guest Associate Editor:
     * IEEE Transactions on Fuzzy Systems (Impact Factor 9.518)
-    * Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets
+    * Special Issue on Cyborg Intelligence 
+    * Human Enhancement with Fuzzy Sets
     * IEEE Robotics and Automation Letters (Impact Factor 3.608)
     * Autonomous System in Robotic
     * Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications
