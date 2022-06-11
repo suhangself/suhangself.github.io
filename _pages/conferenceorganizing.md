@@ -13,7 +13,7 @@ author_profile: true
 
 *  Program Chair (2023)
 
-   * [2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) ] (http://www.eecr.org/)
+   * [2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) ](http://www.eecr.org/)
   
 * Lead Workshop Chair
 
