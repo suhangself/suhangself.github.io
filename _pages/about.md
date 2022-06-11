@@ -50,6 +50,7 @@ Recent News
 * April 20, 2020, Our paper [A Smartphone-Based Adaptive Recognition and Real-Time Monitoring System for Human Activities](https://ieeexplore.ieee.org/abstract/document/9078047) accepted to IEEE Transactions on Human-Machine Systems!
 * February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
 * January 9, 2020, Our paper [Depth Vision Guided Hand Gesture Recognition Using Electromyographic Signals](https://www.tandfonline.com/doi/abs/10.1080/01691864.2020.1713886) accepted to Advanced Robotics!
+* August 12, 2018, Our paper [Collaborative framework for robot-assisted minimally invasive surgery using a 7-DoF anthropomorphic robot](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305419) accepted to Robotics and Autonomous Systems!
 * May 24, 2018, Our paper [Safety-Enhanced Human-Robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8463148/authors#authors) accepted to ICRA 2018. 
 * April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
 * Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
