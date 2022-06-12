@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Research Fellow](https://nearlab.polimi.it/medical/lab-members/) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/). 
+I am an [Research Fellow](https://nearlab.polimi.it/) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/). 
 
 I serves as an [Associate Professor](https://wearablerobotics.ustc.edu.cn/lab/members/list.htm) in [Institute of Advanced Technology](https://iat.ustc.edu.cn//iat/index.html#page1), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
