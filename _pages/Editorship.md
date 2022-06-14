@@ -12,7 +12,7 @@ redirect_from:
 * Associate Editor:
     * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): Since 2021
     * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): Since 2021
-    * [Cognitive Computation and Systems](https://ietresearch.onlinelibrary.wiley.com/journal/25177567) Since 2021
+    * [Cognitive Computation and Systems](https://ietresearch.onlinelibrary.wiley.com/journal/25177567): Since 2021
     
 * Guest Associate Editor:
     * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
