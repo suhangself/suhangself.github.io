@@ -10,7 +10,6 @@ redirect_from:
 
 I am an [Research Fellow](https://nearlab.polimi.it/) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/). 
 
-I serves as an [Associate Professor](http://arc.ustc.edu.cn/Directors/list.htm) in [Institute of Advanced Technology](https://iat.ustc.edu.cn//iat/index.html#page1), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 I have a broad interest in Robotics, artificial intelligence, deep learning, human-robot interaction.
 
