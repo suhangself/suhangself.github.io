@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Research Fellow](https://nearlab.polimi.it/) at [NearLab](https://nearlab.polimi.it/) as part of the [Department of  Electronics Information and Bioengineering (DEIB)](https://www.deib.polimi.it/ita/home), [Politecnico di Milano](https://www.polimi.it/). 
+I am an Research Fellow at NearLab as part of the Department of  Electronics Information and Bioengineering (DEIB), [Politecnico di Milano](https://www.polimi.it/). 
 
 
 I have a broad interest in Robotics, artificial intelligence, deep learning, human-robot interaction.
