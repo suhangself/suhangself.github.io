@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Associate Editor:
+    * [IEEE Transactions on Cognitive and Developmental Systems]([https://www.frontiersin.org/journals/neurorobotics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)) (Impact Factor 4.546): Since 2022
     * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): Since 2021
     * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): Since 2021
     * [Cognitive Computation and Systems](https://ietresearch.onlinelibrary.wiley.com/journal/25177567): Since 2021
