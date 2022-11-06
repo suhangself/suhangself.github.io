@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Associate Editor:
+    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) (Impact Factor 6.636): Since 2022
     * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 4.546): Since 2022
     * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): Since 2021
     * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): Since 2021
