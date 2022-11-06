@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 
+
+* Program Committee (2023)
+
+   * [The 2023 International Conference on Advances in Computing Research (ACR’23)](https://easychair.org/cfp/ACR23)
+
 * Local Organizing Committee (2023)
 
    * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications
