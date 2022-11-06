@@ -3,6 +3,13 @@ title: "Conference Organizing"
 permalink: /conferenceorganizing/
 author_profile: true
 ---
+
+
+* Local Organizing Committee(2023)
+
+   * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications
+(MeTrApp 2023)](https://metrapp2023.sciencesconf.org/)
+
 * Organizing Chair (2023)
 
    * [The IEEE International Conference on Development and Learning (ICDL)](https://icdl2022.qmul.ac.uk/)
