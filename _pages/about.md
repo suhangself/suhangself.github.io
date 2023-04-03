@@ -11,7 +11,7 @@ redirect_from:
 I am an Research Fellow at the Department of  Electronics Information and Bioengineering (DEIB), [Politecnico di Milano](https://www.polimi.it/). 
 
 
-I have a broad interest in Robotics, artificial intelligence, deep learning, human-robot interaction.
+I have a broad interest in Robotics, Artificial Intelligence, Embodiment Intelligence, Human-robot Interaction.
 
 
 
