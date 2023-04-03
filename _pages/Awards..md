@@ -36,4 +36,4 @@ redirect_from:
 
     * The Second Prize in the 10th Jinan Lixia District Entrepreneurship Competition, Jinan Lixia District Human Resources and Social Security Bureau Government (2023)， 1,500 £
 
-    * Force Control Executive, Sunrise Instruments （2018）， 10,000 £
+    * Force Control Executive, Sunrise Instruments（2018),10,000 £
