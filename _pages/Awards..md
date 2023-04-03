@@ -17,6 +17,8 @@ redirect_from:
 * Outstanding Reviewer Award, IET Control Theory and Applications, 2022
 
 * Excellent Oral Presentation Award, The 4th International Conference on Control and Robotics, 2022
+
+* Wiley Top Downloaded Article Award, Cognitive Computation and Systems, 2022
  
 * Best Conference Paper Award Finalist, IEEE ICARM 2021
  
