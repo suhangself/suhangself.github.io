@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* Research Achievenments
+* Research Achievements
 
     * Outstanding Interaction Paper Award, IEEE ICRA 2022
 
@@ -28,7 +28,7 @@ redirect_from:
 
     * RAS Travel Grant Award, IEEE ICRA 2019
 
-* Research Achievenments
+* Entrepreneurship Competition
 
     * The 17th “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Winner Award, The Ministry of Education of the People's Republic of China (2022)
 
