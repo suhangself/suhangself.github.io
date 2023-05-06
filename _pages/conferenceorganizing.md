@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 
+* IPCAI Award Panel (2023)
+
+   * [The 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2023)](https://www.ipcai.org/home)
 
 * Program Committee (2023)
 
