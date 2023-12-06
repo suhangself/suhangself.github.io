@@ -16,7 +16,9 @@ I have a broad interest in Robotics, Artificial Intelligence, Embodiment Intelli
 
 Recent News 
 ======
+* June 2, 2023, Our paper "[An Adaptive Reinforcement Learning-based Multimodal Data Fusion Framework for Human–robot Confrontation Gaming](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1084000/full)" accepted to Frontiers in Neurorobotics, as an invited paper for the issue of "Horizons in Neurorobotics 2022"!
 * April 20, 2023, Our paper "[An Adaptive Reinforcement Learning-based Multimodal Data Fusion Framework for Human–robot Confrontation Gaming](https://www.sciencedirect.com/science/article/pii/S0893608023002290)" accepted to Neural Networks!
+* December 7, 2022, Our paper "[A control strategy of robot eye-head coordinated gaze behavior achieved for minimized neural transmission noise](https://ieeexplore.ieee.org/abstract/document/9916584)" accepted to IEEE/ASME Transactions on Mechatronics! 
 * August 11, 2022, Our paper "[Improved Kernel Correlation Filter based Moving Target Tracking for Robot Grasping](https://ieeexplore.ieee.org/abstract/document/9845468)" accepted to IEEE Transactions on Instrumentation and Measurement!
 * May 26, 2022, Our paper "[Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation](https://www.icra2022.org/program/awards)" win the best conference paper award <span style="color:red">**"Outstanding Interaction Paper"**</span>  at ICRA 2022!
 * April 22, 2022, Our paper "[Human-in-the-Loop Control of Soft Exosuits Using Impedance Learning on Different Terrains](https://ieeexplore.ieee.org/abstract/document/9761879)" accepted to IEEE Transactions on Robotics!
