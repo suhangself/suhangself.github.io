@@ -13,10 +13,11 @@ redirect_from:
     * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) (Impact Factor 6.636): Since 2022
     * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 4.546): Since 2022
     * [International Journal of Medical Robotics and Computer Assisted Surgery](https://onlinelibrary.wiley.com/journal/1478596x) (Impact Factor 2.483): Editorial Advisory Board, Since 2023
-    * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): Since 2021
-    * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): Since 2021
     * [Cognitive Computation and Systems](https://ietresearch.onlinelibrary.wiley.com/journal/25177567): Since 2021
     * [Mechatronics Technology](https://www.elspub.com/journals/mechatronics-technology/about/): Since 2022
+ 
+    * [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): 2021 ~ 2023
+    * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): 2021 ~ 2023
     
 * Guest Associate Editor:
     * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
