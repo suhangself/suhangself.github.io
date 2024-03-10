@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 * Associate Editor:
-    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) (Impact Factor 6.636): Since 2022
-    * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 4.546): Since 2022
+    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) (Impact Factor 5.6): Since 2022
+    * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 5.0): Since 2022
     * [International Journal of Medical Robotics and Computer Assisted Surgery](https://onlinelibrary.wiley.com/journal/1478596x) (Impact Factor 2.483): Editorial Advisory Board, Since 2023
     * [Cognitive Computation and Systems](https://ietresearch.onlinelibrary.wiley.com/journal/25177567): Since 2021
     * [Mechatronics Technology](https://www.elspub.com/journals/mechatronics-technology/about/): Since 2022
