@@ -80,11 +80,8 @@ analytics:
 author:
   name             : "Hang Su"
   avatar           : "hangsu.jpeg"
-  bio              : "Faculty of Automatic Control, Electronics and Computer Science, Silesian University of Technology."
-  location         : "Gliwice, Poland"
-#   bio              : "Research Fellow, Institute of Advanced Technology, University of Science and Technology of China"
-#  location         : "Hefei, China"
-#  employer         : "34-F-2-340"
+  bio              : "University of Paris-Saclay, University of Evry Val Essonne"
+  location         : "Paris, France"
   googlescholar    : "https://scholar.google.com/citations?user=r4Sv57MAAAAJ&hl=en"
   email            : "hang.su@ieee.org"
   uri              :
