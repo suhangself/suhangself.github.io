@@ -10,7 +10,7 @@ redirect_from:
  
 
 
-I have a broad interest in Robotics, Artificial Intelligence, Embodiment Intelligence, Human-robot Interaction.
+I have a broad interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence.
 
 
 
