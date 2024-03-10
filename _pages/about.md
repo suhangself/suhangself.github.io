@@ -10,12 +10,14 @@ redirect_from:
  
 
 
-I have a broad interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence.
+I have a broad research interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence.
 
 
 
 Recent News 
 ======
+* March 1, 2024, Our paper "[Graph Representation Learning and Optimization for Spherical Emission Source Microscopy System](https://ieeexplore.ieee.org/abstract/document/10403986)" accepted to IEEE Transactions on Automation Science and Engineering!
+* January 2, 2024, Our paper "[Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network with Spation-Temporal Attention](https://ieeexplore.ieee.org/abstract/document/10403986)" accepted to IEEE Robotics and Automation Letters!
 * June 2, 2023, Our paper "[Recent Advancements in Multimodal Human–robot Interaction](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1084000/full)" accepted to Frontiers in Neurorobotics, as an invited paper for the issue of "Horizons in Neurorobotics 2022"!
 * April 20, 2023, Our paper "[An Adaptive Reinforcement Learning-based Multimodal Data Fusion Framework for Human–robot Confrontation Gaming](https://www.sciencedirect.com/science/article/pii/S0893608023002290)" accepted to Neural Networks!
 * December 7, 2022, Our paper "[A control strategy of robot eye-head coordinated gaze behavior achieved for minimized neural transmission noise](https://ieeexplore.ieee.org/abstract/document/9916584)" accepted to IEEE/ASME Transactions on Mechatronics! 
