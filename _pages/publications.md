@@ -27,7 +27,9 @@ F. Wang, F. Chen, Y. Dong, Q. Yong, X. Yang, L. Zheng, X. Zhang, and <b>H. Su</b
  F. Chen, F. Wang, Y. Dong, Q. Yong, X. Yang, L. Zheng, Y. Gao, and <b>H. Su</b>. <br>
 <i>Bioengineering.</i> <b>2023</b>.
 
-
+<b>[Meta-reinforcement learning based on self-supervised task representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/26210)</b><br>
+ M. Wang, Z. Bing, X. Yao, S. Wang, Kai. H, <b>H. Su</b>.  C. Yang, and A. Knoll <br>
+<i>Proceedings of the AAAI Conference on Artificial Intelligence.</i> <b>2023</b>.
 
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
