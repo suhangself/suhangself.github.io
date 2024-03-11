@@ -35,6 +35,10 @@ F. Wang, F. Chen, Y. Dong, Q. Yong, X. Yang, L. Zheng, X. Zhang, and <b>H. Su</b
   <b>H. Su</b>., W. Qi, J. Chen, C. Yang, J. Sandoval, and MA. Laribi<br>
 <i>Frontiers in Neurorobotics.</i> <b>2023</b>.
 
+<b>[An Adaptive Reinforcement Learning-based Multimodal Data Fusion Framework for Human-Robot Confrontation Gaming](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1084000/full)</b><br>
+ W. Qi, H. Fan, H. Karimi, and <b>H. Su</b>. <br>
+<i>Neural Networks.</i> <b>2023</b>.
+
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
 <b>H. Su</b>., W. Qi, D. Zhang, and J. Chen <br>
