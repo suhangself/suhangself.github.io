@@ -19,6 +19,10 @@ author_profile: true
 Z. Liu, X. Lu, W. Liu, W. Qi, and <b>H. Su</b>. <br>
 <i> IEEE Robotics and Automation Letters.</i> <b>2024</b>.
 
+<b>[Whole-Body Teleoperation Control of Dual-Arm Robot Using Sensor Fusion](https://www.mdpi.com/2313-7673/8/8/591)</b><br>
+F. Wang, F. Chen, Y. Dong, Q. Yong, X. Yang, L. Zheng, X. Zhang, and <b>H. Su</b>. <br>
+<i>Biomimetics.</i> <b>2023</b>.
+
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
 <b>H. Su</b>., W. Qi, D. Zhang, and J. Chen <br>
