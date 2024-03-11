@@ -13,11 +13,11 @@ author_profile: true
 
 <b>[Graph Representation Learning and Optimization for Spherical Emission Source Microscopy System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
  X. Liu, Z. Li, W. Zong, <b>H. Su</b>., P. Liu, and S. Ge<br>
-<i>IEEE Transactions on Automation Science and Engineering.</i> <b>2022</b>.
+<i>IEEE Transactions on Automation Science and Engineering.</i> <b>2024</b>.
 
 <b>[Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network with Spation-Temporal Attention](https://ieeexplore.ieee.org/abstract/document/10403986)</b><br>
 Z. Liu, X. Lu, W. Liu, W. Qi, and <b>H. Su</b>. <br>
-<i> IEEE Robotics and Automation Letters.</i> <b>2022</b>.
+<i> IEEE Robotics and Automation Letters.</i> <b>2024</b>.
 
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
