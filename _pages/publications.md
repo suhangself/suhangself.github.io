@@ -23,6 +23,12 @@ Z. Liu, X. Lu, W. Liu, W. Qi, and <b>H. Su</b>. <br>
 F. Wang, F. Chen, Y. Dong, Q. Yong, X. Yang, L. Zheng, X. Zhang, and <b>H. Su</b>. <br>
 <i>Biomimetics.</i> <b>2023</b>.
 
+<b>[Sensor Fusion-Based Anthropomorphic Control of a Robotic Arm](https://www.mdpi.com/2306-5354/10/11/1243)</b><br>
+ F. Chen, F. Wang, Y. Dong, Q. Yong, X. Yang, L. Zheng, Y. Gao, and <b>H. Su</b>. <br>
+<i>Bioengineering.</i> <b>2023</b>.
+
+
+
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
 <b>H. Su</b>., W. Qi, D. Zhang, and J. Chen <br>
