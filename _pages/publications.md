@@ -31,6 +31,10 @@ F. Wang, F. Chen, Y. Dong, Q. Yong, X. Yang, L. Zheng, X. Zhang, and <b>H. Su</b
  M. Wang, Z. Bing, X. Yao, S. Wang, Kai. H, <b>H. Su</b>.  C. Yang, and A. Knoll <br>
 <i>Proceedings of the AAAI Conference on Artificial Intelligence.</i> <b>2023</b>.
 
+<b>[Recent advancements in multimodal human–robot interaction](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1084000/full)</b><br>
+  <b>H. Su</b>., W. Qi, J. Chen, C. Yang, J. Sandoval, and MA. Laribi<br>
+<i>Frontiers in Neurorobotics.</i> <b>2023</b>.
+
 
 <b>[Fuzzy Approximation-based Task-space Control of Robot Manipulators with Remote Center of Motion Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
 <b>H. Su</b>., W. Qi, D. Zhang, and J. Chen <br>
