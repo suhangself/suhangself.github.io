@@ -204,15 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
-  - scope:
-      path: ""
-      type: _projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _teaching
   - scope:
       path: ""
