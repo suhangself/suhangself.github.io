@@ -3,7 +3,9 @@ title: "Conference Organizing"
 permalink: /conferenceorganizing/
 author_profile: true
 ---
+* Publicity Chair (2024)
 
+   * [The 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)](https://ichms.blog.torontomu.ca/)
 
 * IPCAI Award Panel (2023)
 
