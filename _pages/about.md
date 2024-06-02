@@ -13,7 +13,7 @@ I received my Ph.D. degree in Bioengineering from Politecnico di Milano, Milano,
 
 I have published over 100 papers in international journals and conferences. I am a recipient of the Outstanding Interaction Paper Award at the  IEEE International Conference on Robotics and Automation 2022 (ICRA 2022), the 2021 Andrew P. Sage Best Transactions Paper Award on IEEE Transactions on Human-Machine Systems (IEEE THMS), the Best Conference Paper Award in Advanced Robotics at the IEEE International Conference on Advanced Robotics and Mechatronics in 2020, and the ICRA Travel Award funded by the IEEE Robotics and Automation Society in 2019. 
 
-I have a broad research interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence. We are excited to announce multiple openings for highly motivated and talented individuals to join our dynamic research team. We are seeking Postdoctoral Fellows, Ph.D. candidates, and Master's students who are passionate about advancing knowledge in their respective fields. Please feel free to reach me at hang.su@ieee.org
+I have a broad research interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence. We are excited to announce multiple openings for highly motivated and talented individuals to join our dynamic research team. We are seeking Postdoctoral Fellows, Ph.D. candidates, and Master's students who are passionate about advancing knowledge in their respective fields. Please feel free to reach me.
 
 
 Recent News 
