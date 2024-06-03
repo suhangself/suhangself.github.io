@@ -14,6 +14,13 @@ I have published over 100 papers in prestigious international journals and confe
 
 My research interests span a wide range of topics, including Robotics, Human-Robot Interaction, Exoskeletons, Embodiment Intelligence, and Artificial Intelligence. We are currently excited to announce multiple openings for highly motivated and talented individuals to join our dynamic research team. We are seeking Postdoctoral Fellows, Ph.D. candidates, and Master's students who are passionate about advancing knowledge in their respective fields. Please feel free to contact me for more information.
 
+<div class="about-me">
+    <p>I received my Ph.D. degree in Bioengineering from Politecnico di Milano, Milano, Italy. ...</p>
+    <p>I have published over 100 papers in international journals and conferences. ...</p>
+    <p>I have a broad research interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence. ...</p>
+</div>
+
+
 
 Recent News 
 ======
