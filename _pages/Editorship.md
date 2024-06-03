@@ -40,5 +40,5 @@ redirect_from:
     *  [IEEE International Conference on Human-Machine Systems (ICHMS)]( https://ichms.blog.torontomu.ca/), 2024
     *  [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), Since 2021
     *  [IEEE International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), Since 2020
-    *  [IEEE International Conference on Robot & Human Interactive Communication (Ro-man)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/ro-man), Since 2020
+    *  [IEEE International Conference on Robot & Human Interactive Communication (Ro-man)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/ro-man), 2020
     *  [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), Since 2020
