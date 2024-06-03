@@ -72,31 +72,10 @@ Recent News
 * I was awarded the <span style="color:red">**"Force Control Executive"**</span> from the Sunrise Instruments 2018 in Shanghai, China.
 * May 24, 2018, Our paper [Safety-Enhanced Human-Robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8463148/authors#authors) accepted to ICRA 2018. 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Website</title>
-    <style>
-        .about-me p {
-            text-align: justify;
-        }
-        .visitor-map {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="about-me">
-        <p>I received my Ph.D. degree in Bioengineering from Politecnico di Milano, Milano, Italy. ...</p>
-        <p>I have published over 100 papers in international journals and conferences. ...</p>
-        <p>I have a broad research interest in Robotics, Human-robot Interaction, Exoskeleton, Embodiment Intelligence, and Artificial Intelligence. ...</p>
-    </div>
+
+
     <div class="visitor-map">
         <!-- Paste the Revolver Maps embed code here -->
         <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5m92eq2rcxk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=verdana&amp;l=33" async="async"></script>
     </div>
-</body>
-</html>
+
