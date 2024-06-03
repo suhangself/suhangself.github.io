@@ -84,8 +84,11 @@ redirect_from:
 <div class="visitor-map">
     <h2>Visitor Map</h2>
     <!-- 静态Revolver Maps嵌入代码 -->
-    <a href="https://www.revolvermaps.com?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33"><img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5m92eq2rcxk.png" width="256" height="128" alt="Map" style="border:0;"></a>
+    <a href="https://www.revolvermaps.com?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33">
+        <img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5m92eq2rcxk.png" width="512" height="256" alt="Map" style="border:0;">
+    </a>
 </div>
+
 
 
 
