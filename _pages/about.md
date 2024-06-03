@@ -86,6 +86,14 @@ redirect_from:
     <!-- Paste the Revolver Maps embed code here -->
     <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5m92eq2rcxk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=verdana&amp;l=33" async="async"></script>
 </div>
+<div class="visitor-map">
+    <h2>Visitor Map</h2>
+    <!-- 静态Revolver Maps嵌入代码 -->
+    <a href="https://www.revolvermaps.com?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33">
+        <img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5m92eq2rcxk.png" width="512" height="256" alt="Map" style="border:0;">
+    </a>
+</div>
+
 
 
 
