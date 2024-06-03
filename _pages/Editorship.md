@@ -28,7 +28,7 @@ redirect_from:
      
       <b> Special Issue on Emerging Topics of Advanced Robotics and Mechatronics </b>
 
-   * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
+   * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 11.9)
      
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
    
