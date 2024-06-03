@@ -14,6 +14,7 @@ redirect_from:
     margin-bottom: 1em;
 }
 .recent-news {
+    text-align: justify;
     margin-top: 2em;
 }
 .visitor-map {
