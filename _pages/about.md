@@ -83,7 +83,8 @@ redirect_from:
 
 <div class="visitor-map">
     <h2>Visitor Map</h2>
-    <!-- Static Revolver Maps embed code -->
-    <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/6.js?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33&v0=20&v1=20" async="async"></script>
+    <!-- 静态Revolver Maps嵌入代码 -->
+    <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33&v0=20&v1=20" async="async"></script>
 </div>
+
 
