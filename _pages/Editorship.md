@@ -32,7 +32,7 @@ redirect_from:
      
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
    
-   * [IEEE Robotics and Automation Letters](https://www.se.com/ww/en/work/campaign/industries-of-the-future/?gclid=EAIaIQobChMIhYXZ7qSl-AIVfz2tBh3BuAx2EAAYASAAEgJHlfD_BwE&gclsrc=aw.ds#xtor=SEC-1204-GOO-[Robot_Phrase]-[602792055330]-S-[robotics%20and%20automation]&utm_source=google&utm_purpose=marketo&utm_campaign=usa_go_sem_nb_mu_globalbu-ia-iotf-na&utm_term=robotics%20and%20automation) (Impact Factor 3.608)
+   * [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369) (Impact Factor 5.2)
      
       <b> Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications</b>
       
