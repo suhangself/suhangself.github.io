@@ -20,7 +20,15 @@ redirect_from:
     * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): 2021 ~ 2023
     
 * Guest Associate Editor:
-    * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
+    * [IEEE Transactions on Cognitive and Developmental Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)(Impact Factor 5)
+     
+      <b> Special Issue on Embodied Intelligence for Wearable Robotics </b>
+
+      * [Robotica](https://www.cambridge.org/core/journals/robotica)(Impact Factor 2.7)
+     
+      <b> Special Issue on Emerging Topics of Advanced Robotics and Mechatronics </b>
+
+   * [IEEE Transactions on Fuzzy Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)(Impact Factor 9.518)
      
       <b> Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets </b>
    
