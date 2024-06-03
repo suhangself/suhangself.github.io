@@ -19,7 +19,7 @@ redirect_from:
 }
 .visitor-map {
     text-align: left;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 </style>
 
