@@ -24,7 +24,7 @@ redirect_from:
      
       <b> Special Issue on Embodied Intelligence for Wearable Robotics </b>
 
-      * [Robotica](https://www.cambridge.org/core/journals/robotica)(Impact Factor 2.7)
+  * [Robotica ](https://www.cambridge.org/core/journals/robotica)(Impact Factor 2.7)
      
       <b> Special Issue on Emerging Topics of Advanced Robotics and Mechatronics </b>
 
