@@ -84,17 +84,11 @@ redirect_from:
 <div class="visitor-map">
     <h2>Visitor Map</h2>
     <!-- Paste the Revolver Maps embed code here -->
-    <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5m92eq2rcxk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=verdana&amp;l=33" async="async"></script>
-</div>
-<div class="visitor-map">
-    <h2>Visitor Map</h2>
-    <!-- 静态Revolver Maps嵌入代码 -->
-    <a href="https://www.revolvermaps.com?i=5m92eq2rcxk&m=0&c=ff0000&cr1=ffffff&f=verdana&l=33">
-        <img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5m92eq2rcxk.png" width="512" height="256" alt="Map" style="border:0;">
-    </a>
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5zzfavc973y&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5zzfavc973y&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+
 
 
 
