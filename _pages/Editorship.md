@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Editor 
+- [IEEE SMC Society eNewsletter](https://www.ieeesmc.org/publications/enewsletter/): Since 2023
 
 ## Associate Editor
 
