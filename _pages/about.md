@@ -81,6 +81,7 @@ redirect_from:
 </div>
 
 <div class="visitor-map">
+    <h2>Visitor Map</h2>
     <!-- Paste the Revolver Maps embed code here -->
     <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5m92eq2rcxk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=verdana&amp;l=33" async="async"></script>
 </div>
