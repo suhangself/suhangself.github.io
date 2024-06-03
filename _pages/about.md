@@ -17,7 +17,7 @@ redirect_from:
     margin-top: 2em;
 }
 .visitor-map {
-    text-align: center;
+    text-align: left;
     margin-top: 2em;
 }
 </style>
