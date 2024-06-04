@@ -4,10 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## PhD Thesis
-<b>Adaptive Control of Serial Redundant Robots for Minimally Invasive Surgery</b><br>
-<b>Hang Su</b>.<br>
-<i>Politecnico di Milano.</i> <b>2019</b>.
 
 ## Selected Publications
 
