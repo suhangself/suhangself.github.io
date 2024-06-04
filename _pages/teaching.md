@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 * M2 Mechatronics, Machine Vision and Artificial Intelligence
-  Paris-Sacalay Univerisity
+
+  English Course, Paris-Sacalay Univerisity
 
 
 
