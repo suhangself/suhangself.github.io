@@ -9,7 +9,7 @@ author_profile: true
 <style>
 .about-me p {
     text-align: justify;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 </style>
 
