@@ -35,6 +35,9 @@ redirect_from:
 - [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369) (Impact Factor 5.2)
   - **Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications**
 
+- [Frontiers in Neurorobotics](https://www.frontiersin.org/research-topics/38680/horizons-in-neurorobotics-2022) (Impact Factor 3.1)
+  - **Horizons in Neurorobotics 2022**
+
 ## Conference Associate Editor
 
 - [IEEE International Conference on Human-Machine Systems (ICHMS)](https://ichms.blog.torontomu.ca/), 2024
