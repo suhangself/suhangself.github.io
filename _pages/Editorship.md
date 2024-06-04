@@ -21,7 +21,7 @@ redirect_from:
 - [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): 2021 - 2023
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): 2021 - 2023
 
-## Guest Associate Editor
+## Guest Editor
 
 - [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 5)
   - **Special Issue on Embodied Intelligence for Wearable Robotics**
