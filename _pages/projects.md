@@ -7,19 +7,11 @@ author_profile: true
 
 
 
-* PhD in Medical Robotics (Bioengineering), Politecnico di Milano, 2019
+* Evolutionary Exoskeleton for Teenagers with Reduced Mobility (2024.1~2027.12)
   
-    * Advisors: Prof. Giancarlo Ferrigno 
+    * PI: Hang SU
     
-    * Title: Adaptive Control of Serial Redundant Robots for Minimally Invasive Surgery
+    * Description: 
     
-* MSc in Control Theory and Control Engineering (Automation), South China University of Technology, 2015
 
-    * Advisors: Prof. Chunyi Su
-    
-    * Title: Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
-    
-* BSc (hons) in Automation (Computer Science), Yantai University, 2012
- 
-    * Advisor: Prof. Zhaowei Liu
 
