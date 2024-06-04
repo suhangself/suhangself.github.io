@@ -7,6 +7,9 @@ author_profile: true
 
 
 <style>
+.about-me {
+    margin-top: 2em; /* 增加顶部边距 */
+}
 .about-me p {
     text-align: justify;
     margin-bottom: 0.5em;
