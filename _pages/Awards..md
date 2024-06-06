@@ -12,7 +12,7 @@ redirect_from:
 
 * Research Achievements
 
-    * World Robot Contest Top 10 Technological Innovation Achievements, World Robot Conference 2023
+    * World Robot Contest Top 10 Technological Innovation Achievements, World Robot Conference 2023, WRC 2023 
 
     * Outstanding Interaction Paper Award, IEEE ICRA 2022
 
