@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications
 
+<b>[Distributed real-time control architecture for electrohydraulic humanoid robots](https://www.emerald.com/insight/content/doi/10.1108/RIA-01-2024-0013/full/html)</b><br>
+ S. Jleilaty, A. Ammounah, G. Abdulmalek, L. NOUVELIERE, <b>H. Su</b>., S. Alfayad<br>
+<i>Robotic Intelligence and Automation.</i> <b>2024</b>.
+
 <b>[Graph Representation Learning and Optimization for Spherical Emission Source Microscopy System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729601)</b><br>
  X. Liu, Z. Li, W. Zong, <b>H. Su</b>., P. Liu, and S. Ge<br>
 <i>IEEE Transactions on Automation Science and Engineering.</i> <b>2024</b>.
