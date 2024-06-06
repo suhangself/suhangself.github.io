@@ -30,6 +30,8 @@ redirect_from:
 
 * Entrepreneurship Competition
 
+    * The 18th “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Winner Award, The Ministry of Education of the People's Republic of China (2023)
+      
     * The 17th “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Winner Award, The Ministry of Education of the People's Republic of China (2022)
 
     * The Third Prize in China Xiamen Enterpreneurship Competition (UK) Competition Winner Award, The Xiamen Enterpreneurship Competition 2022 UK Organizing Committee, 2,000 £
