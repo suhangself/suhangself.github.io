@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications
 
+<b>[Horizons in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2024.1426355/full)</b><br>
+ F. Röhrbein, <b>H. Su</b>., P. Manoonpong <br>
+<i>Frontiers in Neurorobotics.</i> <b>2024</b>.
+
 <b>[Distributed real-time control architecture for electrohydraulic humanoid robots](https://www.emerald.com/insight/content/doi/10.1108/RIA-01-2024-0013/full/html)</b><br>
  S. Jleilaty, A. Ammounah, G. Abdulmalek, L. NOUVELIERE, <b>H. Su</b>., S. Alfayad<br>
 <i>Robotic Intelligence and Automation.</i> <b>2024</b>.
