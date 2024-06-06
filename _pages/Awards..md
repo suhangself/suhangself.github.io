@@ -40,7 +40,7 @@ redirect_from:
 
     * The Second Prize in the 10th Jinan Lixia District Entrepreneurship Competition (2023)， 1,500 £
  
-    * The Third Prize in the 9th Qingdao "Mayor's Cup" Innovation and Entrepreneurship Competition (2023)， 1,500 £
+    * The Third Prize in the 9th Qingdao Mayor's Cup Innovation and Entrepreneurship Competition (2023)， 1,500 £
  
     * The Third Prize in the 2nd Weihai City Commercial Bank Cup Innovation and Entrepreneurship Competition (2023)， 1,000 £
 
