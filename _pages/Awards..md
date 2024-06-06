@@ -36,8 +36,12 @@ redirect_from:
       
     * The 17th “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Winner Award, The Ministry of Education of the People's Republic of China (2022)
 
-    * The Third Prize in China Xiamen Enterpreneurship Competition (UK) Competition Winner Award, The Xiamen Enterpreneurship Competition 2022 UK Organizing Committee, 2,000 £
+    * The Third Prize in China Xiamen Entrepreneurship Competition (UK) Competition Winner Award, The Xiamen Entrepreneurship Competition 2022 UK Organizing Committee, 2,000 £
 
-    * The Second Prize in the 10th Jinan Lixia District Entrepreneurship Competition, Jinan Lixia District Human Resources and Social Security Bureau Government (2023)， 1,500 £
+    * The Second Prize in the 10th Jinan Lixia District Entrepreneurship Competition (2023)， 1,500 £
+ 
+    * The Third Prize in the 9th Qingdao "Mayor's Cup" Innovation and Entrepreneurship Competition (2023)， 1,500 £
+ 
+    * The Third Prize in the 2nd Weihai City Commercial Bank Cup Innovation and Entrepreneurship Competition (2023)， 1,000 £
 
     * Force Control Executive, Sunrise Instruments（2018),10,000 £
