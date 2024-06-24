@@ -1,5 +1,5 @@
 ---
-title: "Demostration"
+title: "Demonstration"
 permalink: /researchdemonstration/
 author_profile: true
 ---
