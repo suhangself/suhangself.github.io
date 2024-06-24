@@ -8,5 +8,7 @@ author_profile: true
 
 # Research Demonstrations
 
-This is a test message to verify that the page is loading correctly.
+## GIF Demonstration 1: Exoskeleton Robot
+
+<img src="images/remote.gif" alt="Exoskeleton Robot GIF" width="600">
 
