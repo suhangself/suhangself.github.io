@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Research Demonstration"
-permalink: /research-demonstration/
+title: "Demostration"
+permalink: /researchdemonstration/
 author_profile: true
 ---
 
