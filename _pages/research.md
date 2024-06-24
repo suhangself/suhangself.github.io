@@ -1,6 +1,6 @@
 ---
 title: "Demonstration"
-permalink: /researchdemonstration/
+permalink: /research/
 author_profile: true
 ---
 
