@@ -20,7 +20,7 @@ redirect_from:
 
 ## GIF Demonstration 1: Exoskeleton Robot
 
-<img src="path_to_your_gif1.gif" alt="Exoskeleton Robot GIF" width="600">
+<img src="images/remote.gif" alt="Exoskeleton Robot GIF" width="600">
 
 ## Video Demonstration 2: Control Theory
 
