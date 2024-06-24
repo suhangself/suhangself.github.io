@@ -1,22 +1,15 @@
 ---
 layout: archive
 title: "Research Demonstration"
-permalink: /research-demonstration/
+permalink: /research_demonstration/
 author_profile: true
 redirect_from:
-  - /education/
+  - /research_demonstration/
 ---
 
 {% include base_path %}
 
 # Research Demonstrations
-
-## Video Demonstration 1: Medical Robotics
-
-<video width="600" controls>
-  <source src="path_to_your_video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## GIF Demonstration 1: Exoskeleton Robot
 
