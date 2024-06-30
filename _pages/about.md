@@ -34,6 +34,7 @@ redirect_from:
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
+        <li>June 30, 2024, Our paper "<a href="https://suhangself.github.io/">Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network with Spation-Temporal Attention</a>" accepted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024  in Abu Dhabi!</li>
         <li>March 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10403986">Graph Representation Learning and Optimization for Spherical Emission Source Microscopy System</a>" accepted to IEEE Transactions on Automation Science and Engineering!</li>
         <li>January 2, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10403986">Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network with Spation-Temporal Attention</a>" accepted to IEEE Robotics and Automation Letters!</li>
         <li>October 31, 2023, the "Immersive Dual-arm Dexterous Teleoperation System" we developed won <span style="color:red;">World Robot Contest Top 10 Technological Innovation Achievements</span> at the World Robot Conference, WRC 2023!</li>
