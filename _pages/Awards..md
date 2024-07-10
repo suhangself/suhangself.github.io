@@ -27,6 +27,8 @@ redirect_from:
     * Best Conference Paper Award Finalist, IEEE ICARM 2021
 
     * Best Paper Award in Advanced Robotics, IEEE ICARM 2020
+ 
+    * Research Fellowship Grand Award, Politecnico di Milano, 2020
 
     * RAS Travel Grant Award, IEEE ICRA 2019
 
