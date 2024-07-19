@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* ROBOTIC SYSTEMS ARCHITECTURES AND PROGRAMMING
+* Robotics Systems Architecture and Programming
   
   M2 Mechatronics, Machine Vision and Artificial Intelligence
 
