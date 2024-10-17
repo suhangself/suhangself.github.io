@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Editor 
+## IEEE Society eNews Editor 
 - [IEEE SMC Society eNewsletter](https://www.ieeesmc.org/publications/enewsletter/): Since 2023
 
-## Associate Editor
+## Journal Associate Editor
 
 - [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) (Impact Factor 5.6): Since 2022
 - [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 5.0): Since 2022
@@ -23,7 +23,7 @@ redirect_from:
 - [Frontiers in Neurorobotics](https://www.frontiersin.org/journals/neurorobotics) (Impact Factor 2.574): 2021 - 2023
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) (Impact Factor 4.677): 2021 - 2023
 
-## Guest Editor
+## Journal Guest Editor
 
 - [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 5)
   - **Special Issue on Embodied Intelligence for Wearable Robotics**
