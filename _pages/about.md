@@ -95,14 +95,3 @@ redirect_from:
     <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b18acb6zta&m=0&h=177&c=ff0000&r=5" async="async"></script>
 </div>
 
-
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/bfb9467f-f763-4ebe-b6f0-c1c8a3f45ef9)
-
