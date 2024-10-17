@@ -12,6 +12,8 @@ redirect_from:
 
 * Research Achievements
 
+    * Top 2% of Scientists Worldwide by Stanford University, 2021~2024
+    * 
     * World Robot Contest Top 10 Technological Innovation Achievements, World Robot Conference, WRC 2023 
 
     * Outstanding Interaction Paper Award, IEEE ICRA 2022
