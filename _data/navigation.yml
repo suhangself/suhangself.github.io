@@ -1,34 +1,42 @@
-main links links
-main:
-  - title: "Education"
-    url: /education/
+# main links links
+ main:
+#  - title: "Education"
+#    url: /education/
+
+# - title: "Projects"
+#   url: /projects/
+
+
+   - title: "Publications"
+     url: /publications/  
+
+   - title: "Demonstrations"
+     url: /research/ 
     
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Publications"
-    url: /publications/  
-
-  - title: "Demonstrations"
-    url: /research/ 
-
-  # - title: "Awards"
-  #   url: /Awards/ 
-  
-  # - title: "Teaching"
-  #   url: /teaching/    
-
-  # - title: "Conference Organizing"
-  #   url: /conferenceorganizing/ 
-    
-  # - title: "Editorship"
-  #   url: /Editorship/
-
-  # - title: "Talks"
-  #   url: /talks/ 
      
-  - title: "Blog Posts"
-    url: /year-archive/
+   - title: "Awards"
+     url: /Awards/ 
+  
+   - title: "Teaching"
+     url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+   - title: "Projects"
+     url: /projects/
+    
+   - title: "Conference Organizing"
+     url: /conferenceorganizing/ 
+    
+   - title: "Editorship"
+     url: /Editorship/
+
+   - title: "Talks"
+     url: /talks/ 
+    
+    
+
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+ #  - title: "Guide"
+ #    url: /markdown/
