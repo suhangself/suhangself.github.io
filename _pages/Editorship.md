@@ -25,19 +25,19 @@ redirect_from:
 
 ## Journal Guest Editor
 
-- [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989) (Impact Factor 5)
+- [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)
   - **Special Issue on Embodied Intelligence for Wearable Robotics**
 
-- [Robotica](https://www.cambridge.org/core/journals/robotica) (Impact Factor 2.7)
+- [Robotica](https://www.cambridge.org/core/journals/robotica)
   - **Special Issue on Emerging Topics of Advanced Robotics and Mechatronics**
 
-- [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) (Impact Factor 11.9)
+- [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)
   - **Special Issue on Cyborg Intelligence: Human Enhancement with Fuzzy Sets**
 
-- [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369) (Impact Factor 5.2)
+- [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
   - **Autonomous System in Robotic Surgery: Current Challenges in Design, Modeling, Perception, Control and Applications**
 
-- [Frontiers in Neurorobotics](https://www.frontiersin.org/research-topics/38680/horizons-in-neurorobotics-2022) (Impact Factor 3.1)
+- [Frontiers in Neurorobotics](https://www.frontiersin.org/research-topics/38680/horizons-in-neurorobotics-2022)
   - **Horizons in Neurorobotics 2022**
 
 ## Conference Associate Editor
