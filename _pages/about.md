@@ -34,6 +34,9 @@ redirect_from:
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
+        <li>October 10, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot</a>" accepted to IEEE Transactions on Human-Machine Systems!</li>
+        <li>October 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10680468">The Methodology of Quantitative Social Intention Evaluation and Robot Gaze Behavior Control in Multi-Objects Scenario</a>" accepted to  IEEE Transactions on Cognitive and Developmental Systems!</li>   
+        <li>September 30, 2024, Our paper "<a href="https://ieee-telepresence.org/">Teleoperation Control of Humanoid Robot Wheeled Chassis Based on Plantar Pressure Perception</a>" accepted to the 2024 IEEE Conference on Telepresence in California!</li>
         <li>June 30, 2024, Our paper "<a href="https://suhangself.github.io/">Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network</a>" accepted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024  in Abu Dhabi!</li>
         <li>March 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10403986">Graph Representation Learning and Optimization for Spherical Emission Source Microscopy System</a>" accepted to IEEE Transactions on Automation Science and Engineering!</li>
         <li>Februray 24, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10555765">A Visual Calibration Driven Gait Analysis Model using Wearables</a>" accepted to 2024 IEEE 4th International Conference on Human-Machine Systems (ICHMS) in Toronto, Canada!</li>
