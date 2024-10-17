@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-## IEEE Society eNews Editor 
+## IEEE Society eNews Editor Board
 - [IEEE SMC Society eNewsletter](https://www.ieeesmc.org/publications/enewsletter/): Since 2023
 
 ## Journal Associate Editor
