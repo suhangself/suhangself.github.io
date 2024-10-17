@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Robotics Systems Architecture and Programming
+* Robotics Systems Architecture
 * Programation
   
   English Course,
