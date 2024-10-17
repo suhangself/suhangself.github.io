@@ -91,9 +91,10 @@ redirect_from:
 
 <div class="visitor-map">
     <h2>Visitor Map</h2>
-    <!-- Paste the Revolver Maps embed code here -->
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b18acb6zta&amp;m=0&amp;h=177&amp;c=ff0000&amp;r=5" async="async"></script>
+    <!-- Check if the embed link is correct -->
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b18acb6zta&m=0&h=177&c=ff0000&r=5" async="async"></script>
 </div>
+
 
 
 
