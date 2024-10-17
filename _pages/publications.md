@@ -7,6 +7,14 @@ author_profile: true
 
 ## Selected Publications
 
+<b>[A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot](https://ieeexplore.ieee.org/abstract/document/10709865)</b><br>
+<b>H. Su</b>, F. J. Sheiban, W. Qi, S. E. Ovur, S. Alfayad<br>
+<i>IEEE Transactions on Human-Machine Systems</i> <b>2024</b>.
+
+<b>[The Methodology of Quantitative Social Intention Evaluation and Robot Gaze Behavior Control in Multi-Objects Scenario](https://ieeexplore.ieee.org/abstract/document/10680468)</b><br>
+H. Zhu, X. Liu, <b>H. Su</b>, W. Wang, J. Yu<br>
+<i>IEEE Transactions on Cognitive and Developmental Systems</i> <b>2024</b>.
+
 <b>[Horizons in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2024.1426355/full)</b><br>
  F. Röhrbein, <b>H. Su</b>, P. Manoonpong <br>
 <i>Frontiers in Neurorobotics.</i> <b>2024</b>.
