@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Robotics Systems Architecture and Programming,
-  M2 Mechatronics, Machine Vision and Artificial Intelligence
-
-* Programation, M2 Mechatronics, Machine Vision and Artificial Intelligence
+* Robotics Systems Architecture and Programming
+* Programation
   
-  English Course, Paris-Sacalay Univerisity
+  English Course,
+  M2 Mechatronics, Machine Vision and Artificial Intelligence,
+  Paris-Sacalay Univerisity
 
 
 
