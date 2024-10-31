@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications
 
+<b>[Exploring the Potential of Fuzzy Sets in Cyborg Enhancement: A Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/10709865)</b><br> 
+<b>H. Su</b>, E. O. Salih, Z. Xu, S. Alfayad<br> 
+<i>IEEE Transactions on Fuzzy Systems</i> <b>2024</b>.
+
 <b>[A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot](https://ieeexplore.ieee.org/abstract/document/10709865)</b><br>
 <b>H. Su</b>, F. J. Sheiban, W. Qi, S. E. Ovur, S. Alfayad<br>
 <i>IEEE Transactions on Human-Machine Systems</i> <b>2024</b>.
