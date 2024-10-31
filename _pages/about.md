@@ -34,6 +34,7 @@ redirect_from:
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
+        <li>November 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">Exploring the Potential of Fuzzy Sets in Cyborg Enhancement: A Comprehensive Review</a>" accepted to IEEE Transactions on Fuzzy Systems!</li>
         <li>October 10, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot</a>" accepted to IEEE Transactions on Human-Machine Systems!</li>
         <li>October 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10680468">The Methodology of Quantitative Social Intention Evaluation and Robot Gaze Behavior Control in Multi-Objects Scenario</a>" accepted to  IEEE Transactions on Cognitive and Developmental Systems!</li>   
         <li>September 30, 2024, Our paper "<a href="https://ieee-telepresence.org/">Teleoperation Control of Humanoid Robot Wheeled Chassis Based on Plantar Pressure Perception</a>" accepted to the 2024 IEEE Conference on Telepresence in California, USA!</li>
