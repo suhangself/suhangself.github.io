@@ -83,7 +83,7 @@ author:
   bio              : "IBISC Lab, UEVE <br>
                       University of Paris-Saclay"
   location         : "Paris, France"
-  googlescholar    : "https://scholar.google.com/citations?user=r4Sv57MAAAAJ&hl=en"
+#  googlescholar    : "https://scholar.google.com/citations?user=r4Sv57MAAAAJ&hl=en"
   email            : "hang.su@ieee.org"
   uri              :
   bitbucket        :
@@ -99,8 +99,8 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "hang-su-en042510b"
-  researchgate     : "https://www.researchgate.net/profile/Hang-Su-44"
-  orcid            : "https://orcid.org/0000-0002-6877-6783"
+#  researchgate     : "https://www.researchgate.net/profile/Hang-Su-44"
+#  orcid            : "https://orcid.org/0000-0002-6877-6783"
   pinterest        :
   soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
