@@ -3,24 +3,24 @@
 #  - title: "Education"
 #    url: /education/
 
-  - title: "Projects"
-    url: /projects/
+#    - title: "Projects"
+#      url: /projects/
 
 
     - title: "Publications"
       url: /publications/  
 
-   - title: "Demonstrations"
-     url: /research/ 
+    - title: "Demonstrations"
+      url: /research/ 
     
      
     - title: "Awards"
       url: /Awards/ 
   
-   - title: "Teaching"
+    - title: "Teaching"
      url: /teaching/    
     
-   - title: "Projects"
+    - title: "Projects"
      url: /projects/
     
     - title: "Conference Organizing"
