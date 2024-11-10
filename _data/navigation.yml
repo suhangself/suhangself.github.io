@@ -18,10 +18,10 @@
       url: /Awards/ 
   
     - title: "Teaching"
-     url: /teaching/    
+      url: /teaching/    
     
     - title: "Projects"
-     url: /projects/
+      url: /projects/
     
     - title: "Conference Organizing"
       url: /conferenceorganizing/ 
