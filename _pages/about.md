@@ -92,7 +92,7 @@ redirect_from:
 
 <div class="visitor-map">
     <h2>Visitor Map</h2>
-    <!-- 替换 YOUR_CODE 为 FlagCounter 生成的代码 -->
+    <a href="https://info.flagcounter.com/OFXx"><img src="https://s11.flagcounter.com/map/OFXx/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
     <a href="https://info.flagcounter.com/YOUR_CODE" target="_blank">
         <img src="https://s11.flagcounter.com/count2/YOUR_CODE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter">
     </a>
