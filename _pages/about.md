@@ -92,7 +92,10 @@ redirect_from:
 
 <div class="visitor-map">
     <h2>Visitor Map</h2>
-    <!-- Check if the embed link is correct -->
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b18acb6zta&m=0&h=177&c=ff0000&r=5" async="async"></script>
+    <!-- 替换 YOUR_CODE 为 FlagCounter 生成的代码 -->
+    <a href="https://info.flagcounter.com/YOUR_CODE" target="_blank">
+        <img src="https://s11.flagcounter.com/count2/YOUR_CODE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter">
+    </a>
 </div>
+
 
