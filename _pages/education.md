@@ -22,9 +22,11 @@ redirect_from:
     * Advisors: Prof. Chunyi Su
     
     * Title: Virtual Reality based Control of Exoskeleton Robot for Rehabilitation Training
+ 
+<!--
     
 * BSc (hons) in Automation (Computer Science), Yantai University, 2012
  
     * Advisor: Prof. Zhaowei Liu
 
-
+-->
