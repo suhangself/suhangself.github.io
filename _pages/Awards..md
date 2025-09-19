@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* Research Achievements
+<!-- * Research Achievements -->
 
     * Top 2% of Scientists Worldwide by Stanford University, 2021~2024
       
@@ -34,6 +34,7 @@ redirect_from:
 
     * RAS Travel Grant Award, IEEE ICRA 2019
 
+<!-- 
 * Entrepreneurship Competition
 
     * The 18th “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Winner Award, The Ministry of Education of the People's Republic of China (2023)
@@ -49,3 +50,5 @@ redirect_from:
     * The Third Prize in the 2nd Weihai City Commercial Bank Cup Innovation and Entrepreneurship Competition (2023)， 1,000 £
 
     * Force Control Executive, Sunrise Instruments（2018),10,000 £
+
+    -->
