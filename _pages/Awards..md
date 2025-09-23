@@ -13,7 +13,7 @@ redirect_from:
 * Research Achievements
 -->
 
-- Top 2% of Scientists Worldwide by Stanford University, 2021~2024
+- Top 2% of Scientists Worldwide by Stanford University, 2021~2025
 - World Robot Contest Top 10 Technological Innovation Achievements, World Robot Conference, WRC 2023
 - Outstanding Interaction Paper Award, IEEE ICRA 2022
 - The 2021 Andrew P. Sage Best Transactions Paper Award, IEEE Transactions on Human-Machine Systems
