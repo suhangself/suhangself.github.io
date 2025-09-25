@@ -1,5 +1,5 @@
 ---
-title: "Ongoing Projects"
+title: "Ongoing Leading Projects"
 permalink: /projects/
 author_profile: true
 ---
