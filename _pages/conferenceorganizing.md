@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * Technical Chair (2025)
-   * [International Symposium on Robotics and Artificial Intelligence (ISRAI 2025)](https://example.com/israi2025)
+   * [International Symposium on Robotics and Artificial Intelligence (ISRAI 2025)](https://www.israi.org/)
 
 * Program Committee (2025)
 
