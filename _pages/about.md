@@ -30,6 +30,7 @@ redirect_from:
 
 <p>I also contribute to the community through editorial service, including Associate Editor of the IEEE SMC Society eNewsletter and associate-editor roles with several IEEE Transactions and leading robotics conferences such as ICRA and IROS.</p>
 
+</div>
 
 <div class="recent-news">
     <h2>Recent News</h2>
