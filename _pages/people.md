@@ -18,8 +18,4 @@ author_profile: true
 * Hanbing Liu
 * Bangaly Conte
 
-## Past PostDoc
-
-## Past PhD Students
-
 ## Past Master Students
