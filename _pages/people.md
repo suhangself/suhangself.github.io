@@ -4,10 +4,6 @@ title: "People"
 author_profile: true
 ---
 
-## PostDoc
-
-## Engineer
-
 ## PhD Candidates
 
 * Etienne Largeteau
