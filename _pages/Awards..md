@@ -22,7 +22,6 @@ redirect_from:
 - Wiley Top Downloaded Article Award, Cognitive Computation and Systems, 2022
 - Best Conference Paper Award Finalist, IEEE ICARM 2021
 - Best Paper Award in Advanced Robotics, IEEE ICARM 2020
-- Research Fellowship Grand Award, Politecnico di Milano, 2020
 - RAS Travel Grant Award, IEEE ICRA 2019
 
 
