@@ -16,7 +16,7 @@ in teleoperation, service robotics and wearable control.
 ## GIF Demonstration 1: Teleoperated Humanoid Robot
 
 <p align="center">
-  <img src="images/remote2.gif"
+  <img src="images/space_robot_youtube5.png"
        alt="Teleoperated Humanoid Robot GIF"
        style="max-width: 100%; height: auto;">
 </p>
