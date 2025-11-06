@@ -13,7 +13,7 @@ service robotics and wearable control.
 
 ---
 
-## GIF Demonstration 1: Teleoperated Humanoid Robot
+## Demonstration 1: Teleoperated Humanoid Robot
 
 <p align="center">
   <img src="{{ '/images/remote.gif' | relative_url }}"
@@ -23,7 +23,7 @@ service robotics and wearable control.
 
 ---
 
-## GIF Demonstration 2: Human-Service Robot
+## Demonstration 2: Human-Service Robot
 
 <p align="center">
   <img src="{{ '/images/humanservice.gif' | relative_url }}"
