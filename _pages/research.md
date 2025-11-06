@@ -23,7 +23,7 @@ service robotics and wearable control.
 
 ---
 
-## Demonstration 2: Human-Service Robot
+## Demonstration 2: Service Robot
 
 <p align="center">
   <img src="{{ '/images/humanservice.gif' | relative_url }}"
@@ -36,7 +36,7 @@ service robotics and wearable control.
 ## Demonstration 3: Wearable Control Interface
 
 <p align="center">
-  <img src=‘/images/wearablecontrol.gif’ | relative_url }}"
+  <img src="{{ '/images/wearablecontrol.gif’ | relative_url }}"
        alt="Wearable Control Interface"
        style="max-width: 100%; height: auto;">
 </p>
