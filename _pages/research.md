@@ -8,15 +8,15 @@ author_profile: true
 
 # Research Demonstrations
 
-Here are several animated demonstrations of our ongoing research projects
-in teleoperation, service robotics and wearable control.
+Here are several animated demonstrations of our ongoing research projects in teleoperation,  
+service robotics and wearable control.
 
 ---
 
 ## GIF Demonstration 1: Teleoperated Humanoid Robot
 
 <p align="center">
-  <img src="images/space_robot_youtube5.png"
+  <img src="{{ '/images/remote.gif' | relative_url }}"
        alt="Teleoperated Humanoid Robot GIF"
        style="max-width: 100%; height: auto;">
 </p>
@@ -26,7 +26,7 @@ in teleoperation, service robotics and wearable control.
 ## GIF Demonstration 2: Human-Service Robot
 
 <p align="center">
-  <img src="images/humanservice.gif"
+  <img src="{{ '/images/humanservice.gif' | relative_url }}"
        alt="Human Service Robot GIF"
        style="max-width: 100%; height: auto;">
 </p>
@@ -36,7 +36,7 @@ in teleoperation, service robotics and wearable control.
 ## Demonstration 3: Wearable Control Interface
 
 <p align="center">
-  <img src="images/wearablecontrol.gif"
+  <img src="{{ '/images/wearablecontrol.png' | relative_url }}"
        alt="Wearable Control Interface"
        style="max-width: 100%; height: auto;">
 </p>
