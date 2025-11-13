@@ -1,6 +1,6 @@
 ---
 title: "Academic Service"
-permalink: /academic-service/
+permalink: /academicservice/
 author_profile: true
 ---
 
