@@ -8,8 +8,9 @@ author_profile: true
 # Editorship for Journals and Conferences
 <hr style="margin-top: -10px;">
 
-## Society Editorial Role
-**IEEE SMC Society E-Newsletter**, Associate Editor — In charge of the *Academic Corner* (Since 2022)
+## Society e-Newsletter 
+**IEEE SMC Society E-Newsletter**, Associate Editor 
+— In charge of the *Academic Corner* (Since 2022)
 
 
 ## Journal Editorship
