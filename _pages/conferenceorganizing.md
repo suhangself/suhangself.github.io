@@ -4,6 +4,9 @@ permalink: /conferenceorganizing/
 author_profile: true
 ---
 
+* Program Chair (2026)
+   * [The 6th International Conference on Computer and Communication Engineering (CCCE 2026)](https://www.ccce.net/com.html)
+
 * Technical Chair (2025)
    * [International Symposium on Robotics and Artificial Intelligence (ISRAI 2025)](https://www.israi.org/)
 
