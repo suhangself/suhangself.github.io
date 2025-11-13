@@ -41,7 +41,7 @@ author_profile: true
 
 
 
-# Funding Reviewer
+# Grant Reviewer
 <hr style="margin-top: -10px;">
 
 - **Netherlands Organization for Scientific Research (NWO)**  
