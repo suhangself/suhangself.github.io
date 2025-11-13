@@ -1,68 +1,82 @@
 ---
-title: "Conference Organizing"
-permalink: /academicservice/
+title: "Academic Service"
+permalink: /academic-service/
 author_profile: true
 ---
+{% include base_path %}
 
-* Program Chair (2026)
+## Conference Organizing
+
+* **Program Chair (2026)**
    * [The 6th International Conference on Computer and Communication Engineering (CCCE 2026)](https://www.ccce.net/index.html)
 
-* Technical Chair (2025)
+* **Technical Chair (2025)**
    * [International Symposium on Robotics and Artificial Intelligence (ISRAI 2025)](https://www.israi.org/)
 
-* Program Committee (2025)
-
+* **Program Committee (2025)**
    * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR25/index.html)
-  
-* Publicity Chair (2024)
 
+* **Publicity Chair (2024)**
    * [The 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)](https://ichms.blog.torontomu.ca/)
 
-* Program Committee (2024)
-
+* **Program Committee (2024)**
    * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR24/index.html)
 
-* IPCAI Award Panel (2023)
-
+* **IPCAI Award Panel (2023)**
    * [The 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2023)](https://www.ipcai.org/home)
 
-* Program Committee (2023)
-
+* **Program Committee (2023)**
    * [The 2023 International Conference on Advances in Computing Research (ACR’23)](https://easychair.org/cfp/ACR23)
 
-* Local Organizing Committee (2023)
+* **Local Organizing Committee (2023)**
+   * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications (MeTrApp 2023)](https://metrapp2023.sciencesconf.org/)
 
-   * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications
-(MeTrApp 2023)](https://metrapp2023.sciencesconf.org/)
+* **Organizing Chair (2023)**
+   * [The IEEE International Conference on Development and Learning (ICDL 2023)](https://icdl2022.qmul.ac.uk/)
 
-* Organizing Chair (2023)
+* **Program Chair (2023)**
+   * [The 9th International Conference on Electrical Engineering, Control and Robotics (EECR 2023)](http://www.eecr.org/)
 
-   * [The IEEE International Conference on Development and Learning (ICDL)](https://icdl2022.qmul.ac.uk/)
+* **Program Chair (2021/2022), Special Session Chair (2020)**
+   * [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](http://www.ieee-arm.org/)
 
-* Program Chair (2021/2022), Special Session Chair (2020)
+* **Lead Workshop Chair (2020)**
+   * [IEEE IROS 2020 Invited Workshop: "Autonomous System Medicine"](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
+   * [IEEE RO-MAN 2020 Workshop: "Integrating Sensor Fusion and Perception for HRI"](https://innovate.ieee.org/)
 
-   * [IEEE International Conference on Advanced Roboticsand Mechatronics (ICARM)](http://www.ieee-arm.org/)
+* **Lead Session Chair (2020–2021)**
+   * [IEEE RO-MAN 2020](https://www.ieee-ras.org/about-ras/ras-calendar/event/1851-ro-man-2020-international-symposium-on-robot-and-human-interactive-communication)
+   * [IEEE ICARM 2020](http://www.ieee-arm.org/icarm2020/index.php/contribute/invited-sessions/)
+   * [IEEE ICARM 2021](https://www.ieee-ras.org/about-ras/ras-calendar/event/1995-icarm-2021)
 
-*  Program Chair (2023)
+* **Technical Program Committee**
+   * [EAIS-CUBE 2021 – 12th EAI International Conference on Sensor Systems and Software](https://s-cubeconference.eai-conferences.org/2021/)
+   * [ICMSSP 2022 – 7th International Conference on Multimedia Systems and Signal Processing](https://2022.ieeeicassp.org/)
 
-   * [2023 The 9th International Conference on Electrical Engineering, Control and Robotics (EECR) ](http://www.eecr.org/)
-  
-* Lead Workshop Chair
 
-   * [IEEE IROS 2020 Invited Workshop of " Autonomous System Medicine "](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
+---
 
-   * [IEEE RO-man 2020 Invited Workshop of " Integrating SensorFusion and Perception for Human-robotInteraction "](https://innovate.ieee.org/?lt=LG_AD_Google_LM_Adwords_Brand_SEM&gclid=EAIaIQobChMI6oeBuZml-AIV7D6tBh10pA5TEAMYASAAEgLspfD_BwE)
+## Editorship for Journals and Conferences
 
-* Lead Session Chair
+### Associate Editor
+1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
+2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
+3. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
+4. **Frontiers in Neurorobotics** — Since 2021  
+5. **Frontiers in Neuroscience** — Since 2021  
+6. **Cognitive Computation and Systems** — Since 2020  
 
-   * [IEEE RO-man 2020 Invited Session of " Towards Intelligent and Natural Human-Robo Interaction in Medical Robot Applications "](https://www.ieee-ras.org/about-ras/ras-calendar/event/1851-ro-man-2020-international-symposium-on-robot-and-human-interactive-communication)
+### Guest Associate Editor
+1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
+2. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
+3. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
+4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
 
-   * [IEEE ICARM 2020 Invited Session of " Open Challenges and State-of-the-Art in Advanced Control of Medical Robot Applications "](http://www.ieee-arm.org/icarm2020/index.php/contribute/invited-sessions/)
 
-   * [IEEE ICARM 2021 Invited Session of " Recent Advancements in Medical Robotics "](https://www.ieee-ras.org/about-ras/ras-calendar/event/1995-icarm-2021)
+---
 
-* Technical Program Committee
+## Funding Reviewer
 
-   * [EAIS-CUBE 2021-12th EAI International Conference on Sensor Systems and Software](https://s-cubeconference.eai-conferences.org/2021/)
-
-   * [ICMSSP 2022-7th InternationalConference on Multimedia Systems and Signa Processing](https://2022.ieeeicassp.org/)
+### National Funding Agencies
+* **Netherlands Organization for Scientific Research (NWO)** — External Reviewer  
+* **Polish National Science Centre (NCN / NSC)** — External Reviewer  
