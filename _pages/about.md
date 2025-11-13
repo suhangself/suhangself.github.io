@@ -2,8 +2,8 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-title: "Academic Service"
-permalink: /academic-service/
+title: "About me"
+permalink: /about/
 author_profile: true
 redirect_from: 
   - /about/
