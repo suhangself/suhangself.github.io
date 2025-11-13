@@ -1,9 +1,37 @@
 ---
 title: "Academic Service"
-permalink: /academic-service/
+permalink: /academicservice/
 author_profile: true
 ---
 {% include base_path %}
+
+## Editorship for Journals and Conferences
+
+### Associate Editor
+1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
+2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
+3. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
+4. **Frontiers in Neurorobotics** — Since 2021  
+5. **Frontiers in Neuroscience** — Since 2021  
+6. **Cognitive Computation and Systems** — Since 2020  
+
+### Guest Associate Editor
+1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
+2. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
+3. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
+4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
+
+
+---
+
+## Funding Reviewer
+
+### National Funding Agencies
+* **Netherlands Organization for Scientific Research (NWO)** — External Reviewer  
+* **Polish National Science Centre (NCN / NSC)** — External Reviewer  
+
+
+---
 
 ## Conference Organizing
 
@@ -17,7 +45,7 @@ author_profile: true
    * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR25/index.html)
 
 * **Publicity Chair (2024)**
-   * [The 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)](https://ichms.blog.torontomu.ca/)
+   * [The 4th IEEE International Conference on Human-Machine Systems (ICHMS 2024)](https://ichms.blog.torontomu.ca/)
 
 * **Program Committee (2024)**
    * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR24/index.html)
@@ -52,31 +80,3 @@ author_profile: true
 * **Technical Program Committee**
    * [EAIS-CUBE 2021 – 12th EAI International Conference on Sensor Systems and Software](https://s-cubeconference.eai-conferences.org/2021/)
    * [ICMSSP 2022 – 7th International Conference on Multimedia Systems and Signal Processing](https://2022.ieeeicassp.org/)
-
-
----
-
-## Editorship for Journals and Conferences
-
-### Associate Editor
-1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
-2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
-3. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
-4. **Frontiers in Neurorobotics** — Since 2021  
-5. **Frontiers in Neuroscience** — Since 2021  
-6. **Cognitive Computation and Systems** — Since 2020  
-
-### Guest Associate Editor
-1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
-2. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
-3. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
-4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
-
-
----
-
-## Funding Reviewer
-
-### National Funding Agencies
-* **Netherlands Organization for Scientific Research (NWO)** — External Reviewer  
-* **Polish National Science Centre (NCN / NSC)** — External Reviewer  
