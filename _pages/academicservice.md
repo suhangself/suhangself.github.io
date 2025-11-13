@@ -7,29 +7,47 @@ author_profile: true
 
 ## Editorship for Journals and Conferences
 
-### Associate Editor
+### Society Editorial Role
+**IEEE SMC Society E-Newsletter**, Associate Editor – In charge of the *Academic Corner* (Since 2022)
+
+### Journal Editorship
 1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
-2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
-3. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
-4. **Frontiers in Neurorobotics** — Since 2021  
-5. **Frontiers in Neuroscience** — Since 2021  
-6. **Cognitive Computation and Systems** — Since 2020  
+2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022
+3. **Advances in Mechanical Engineering**, — Since 2024
+4. **Control Engineering Practice**, Early Career Advisory Board — Since 2024
+5. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
+6. **Frontiers in Neurorobotics** — 2021 ~ 2023  
+7. **Frontiers in Neuroscience** — 2021 ~ 2023 
+8. **Cognitive Computation and Systems** — Since 2020  
 
 ### Guest Associate Editor
 1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
 2. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
 3. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
-4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
+4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery
+
+### Conference Associate Editor
+1. **International Conference on Robotics and Automation (ICRA)** — Since 2021  
+2. **International Conference on Intelligent Robots and Systems (IROS)** — Since 2020  
+3. **IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)** — Since 2020  
+4. **IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)** — Since 2020  
+
 
 
 ---
 
 ## Funding Reviewer
 
-### National Funding Agencies
-* **Netherlands Organization for Scientific Research (NWO)** — External Reviewer  
-* **Polish National Science Centre (NCN / NSC)** — External Reviewer  
+* **Netherlands Organization for Scientific Research (NWO)** 
+* **Polish National Science Centre (NCN / NSC)**  
 
+
+---
+
+## Best Paper Award Committee
+
+* **Control Engineering Practice** — 2025  
+* **IPCAI Award Panel** — 2023  
 
 ---
 
