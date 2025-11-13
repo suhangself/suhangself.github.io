@@ -21,10 +21,12 @@ author_profile: true
 8. **Cognitive Computation and Systems** — Since 2020  
 
 ### Guest Associate Editor
-1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
-2. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
-3. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
-4. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery
+1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence
+2. **IEEE Transactions on Cognitive and Developmental Systems**, Special Issue on Embodied Intelligence for Wearable Robotics  
+3. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
+4. **Robotica**, Special Issue on Advanced Robotics and Mechatronics
+5. **Frontiers in Neurorobotics**, Horizons in Neurorobotics
+6. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery
 
 ### Conference Associate Editor
 1. **International Conference on Robotics and Automation (ICRA)** — Since 2021  
