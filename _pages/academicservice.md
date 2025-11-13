@@ -5,30 +5,34 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Editorship for Journals and Conferences
+# Editorship for Journals and Conferences
+<hr style="margin-top: -10px;">
 
-### Society Editorial Role
-**IEEE SMC Society E-Newsletter**, Associate Editor – In charge of the *Academic Corner* (Since 2022)
+## Society Editorial Role
+**IEEE SMC Society E-Newsletter**, Associate Editor — In charge of the *Academic Corner* (Since 2022)
 
-### Journal Editorship
+
+## Journal Editorship
 1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
-2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022
-3. **Advances in Mechanical Engineering**, — Since 2024
-4. **Control Engineering Practice**, Early Career Advisory Board — Since 2024
-5. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
-6. **Frontiers in Neurorobotics** — 2021 ~ 2023  
-7. **Frontiers in Neuroscience** — 2021 ~ 2023 
+2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
+3. **Advances in Mechanical Engineering** — Since 2024  
+4. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
+5. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
+6. **Frontiers in Neurorobotics** — 2021–2023  
+7. **Frontiers in Neuroscience** — 2021–2023  
 8. **Cognitive Computation and Systems** — Since 2020  
 
-### Guest Associate Editor
-1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence
+
+## Guest Associate Editor
+1. **IEEE Transactions on Fuzzy Systems**, Special Issue on Cyborg Intelligence  
 2. **IEEE Transactions on Cognitive and Developmental Systems**, Special Issue on Embodied Intelligence for Wearable Robotics  
 3. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
-4. **Robotica**, Special Issue on Advanced Robotics and Mechatronics
-5. **Frontiers in Neurorobotics**, Horizons in Neurorobotics
-6. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery
+4. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
+5. **Frontiers in Neurorobotics**, Horizons in Neurorobotics  
+6. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
 
-### Conference Associate Editor
+
+## Conference Associate Editor
 1. **International Conference on Robotics and Automation (ICRA)** — Since 2021  
 2. **International Conference on Intelligent Robots and Systems (IROS)** — Since 2020  
 3. **IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)** — Since 2020  
@@ -36,22 +40,20 @@ author_profile: true
 
 
 
----
+# Funding Reviewer
+<hr style="margin-top: -10px;">
 
-## Funding Reviewer
-
-* **Netherlands Organization for Scientific Research (NWO)** 
-* **Polish National Science Centre (NCN / NSC)**  
+- **Netherlands Organization for Scientific Research (NWO)**  
+- **Polish National Science Centre (NCN / NSC)**  
 
 
----
 
-## Best Paper Award Committee
+# Best Paper Award Committees
+<hr style="margin-top: -10px;">
 
-* **Control Engineering Practice** — 2025  
-* **IPCAI Award Panel** — 2023  
+- **Control Engineering Practice** — 2025  
+- **IPCAI Award Panel** — 2023  
 
----
 
 ## Conference Organizing
 
