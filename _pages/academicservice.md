@@ -9,7 +9,7 @@ author_profile: true
 <hr style="margin-top: -10px;">
 
 ## Society e-Newsletter 
-**IEEE SMC Society E-Newsletter**, Associate Editor 
+**IEEE SMC Society E-Newsletter**,
 — In charge of the *Academic Corner* (Since 2022)
 
 
