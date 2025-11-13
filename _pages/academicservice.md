@@ -1,8 +1,9 @@
 ---
 title: "Academic Service"
-permalink: /academicservice/
+permalink: /academic-service/
 author_profile: true
 ---
+{% include base_path %}
 
 ## Conference Organizing
 
@@ -41,16 +42,16 @@ author_profile: true
 
 * **Lead Workshop Chair (2020)**
    * [IEEE IROS 2020 Invited Workshop: "Autonomous System Medicine"](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
-   * [IEEE RO-MAN 2020 Workshop: "Integrating Sensor Fusion and Perception for HRI"](…)
+   * [IEEE RO-MAN 2020 Workshop: "Integrating Sensor Fusion and Perception for HRI"](https://innovate.ieee.org/)
 
 * **Lead Session Chair (2020–2021)**
-   * [IEEE RO-MAN 2020](…)
-   * [IEEE ICARM 2020](…)
-   * [IEEE ICARM 2021](…)
+   * [IEEE RO-MAN 2020](https://www.ieee-ras.org/about-ras/ras-calendar/event/1851-ro-man-2020-international-symposium-on-robot-and-human-interactive-communication)
+   * [IEEE ICARM 2020](http://www.ieee-arm.org/icarm2020/index.php/contribute/invited-sessions/)
+   * [IEEE ICARM 2021](https://www.ieee-ras.org/about-ras/ras-calendar/event/1995-icarm-2021)
 
 * **Technical Program Committee**
-   * [EAIS-CUBE 2021 – 12th EAI International Conference on Sensor Systems and Software](…)
-   * [ICMSSP 2022 – 7th International Conference on Multimedia Systems and Signal Processing](…)
+   * [EAIS-CUBE 2021 – 12th EAI International Conference on Sensor Systems and Software](https://s-cubeconference.eai-conferences.org/2021/)
+   * [ICMSSP 2022 – 7th International Conference on Multimedia Systems and Signal Processing](https://2022.ieeeicassp.org/)
 
 
 ---
@@ -79,5 +80,3 @@ author_profile: true
 ### National Funding Agencies
 * **Netherlands Organization for Scientific Research (NWO)** — External Reviewer  
 * **Polish National Science Centre (NCN / NSC)** — External Reviewer  
-
-
