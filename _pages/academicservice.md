@@ -58,6 +58,9 @@ author_profile: true
 
 ## Conference Organizing
 
+* **Organizing Chair (2026)**
+   * [The IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2026)](http://www.ieee-arm.org/)
+     
 * **Program Chair (2026)**
    * [The 6th International Conference on Computer and Communication Engineering (CCCE 2026)](https://www.ccce.net/index.html)
 
