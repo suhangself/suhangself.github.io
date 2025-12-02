@@ -58,47 +58,47 @@ author_profile: true
 
 ## Conference Organizing
 
-* **Program Chair (2026)**
-   * [The 2026 International Conference on Control, Robotics Engineering and Technology (CRET 2026)](https://www.cret.net/index.html)
+* **Program Chair (CRET 2026)**
+   * [The 2026 International Conference on Control, Robotics Engineering and Technology](https://www.cret.net/index.html)
     
-* **Organizing Chair (2026)**
-   * [The IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2026)](http://www.ieee-arm.org/)
+* **Organizing Chair (ICARM 2026)**
+   * [The IEEE International Conference on Advanced Robotics and Mechatronics](http://www.ieee-arm.org/)
      
-* **Program Chair (2026)**
-   * [The 6th International Conference on Computer and Communication Engineering (CCCE 2026)](https://www.ccce.net/index.html)
+* **Program Chair (CCCE 2026)**
+   * [The 6th International Conference on Computer and Communication Engineering](https://www.ccce.net/index.html)
 
- * **Publicity Chair (2026)**
-   * [The 9th International Conference on Intelligent Robotics and Control Engineering (IRCE 2026)](https://www.irce.org/)
+ * **Publicity Chair (IRCE 2026)**
+   * [The 9th International Conference on Intelligent Robotics and Control Engineering](https://www.irce.org/)
     
-* **Technical Chair (2025)**
-   * [International Symposium on Robotics and Artificial Intelligence (ISRAI 2025)](https://www.israi.org/)
+* **Technical Chair (ISRAI 2025)**
+   * [International Symposium on Robotics and Artificial Intelligence](https://www.israi.org/)
 
-* **Program Committee (2025)**
-   * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR25/index.html)
+* **Program Committee (ACR 2025)**
+   * [The 2024 International Conference on Advances in Computing Research](https://iicser.org/ACR25/index.html)
 
-* **Publicity Chair (2024)**
-   * [The 4th IEEE International Conference on Human-Machine Systems (ICHMS 2024)](https://ichms.blog.torontomu.ca/)
+* **Publicity Chair (ICHMS 2024)**
+   * [The 4th IEEE International Conference on Human-Machine Systems](https://ichms.blog.torontomu.ca/)
 
-* **Program Committee (2024)**
-   * [The 2024 International Conference on Advances in Computing Research (ACR’24)](https://iicser.org/ACR24/index.html)
+* **Program Committee (ACR 2024)**
+   * [The 2024 International Conference on Advances in Computing Research](https://iicser.org/ACR24/index.html)
 
-* **IPCAI Award Panel (2023)**
-   * [The 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2023)](https://www.ipcai.org/home)
+* **IPCAI Award Panel (IPCAI 2023)**
+   * [The 14th International Conference on Information Processing in Computer-Assisted Interventions](https://www.ipcai.org/home)
 
-* **Program Committee (2023)**
-   * [The 2023 International Conference on Advances in Computing Research (ACR’23)](https://easychair.org/cfp/ACR23)
+* **Program Committee (ACR 2023)**
+   * [The 2023 International Conference on Advances in Computing Research](https://easychair.org/cfp/ACR23)
 
-* **Local Organizing Committee (2023)**
-   * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications (MeTrApp 2023)](https://metrapp2023.sciencesconf.org/)
+* **Local Organizing Committee (MeTrApp 2023)**
+   * [The 6th IFToMM International Conference on Mechanisms, Transmissions, and Applications](https://metrapp2023.sciencesconf.org/)
 
-* **Organizing Chair (2023)**
-   * [The IEEE International Conference on Development and Learning (ICDL 2023)](https://icdl2022.qmul.ac.uk/)
+* **Organizing Chair (ICDL 2023)**
+   * [The IEEE International Conference on Development and Learning](https://icdl2022.qmul.ac.uk/)
 
-* **Program Chair (2023)**
-   * [The 9th International Conference on Electrical Engineering, Control and Robotics (EECR 2023)](http://www.eecr.org/)
+* **Program Chair (EECR 2023)**
+   * [The 9th International Conference on Electrical Engineering, Control and Robotics](http://www.eecr.org/)
 
-* **Program Chair (2021/2022), Special Session Chair (2020)**
-   * [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](http://www.ieee-arm.org/)
+* **Program Chair (ICARM 2021/2022), Special Session Chair (ICARM 2020)**
+   * [IEEE International Conference on Advanced Robotics and Mechatronics](http://www.ieee-arm.org/)
 
 * **Lead Workshop Chair (2020)**
    * [IEEE IROS 2020 Invited Workshop: "Autonomous System Medicine"](https://sites.google.com/view/iros2020medicine/%E9%A6%96%E9%A1%B5)
