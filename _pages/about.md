@@ -35,7 +35,7 @@ redirect_from:
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
-        <li>October 30, 2025, I have been invited as a <span style="color:green;">Keynote Speaker</span> for the upcoming <a href="https://natureconferences.streamgo.live/autonomous-robotics/lobby">Nature Conference on Autonomous Robotics</a> to be held in Daejeon, South Korea (October 13–15, 2026).</li>
+        <li>October 30, 2025, I have been invited as a <span style="color:green;">Keynote Speaker</span> for the upcoming <a >Nature Conference</a> to be held in October 2026.</li>
         <li>December 18, 2024, I have been selected as a member of the <span style="color:green;">Early Career Advisory Board (ECAB)</span>  for the prestigious journal "<a href="https://www.sciencedirect.com/journal/control-engineering-practice">Control Engineering Practice</a>"(CEP).</li> 
         <li>November 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10742562">Exploring the Potential of Fuzzy Sets in Cyborg Enhancement: A Comprehensive Review</a>" accepted to IEEE Transactions on Fuzzy Systems!</li>
         <li>October 10, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot</a>" accepted to IEEE Transactions on Human-Machine Systems!</li>
