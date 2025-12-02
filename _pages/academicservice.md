@@ -58,6 +58,9 @@ author_profile: true
 
 ## Conference Organizing
 
+* **Program Chair (2026)**
+   * [The 2026 International Conference on Control, Robotics Engineering and Technology (CRET 2026)](https://www.cret.net/index.html)
+    
 * **Organizing Chair (2026)**
    * [The IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2026)](http://www.ieee-arm.org/)
      
