@@ -16,12 +16,14 @@ author_profile: true
 ## Journal Editorship
 1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
 2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
-3. **Advances in Mechanical Engineering** — Since 2024  
-4. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
-5. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023  
-6. **Frontiers in Neurorobotics** — 2021–2023  
-7. **Frontiers in Neuroscience** — 2021–2023  
-8. **Cognitive Computation and Systems** — Since 2020  
+3. **Advances in Mechanical Engineering** — Since 2024
+4. **Applied AI Letters** — Since 2025
+5. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
+6. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
+7. **Cognitive Computation and Systems** — Since 2020   
+8. **Frontiers in Neurorobotics** — 2021–2023  
+9. **Frontiers in Neuroscience** — 2021–2023  
+
 
 
 ## Guest Associate Editor
