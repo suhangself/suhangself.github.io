@@ -14,6 +14,7 @@ author_profile: true
 
 
 ## Journal Editorship
+1. **IEEE Transactions on Fuzzy Systems (TFS)** — Since 2026  
 1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
 2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
 3. **Advances in Mechanical Engineering** — Since 2024
