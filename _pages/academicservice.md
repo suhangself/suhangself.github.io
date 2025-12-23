@@ -33,7 +33,6 @@ author_profile: true
 3. **IEEE Robotics and Automation Letters (RA-L)**, Special Issue on Autonomous System in Robotic Surgery  
 4. **Robotica**, Special Issue on Advanced Robotics and Mechatronics  
 5. **Frontiers in Neurorobotics**, Horizons in Neurorobotics  
-6. **Frontiers in Robotics and AI**, Special Issue on Robot-Assisted Surgery  
 
 
 ## Conference Associate Editor
