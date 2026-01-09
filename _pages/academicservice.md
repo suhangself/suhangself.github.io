@@ -5,10 +5,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Editorship for Journals and Conferences
 <hr style="margin-top: -10px;">
 
-## Society e-Newsletter 
+## Society Service
+**[IEEE Robotics and Automation Society (RAS) Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,
+— Leading Chair (Since 2026)
 **IEEE SMC Society E-Newsletter**,
 — In charge of the *Academic Corner* (Since 2022)
 
