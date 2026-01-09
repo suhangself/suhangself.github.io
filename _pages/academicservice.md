@@ -8,7 +8,7 @@ author_profile: true
 <hr style="margin-top: -10px;">
 
 ## Society Service
-**[IEEE Robotics and Automation Society (RAS) Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,
+**[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,
 — Leading Chair (Since 2026)
 
 **[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**,
