@@ -8,8 +8,8 @@ author_profile: true
 <hr style="margin-top: -10px;">
 
 ## Society Service
-**[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,— Leading Chair (Since 2026)
-**[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**,— In charge of the *Academic Corner* (Since 2022)
+1. **[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,— Leading Chair (Since 2026)
+2. **[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**,— In charge of the *Academic Corner* (Since 2022)
 
 
 ## Journal Editorship
