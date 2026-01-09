@@ -8,23 +8,21 @@ author_profile: true
 <hr style="margin-top: -10px;">
 
 ## Society Service
-**[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,
-— Leading Chair (Since 2026)
-**[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**,
-— In charge of the *Academic Corner* (Since 2022)
+**[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**,— Leading Chair (Since 2026)
+**[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**,— In charge of the *Academic Corner* (Since 2022)
 
 
 ## Journal Editorship
 1. **IEEE Transactions on Fuzzy Systems (TFS)** — Since 2026  
-1. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
-2. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
-3. **Advances in Mechanical Engineering** — Since 2024
-4. **Applied AI Letters** — Since 2025
-5. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
-6. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
-7. **Cognitive Computation and Systems** — Since 2020   
-8. **Frontiers in Neurorobotics** — 2021–2023  
-9. **Frontiers in Neuroscience** — 2021–2023  
+2. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
+3. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
+4. **Advances in Mechanical Engineering** — Since 2024
+5. **Applied AI Letters** — Since 2025
+6. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
+7. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
+8. **Cognitive Computation and Systems** — Since 2020   
+9. **Frontiers in Neurorobotics** — 2021–2023  
+10. **Frontiers in Neuroscience** — 2021–2023  
 
 
 
