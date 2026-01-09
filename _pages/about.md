@@ -35,6 +35,7 @@ redirect_from:
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
+        <li>January 1, 2026, I was appointed as <strong>Leading Chair of the "<a href="https://natureconferences.streamgo.live/autonomous-robotics/lobby">IEEE RAS Technical Committee on Neuro-Robotics Systems</a>"</strong>, together with Prof. Tiago Falk (INRS-EMT, University of Quebec) and Prof. Giancarlo Ferrigno (Politecnico di Milano, Italy).</li>
         <li>October 30, 2025, I received an invitation to deliver an  Invited Talk at the upcoming "<a href="https://natureconferences.streamgo.live/autonomous-robotics/lobby">Nature Conference on Autonomous Robotics</a>", which will be held in October 2026 in Daejeon, South Korea.</li>
         <li>November 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10742562">Exploring the Potential of Fuzzy Sets in Cyborg Enhancement: A Comprehensive Review</a>" accepted to IEEE Transactions on Fuzzy Systems!</li>
         <li>October 10, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot</a>" accepted to IEEE Transactions on Human-Machine Systems!</li>
