@@ -12,7 +12,7 @@ author_profile: true
 2. **[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**— In charge of the *Academic Corner* 
 
 
-## Journal Editorship
+## Journal Associate Editor
 1. **IEEE Transactions on Fuzzy Systems (TFS)** — Since 2026  
 2. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
 3. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
