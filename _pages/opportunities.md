@@ -7,8 +7,6 @@ layout: single
 
 We regularly have openings for **PhD**, **interns**, and **visiting students**.
 
----
-
 {% assign items = site.opportunities | sort: "date" | reverse %}
 
 {% for op in items %}
