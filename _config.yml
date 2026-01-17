@@ -183,7 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  opportunities:
+    output: true
+    permalink: /opportunities/:path/
 
 # Defaults
 defaults:
