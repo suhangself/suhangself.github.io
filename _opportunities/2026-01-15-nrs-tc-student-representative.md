@@ -49,7 +49,7 @@ Applicants should submit **one single PDF** containing:
 - Cover letter describing motivation and relevant experience (maximum 1 page);
 - Supervisor support letter (maximum 1 page).
 
-### 👉 [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfw8p250TXkkn3JaQ_HYwiZkv6bQpngo7kFGzObzsgq-OFz1w/viewform)
+### 👉 [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSflYrZ1pV_u0J2mMfxRe1BxQL4O51i6YGLgCUHM4xOwLSGdQQ/viewform?usp=header)
 
 ---
 
