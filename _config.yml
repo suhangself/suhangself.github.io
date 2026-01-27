@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Hang (Ernest) Su"
   avatar           : "hangsu.jpeg"
-  bio              : "IEEE Senior Member <br>
+  bio              : "<span style='font-size:0.9em; color:#777;'>IEEE Senior Member</span><br>
                       IBISC Lab, UEVE <br>
                       University of Paris-Saclay"
   location         : "Paris, France"
