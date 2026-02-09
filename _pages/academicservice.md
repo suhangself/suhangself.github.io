@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Associate Editor
 1. **IEEE Transactions on Fuzzy Systems (TFS)** — Since 2026  
-2. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2022  
+2. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2023  
 3. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
 4. **Advances in Mechanical Engineering** — Since 2024
 5. **Applied AI Letters** — Since 2025
