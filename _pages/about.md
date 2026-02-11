@@ -28,14 +28,14 @@ redirect_from:
 
 <p>I am currently a Professor at the IBISC Lab, Université Paris-Saclay, Université Évry Paris-Saclay, France. My research focuses on robotics, human–robot interaction, exoskeletons, embodied intelligence, and AI. I have published more than 150 papers in international journals and conferences. My work has been recognized with awards including the Outstanding Interaction Paper at ICRA 2022, the Andrew P. Sage Best Transactions Paper Award (IEEE THMS, 2021), the Best Conference Paper in Advanced Robotics at ICARM 2020, and an ICRA Travel Award from the IEEE Robotics and Automation Society in 2019. I have been included in Stanford’s Top 2% Scientists for the past five years (2021–2025).</p>
 
-<p>Since January 2026, I have served as the leading Chair of the IEEE RAS Technical Committee on Neuro-Robotics Systems. At the same time, I contribute to the community through editorial service, including Associate Editor of the IEEE SMC Society eNewsletter and associate-editor roles with several IEEE Transactions jounrals and leading robotics conferences such as ICRA and IROS.</p>
+<p>Since January 2026, I have served as the co-Chair of the IEEE RAS Technical Committee on Neuro-Robotics Systems. At the same time, I contribute to the community through editorial service, including Associate Editor of the IEEE SMC Society eNewsletter and associate-editor roles with several IEEE Transactions jounrals and leading robotics conferences such as ICRA and IROS.</p>
 
 </div>
 
 <div class="recent-news">
     <h2>Recent News</h2>
     <ul>
-        <li>January 1, 2026, I was officially appointed as Leading Chair of the "<a href="http://www.ieee-nrs.org/index.php/membership/#">IEEE RAS Technical Committee on Neuro-Robotics Systems</a>", together with Prof. Tiago Falk (INRS-EMT, University of Quebec, Canada) and Prof. Giancarlo Ferrigno (Politecnico di Milano, Italy).</li>
+        <li>January 1, 2026, I was officially appointed as co-Chair of the "<a href="http://www.ieee-nrs.org/index.php/membership/#">IEEE RAS Technical Committee on Neuro-Robotics Systems</a>", together with Prof. Tiago Falk (INRS-EMT, University of Quebec, Canada) and Prof. Giancarlo Ferrigno (Politecnico di Milano, Italy).</li>
         <li>October 30, 2025, I received an invitation to deliver an  Invited Talk at the upcoming "<a href="https://natureconferences.streamgo.live/autonomous-robotics/lobby">Nature Conference on Autonomous Robotics</a>", which will be held in October 2026 in Daejeon, South Korea.</li>
         <li>November 1, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10742562">Exploring the Potential of Fuzzy Sets in Cyborg Enhancement: A Comprehensive Review</a>" accepted to IEEE Transactions on Fuzzy Systems!</li>
         <li>October 10, 2024, Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10709865">A Bioinspired Virtual Reality Toolkit for Robot-Assisted Medical Application: BioVRbot</a>" accepted to IEEE Transactions on Human-Machine Systems!</li>
