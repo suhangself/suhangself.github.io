@@ -9,7 +9,7 @@ author_profile: true
 
 ## Society Service
 1. **[IEEE RAS Technical Committee on Neuro-Robotics Systems](http://www.ieee-nrs.org/index.php/membership/#)**— Co-Chair
-2. **[IEEE Telepresence](https://telepresence.ieee.org/about/)**— Advisory Board Member
+2. **[IEEE Telepresence Community](https://telepresence.ieee.org/about/)**— Advisory Board Member
 3. **[IEEE SMC Society E-Newsletter](https://www.ieeesmc.org/publications/enewsletter/)**— In charge of the *Academic Corner* 
 
 
