@@ -60,6 +60,9 @@ author_profile: true
 
 ## Conference Organizing
 
+* **Program Chair (IEEE TELEPRESENCE 2026)**
+   * [IEEE TELEPRESENCE 2026](https://conf.telepresence.ieee.org/committee/)
+     
 * **Program Chair (CRET 2026)**
    * [The 2026 International Conference on Control, Robotics Engineering and Technology](https://www.cret.net/index.html)
     
