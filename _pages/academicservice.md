@@ -36,10 +36,11 @@ author_profile: true
 
 
 ## Conference Associate Editor
-1. **International Conference on Robotics and Automation (ICRA)** — Since 2021  
-2. **International Conference on Intelligent Robots and Systems (IROS)** — Since 2020  
-3. **IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)** — Since 2020  
-4. **IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)** — Since 2020  
+1. **International Conference on Intelligent Robots and Systems (IROS) 2026** —  Workshop Associate Editors (In Charge of Workshop proposals review process). 
+2. **International Conference on Robotics and Automation (ICRA)** — Since 2021  
+3. **International Conference on Intelligent Robots and Systems (IROS)** — Since 2020  
+4. **IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)** — Since 2020  
+5. **IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)** — Since 2020  
 
 
 
