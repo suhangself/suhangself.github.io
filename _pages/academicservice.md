@@ -17,13 +17,13 @@ author_profile: true
 1. **IEEE Transactions on Fuzzy Systems (TFS)** — Since 2026  
 2. **IEEE Transactions on Cognitive and Developmental Systems (TCDS)** — Since 2023  
 3. **IEEE Transactions on Automation Science and Engineering (TASE)** — Since 2022  
-4. **Advances in Mechanical Engineering** — Since 2024
 5. **Applied AI Letters** — Since 2025
 6. **Control Engineering Practice**, Early Career Advisory Board — Since 2024  
 7. **International Journal of Medical Robotics and Computer Assisted Surgery**, Editorial Advisory Board — Since 2023
-8. **Cognitive Computation and Systems** — Since 2020   
-9. **Frontiers in Neurorobotics** — 2021–2023  
-10. **Frontiers in Neuroscience** — 2021–2023  
+8. **Cognitive Computation and Systems** — Since 2020
+9. **Advances in Mechanical Engineering** — 2024-2026  
+10. **Frontiers in Neurorobotics** — 2021–2023  
+11. **Frontiers in Neuroscience** — 2021–2023  
 
 
 
