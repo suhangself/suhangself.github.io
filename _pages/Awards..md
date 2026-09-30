@@ -15,6 +15,7 @@ redirect_from:
 
 - Best Student Paper Award, WRC SARA 2026
 - Best Conference Paper Award, IEEE ICARM 2026
+- Second Prize (Humanoid Category, Team Award), Volting Cup, IEEE/RSJ IROS 2026
 - International Friendship Award, 2026 Beijing Humanoid Robot Half-Marathon
 - Top 2% of Scientists Worldwide by Stanford University, 2021~2025
 - World Robot Contest Top 10 Technological Innovation Achievements, World Robot Conference, WRC 2023
